@@ -50,12 +50,6 @@ models/
 *.h5
 *.ckpt
 
-# # Embeddings and processed data (large files - not tracked)
-# data/processed/
-# *.npy
-# *.npz
-# *.pkl
-# *.pickle
 
 # Snapshots & backups
 snapshots/
@@ -105,10 +99,7 @@ coverage.xml
 *.cover
 
 # Data directories (keep structure, ignore large files)
-# Note: data/courses/ JSON files ARE tracked (source data)
-# But processed embeddings and large files are NOT tracked
-data/embeddings/
-data/processed/
+
 
 # Qdrant data
 models/qdrant_store/
