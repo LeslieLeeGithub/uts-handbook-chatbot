@@ -4,7 +4,9 @@
 
 set -e  # Exit on error
 
-HANDBOOK_ROOT="/home/lesli/Data/Handbook"
+# Get the script directory and project root (parent of script location)
+SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+HANDBOOK_ROOT="${HANDBOOK_ROOT:-$SCRIPT_DIR}"
 cd "$HANDBOOK_ROOT"
 
 echo "=========================================="
@@ -55,15 +57,15 @@ print_step "1" "Setting up environment..."
 
 if command_exists conda; then
     echo "Using conda..."
-    if conda env list | grep -q "rag-ollama-qwen"; then
-        echo "Environment 'rag-ollama-qwen' exists. Activating..."
+    if conda env list | grep -q "SIG"; then
+        echo "Environment 'SIG' exists. Activating..."
         eval "$(conda shell.bash hook)"
-        conda activate rag-ollama-qwen
+        conda activate SIG
     else
         echo "Creating conda environment..."
         conda env create -f env-rag-ollama-qwen.yml
         eval "$(conda shell.bash hook)"
-        conda activate rag-ollama-qwen
+        conda activate SIG
     fi
 else
     echo "Using pip..."
