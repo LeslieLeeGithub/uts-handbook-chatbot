@@ -1,0 +1,90 @@
+{
+  "course_code": "C10386",
+  "course_name": "Bachelor of Economics Bachelor of Laws",
+  "credit_points": "240 Credit points",
+  "cricos_code": "092380K",
+  "overview": "This course equips students with an understanding of the interconnected relationship between financial systems and the law. Course content emphasises skills and knowledge in legal theory and practice, as well as the analytical and quantitative capabilities required to respond effectively to economic challenges.\n\nStudents study the fundamentals of the law, satisfying the academic requirements for admission to practise law in NSW, combined with econometrics, macroeconomics and microeconomics subjects as they relate to practical policy.\n\nSpecialist skills are built through electives and majors, such as the tech-driven Legal Futures and Technology major. This course is aimed at analytical thinkers with a passion for translating theory into practice. Hands-on study, including capstones and internships, is a key component of this combined degree.",
+  "awards": [
+    "Bachelor of Economics (BEcon) Bachelor of Laws (LLB)"
+  ],
+  "faculty": [
+    "Law",
+    "Business"
+  ],
+  "study_level": "Undergraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "5 Year(s)",
+  "duration_parttime": null,
+  "duration_sessions": "10",
+  "course_fee": "22750",
+  "course_intake": "Feb/ Jul",
+  "uac_codes": [
+    "609015",
+    "Autumn Session"
+  ],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "This course satisfies the requirements for admission to the Supreme Court of NSW as a lawyer, provided students complete a practical legal training program, such as the Graduate Certificate in Professional Legal Practice (C11232).",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Evaluate and apply a broad and coherent body of legal knowledge to demonstrate an understanding of the broader contexts in which legal issues arise, and the law operates. "
+    },
+    {
+      "number": 2,
+      "text": "Demonstrate professional integrity and accountability through the ability to analyse and respond to ethical challenges in legal practice. "
+    },
+    {
+      "number": 3,
+      "text": "Apply skills in legal research, critical analysis and evaluation to problems and questions in law to construct effective legal arguments. "
+    },
+    {
+      "number": 4,
+      "text": "Generate solutions to legal issues through effective collaboration and communicate accurately and persuasively with a variety of audiences. "
+    },
+    {
+      "number": 5,
+      "text": "Apply knowledge and skills to develop professional capabilities to work effectively with and for Indigenous peoples and communities across the law profession. "
+    },
+    {
+      "number": 6,
+      "text": "Critically analyse economic problems in Australian and global society using and justifying appropriate economic concepts and frameworks. "
+    },
+    {
+      "number": 7,
+      "text": "Communicate information clearly in a form appropriate for its audience. "
+    },
+    {
+      "number": 8,
+      "text": "Demonstrate ability to work independently and with others as a member of a team to achieve an agreed goal. "
+    },
+    {
+      "number": 9,
+      "text": "Analyse and discuss the intended and unintended effects of economic decisions on social welfare, equity and the environment. "
+    },
+    {
+      "number": 10,
+      "text": "Combine economic analysis, data and econometric techniques to address typical complex problems faced by economists in diverse work environments. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "Inherent (essential) requirements are academic and non-academic requirements that are essential to the successful completion of a course.\n\nProspective and current students should carefully read the Inherent (Essential) Requirements Statement below and consider whether they might experience challenges in successfully completing this course. This Statement should be read in conjunction with the UTS Student Rules.\n\nProspective or current student concerned about their ability to meet these requirements should discuss their concerns with the Academic Liaison Officer in their faculty or school and/or UTS Accessibility Service on 9514 1177 or at accessibility@uts.edu.au.\n\nUTS will make reasonable adjustments to teaching and learning, assessment, professional experiences, course related work experience and other course activities to facilitate maximum participation by students with disabilities, carer responsibilities, and religious or cultural obligations in their courses.\n\nFor course specific information see the Faculty of Law Inherent (Essential) Requirements Statement.",
+  "study_plans": [
+    {
+      "name": "Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/8a6da767c3feee50020e061ad00131f9"
+    }
+  ],
+  "notes": "None",
+  "admission_requirements": "Applicants must have completed an Australian Year 12 qualification, Australian Qualifications Framework Diploma, or equivalent Australian or overseas qualification at the required level.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): 91; Admission requirements for Chinese students (Gaokao score out of 750): 543; Admission requirements for students with GCE A Levels: 12; Admission requirements for Hong Kong students (HKDSE): 20; Admission requirements for Indian students (AISSC): 16.5; Admission requirements for Indian students (ISC): 90; Admission requirements for students with IB or Predicted IB: 33/38 ; Admission requirements for Malaysian students (STPM with 3 AL Subjects): 16; Admission requirements for Singaporean students (A Level): 12; Admission requirements for USA students (SAT 1): 1270; Admission requirements for UTS Foundation Studies students: 7.6",
+  "career_options": "Career options include legal adviser within a government department, lawyer in corporate and commercial sector, mergers and acquisitions, property, intellectual property, industry, consulting, industrial relations, international relations, media and environmental studies.",
+  "course_structure": "The course comprises a total of 240 credit points, allowing students to graduate with the separate degrees of Bachelor of Economics and Bachelor of Laws. The study components for course completion are as follows.\n\nThe law component of 144 credit points is made up of:\n\nThe economics component of 96 credit points comprises:",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c10386.html",
+    "crawled_at": "2025-11-10T03:30:59.404777",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

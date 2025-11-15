@@ -1,0 +1,119 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Environment & config
+.env
+.env.local
+.env.*.local
+env/
+local/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.conda/
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Models & binaries (NOT tracked - user must download separately)
+models/
+!models/.gitkeep
+*.bin
+*.safetensors
+*.pt
+*.pth
+*.onnx
+*.h5
+*.ckpt
+
+# # Embeddings and processed data (large files - not tracked)
+# data/processed/
+# *.npy
+# *.npz
+# *.pkl
+# *.pickle
+
+# Snapshots & backups
+snapshots/
+*.bak
+*.backup
+*.tmp
+*.swp
+
+# Generated config files 
+models/qdrant_config.yaml
+*.yaml.bak
+
+# IDE & Editor
+*.swp
+*.swo
+*~
+.DS_Store
+.vscode/
+.idea/
+*.code-workspace
+.project
+.pydevproject
+.settings/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# OS files
+Thumbs.db
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.hypothesis/
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+
+# Data directories (keep structure, ignore large files)
+# Note: data/courses/ JSON files ARE tracked (source data)
+# But processed embeddings and large files are NOT tracked
+data/embeddings/
+data/processed/
+
+# Qdrant data
+models/qdrant_store/
+models/qdrant/
+
+# Ollama data
+models/ollama_store/
+models/ollama/

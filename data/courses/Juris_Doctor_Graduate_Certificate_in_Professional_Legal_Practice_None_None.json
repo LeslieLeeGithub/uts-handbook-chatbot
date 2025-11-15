@@ -1,0 +1,70 @@
+{
+  "course_code": "C04320",
+  "course_name": "Juris Doctor Graduate Certificate in Professional Legal Practice",
+  "credit_points": "162 Credit points",
+  "cricos_code": "092803C",
+  "overview": "This course is the only integrated law and Practical Legal Training (PLT) degree in Sydney, and meets both the academic and practical requirements for admission to practise law in NSW. Like the standard Juris Doctor, this course is an Australian Qualifications Framework Level 9 master's degree that builds knowledge and experience in fundamental legal theory.\n\nStudents engage with industry-informed, academically rigorous and highly practical courses, choosing from flexible learning options that include day and evening classes (core subjects), block study (selected subjects) and online learning (electives), as well as selected recorded lectures and podcasts. In addition to standard part-time and full-time study modes, students can fast-track their progress by enrolling in Summer sessions to complete the degree in just three years.",
+  "awards": [
+    "Juris Doctor (JD) Graduate Certificate in Professional Legal Practice (GradCertProfLegalPrac)"
+  ],
+  "faculty": [
+    "Law"
+  ],
+  "study_level": "Postgraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "3 Year(s)",
+  "duration_parttime": "5 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "This course is accredited by the Legal Profession Admission Board (LPAB) of the Supreme Court of NSW. The course satisfies both the academic and practical legal training requirements for admission as a lawyer to the Supreme Court of NSW.",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "An advanced and integrated understanding of a complex body of legal knowledge, including the Australian legal system, social justice, cultural and international contexts, the principles and values of ethical practice, and contemporary developments in law and its professional practice "
+    },
+    {
+      "number": 2,
+      "text": "An advanced and integrated capacity to value and promote honesty, integrity, accountability, public service and ethical standards, including an understanding of approaches to ethical decision-making, the rules of professional responsibility, an ability to reflect upon and respond to ethical challenges in practice, and a developing ability to engage in the profession of law and to exercise professional judgment "
+    },
+    {
+      "number": 3,
+      "text": "A capacity to think critically, strategically and creatively, including an ability to identify and articulate complex legal issues, apply reasoning and research to generate appropriate theoretical and practical responses, and demonstrate sophisticated cognitive and creative skills in approaching complex legal issues and generating appropriate responses "
+    },
+    {
+      "number": 4,
+      "text": "Well-developed cognitive and practical skills necessary to identify, research, evaluate and synthesise relevant factual, legal and policy issues and demonstrate intellectual and practical skills necessary to justify and interpret theoretical propositions, legal methodologies, conclusions and professional decisions "
+    },
+    {
+      "number": 5,
+      "text": "Effective and appropriate professional communication skills, including highly effective use of the English language, an ability to inform, analyse, report and persuade using an appropriate medium and message and an ability to respond appropriately "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "Inherent (essential) requirements are academic and non-academic requirements that are essential to the successful completion of a course.\n\nProspective and current students should carefully read the Inherent (Essential) Requirements Statement below and consider whether they might experience challenges in successfully completing this course. This Statement should be read in conjunction with the UTS Student Rules.\n\nProspective or current student concerned about their ability to meet these requirements should discuss their concerns with the Academic Liaison Officer in their faculty or school and/or UTS Accessibility Service on 9514 1177 or at accessibility@uts.edu.au.\n\nUTS will make reasonable adjustments to teaching and learning, assessment, professional experiences, course related work experience and other course activities to facilitate maximum participation by students with disabilities, carer responsibilities, and religious or cultural obligations in their courses.\n\nFor course specific information see the Faculty of Law Inherent (Essential) Requirements Statement.",
+  "study_plans": [
+    {
+      "name": "Autumn commencing, full time PLT A",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/07fcb15047e7a610413994ed036d4325"
+    },
+    {
+      "name": "Autumn commencing, full time PLT B",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/b15d795047e7a610413994ed036d439f"
+    }
+  ],
+  "notes": "None",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree, or an equivalent or higher qualification, or submitted other evidence of general and professional qualifications that demonstrates potential to pursue graduate studies.\n\nFor this course the equivalent qualification required is a bachelor's degree in a discipline other than law or a law qualification from an overseas jurisdiction.\n\nIf an applicant does not formally meet the selection criteria but the Faculty deems the applicant to be eligible based on evidence of prior learning and demonstrated capability, the Faculty reserves the right to make an offer to the appropriate course.\n\nApplicants may be asked to provide additional information to assist in the assessment of their application for admission.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Career options include, but are not limited to, lawyer within a private firm, corporation, government department or community law centre, regulatory affairs and policy adviser in the public or private sector or legal specialisation related to students' previous degree or enhanced career options within an existing professional sphere.",
+  "course_structure": "The course comprises a total of 162 credit points. The study components for course completion are as follows:",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c04320.html",
+    "crawled_at": "2025-11-10T15:13:14.214280",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

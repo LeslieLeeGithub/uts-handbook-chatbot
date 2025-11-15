@@ -1,0 +1,110 @@
+{
+  "course_code": "C10347",
+  "course_name": "Bachelor of Advanced Science",
+  "credit_points": "144 Credit points",
+  "cricos_code": "084270E",
+  "overview": "The Bachelor of Advanced Science is no ordinary science degree. Designed for high achievers, it equips students with expertise in one of three disciplines at the forefront of contemporary scientific endeavour. Whether they’re working towards careers in medicine, or they want to learn at the cutting edge of pharmaceutical or quantum sciences, students emerge ready to respond to the complex challenges that are shaping their future profession.\n\nWhy UTS Science?\n\nUTS Science, one of Australia’s leading university science faculties, is committed to scientific advancement that creates a more sustainable world. When students study with UTS, they join a university that delivers global impact in STEM education and research and a faculty that produces scientists with the power to transform the profession.\n\nCourse features\n\nStudents can choose from the following three majors:",
+  "awards": [
+    "Bachelor of Advanced Science in (name of Science major) (BAdvSc)"
+  ],
+  "faculty": [
+    "Science"
+  ],
+  "study_level": "Undergraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "3 Year(s)",
+  "duration_parttime": "6 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [
+    "607064",
+    "Quantum Technology",
+    "Autumn Session, Spring Session607063",
+    "Pre-Medicine",
+    "Autumn Session, Spring Session607061",
+    "Pharmaceutical Sciences",
+    "Autumn Session, Spring Session"
+  ],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Explain how the applications of scientific disciplinary knowledge can be integrated as advances relevant to different scientific topics. "
+    },
+    {
+      "number": 2,
+      "text": "Design scientific experiments to collect, accurately record data that can be critically analysed and applied to real-world scientific questions. "
+    },
+    {
+      "number": 3,
+      "text": "Evaluate ethical constraints and limitations of data collection and analysis whilst using appropriate scientific approaches to solve global problems and engage in decision making. "
+    },
+    {
+      "number": 4,
+      "text": "Reflect upon, independently evaluate, and critically appraise current sources of information from various disciplines to develop innovative solutions to real world problems. "
+    },
+    {
+      "number": 5,
+      "text": "Effectively communicate scientific knowledge to a range of audiences while using a variety of appropriate methods and media. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [
+    {
+      "name": "Pharmaceutical Sciences, Biology sub-major, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/596da3ab47f22650a31de422036d4344"
+    },
+    {
+      "name": "Pharmaceutical Sciences, Chemistry sub-major, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/916da3ab47f22650a31de422036d4371"
+    },
+    {
+      "name": "Pharmaceutical Sciences, Electives, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/5d6da3ab47f22650a31de422036d4384"
+    },
+    {
+      "name": "Pharmaceutical Sciences, Electives, Spring commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/d96de3ab47f22650a31de422036d4301"
+    },
+    {
+      "name": "Pre-Medicine, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/096da3ab47f22650a31de422036d433c"
+    },
+    {
+      "name": "Pre-Medicine, Spring commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/596da3ab47f22650a31de422036d43c2"
+    },
+    {
+      "name": "Quantum Technology, Engineering sub-major, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/d56da3ab47f22650a31de422036d438c"
+    },
+    {
+      "name": "Quantum Technology, Engineering sub-major, Spring commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/516da3ab47f22650a31de422036d43ec"
+    },
+    {
+      "name": "Quantum Technology, Quantum Computing and Communications sub-major, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/d16da3ab47f22650a31de422036d43ae"
+    },
+    {
+      "name": "Quantum Technology, Quantum Computing and Communications sub-major, Spring commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/196da3ab47f22650a31de422036d43ca"
+    }
+  ],
+  "notes": "None",
+  "admission_requirements": "Applicants must have completed an Australian Year 12 qualification, Australian Qualifications Framework Diploma, or equivalent Australian or overseas qualification at the required level.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "None",
+  "course_structure": "Students must complete 144 credit points, made up of a 102-credit-point major selection, 24 credit points of electives and 18 credit points of core subjects. Majors are available in: pre-medicine and pharmaceutical sciences;",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c10347.html",
+    "crawled_at": "2025-11-10T17:44:30.838039",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

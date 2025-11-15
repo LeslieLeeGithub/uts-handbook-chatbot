@@ -1,0 +1,71 @@
+{
+  "course_code": "C20060",
+  "course_name": "Diploma in Innovation",
+  "credit_points": "48 Credit points",
+  "cricos_code": "None",
+  "overview": "The Diploma in Innovation (C20060) at TD School is exclusive to UTS. The Diploma of teaches innovation, supports personal transformation and provides the hard skills needed to support the inventors and inventions of the future. Students come out of the Diploma in Innovation, with the hard skills to create and support sectoral and societal transformation. Graduates are able to fluently integrate ideas, across professional disciplines and are inventors of the future.\n\nAll UTS undergraduate students (with the exception of students concurrently enrolled in the Bachelor of Creative Intelligence and Innovation) can apply for the Diploma in Innovation upon admission in their chosen undergraduate degree. It is a complete degree program that runs in parallel to any undergraduate degree. The course is offered on a three-year, part-time basis, with subjects running in 3-week long intensive blocks in July, December and February sessions. Apply today at https://dipinn.uts.edu.au",
+  "awards": [
+    "Diploma in Innovation (DipInn)"
+  ],
+  "faculty": [
+    "TD",
+    "School"
+  ],
+  "study_level": "Undergraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": null,
+  "duration_parttime": "3 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Analyse and synthesise diverse perspectives and information to construct a holistic understanding of complex situations. "
+    },
+    {
+      "number": 2,
+      "text": "Evaluate, integrate and apply various methods to navigate and gain insights into complex challenges and systems. "
+    },
+    {
+      "number": 3,
+      "text": "Employ creative intelligence and methods to identify opportunities for innovative problem-solving and transformative outcomes. "
+    },
+    {
+      "number": 4,
+      "text": "Develop and refine proposals through co-design and iterative processes to test ideas and learn about system dynamics and constraints. "
+    },
+    {
+      "number": 5,
+      "text": "Engage professionally with stakeholders and apply ethical and intellectual positions to drive sustainable and entrepreneurial innovation in a collaborative manner. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "Inherent (essential) requirements are academic and non-academic requirements that are essential to the successful completion of a course.\n\nProspective and current students should carefully read the Inherent (Essential) Requirements Statement below and consider whether they might experience challenges in successfully completing this course. This Statement should be read in conjunction with the UTS Student Rules.\n\nProspective or current student concerned about their ability to meet these requirements should discuss their concerns with the Academic Liaison Officer in their faculty or school and/or UTS Accessibility Service on 9514 1177 or at accessibility@uts.edu.au.\n\nUTS will make reasonable adjustments to teaching and learning, assessment, professional experiences, course related work experience and other course activities to facilitate maximum participation by students with disabilities, carer responsibilities, and religious or cultural obligations in their courses.\n\nFor course specific information see the TD School Inherent (Essential) Requirements Statement.",
+  "study_plans": [
+    {
+      "name": "December commencing, Part time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/bbbb6b63c3feee50020e061ad001315d"
+    },
+    {
+      "name": "July commencing, Part time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/3bbb6b63c3feee50020e061ad0013158"
+    }
+  ],
+  "notes": "The Diploma in Innovation is not offered as a stand-alone degree and can only be undertaken alongside a UTS undergraduate bachelor's degree.",
+  "admission_requirements": "Applicants for admission must satisfy the selection criteria as specified by the faculty.\n\nAdmission is only open to UTS undergraduate coursework students. Students enrolled in the Bachelor of Creative Intelligence and Innovation are ineligible for simultaneous admission to the Diploma of Innovation.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Career paths include Chief Product Officer (CPO), Creative Producer, Transformation designer, Product designer, Industrial Designer and Innovator, Innovation and digital solutions analyst, Content and design thinking coordinator, Foresight and innovation analyst, Experience design consultant – UX (user experience), Researcher and designer, Chief Innovation Officer (CIO).\n\nGraduates hold roles in the following positions: Business Development (IoT), Chief Product Officer, Creative Producer, Founder, Industrial Designer and Innovator, Innovation and Invention Specialist, Management Consultant, Owner and Self-employed.\n\nMore strong industry relationships on the LinkedIn Page: https://www.linkedin.com/company/uts-diploma-in-innovation",
+  "course_structure": "Students must complete 48 credit points made up of 32 credit points of compulsory subjects and 16 credit points of electives (each 8 credit points).",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c20060.html",
+    "crawled_at": "2025-11-10T19:17:49.025113",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

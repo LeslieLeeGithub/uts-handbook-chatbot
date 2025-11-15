@@ -1,0 +1,81 @@
+{
+  "course_code": "C10457",
+  "course_name": "Bachelor of Mathematical Sciences",
+  "credit_points": "144 Credit points",
+  "cricos_code": "106661D",
+  "overview": "Mathematics sits at the foundation of everyday life. The Bachelor of Mathematical Sciences prepares students to harness the power of mathematics to drive quantifiable change in the wider world. More than just a theoretical degree, it equips students with in-demand skills that are highly sought after not only in fields traditionally aligned with mathematics but in contemporary industries seeking insights from increasingly complex numerical information.\n\nStudents can choose from one of two majors:\n\nWhy UTS Science?\n\nAs one of Australia’s leading university science faculties, UTS Science is committed to teaching and research that creates a more sustainable world. When students enrol at UTS, they join a university that delivers global impact in STEM education and research and a faculty that produces scientists with the power to transform the profession, the globe and society.",
+  "awards": [
+    "Bachelor of Mathematical Sciences (BMathSc)"
+  ],
+  "faculty": [
+    "Science"
+  ],
+  "study_level": "Undergraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "3 Year(s)",
+  "duration_parttime": "6 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [
+    "607081",
+    "Autumn Session, Spring Session"
+  ],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Demonstrate theoretical and technical knowledge of mathematical sciences including calculus, discrete mathematics, linear algebra, probability, statistics and quantitative management. "
+    },
+    {
+      "number": 2,
+      "text": "Evaluate mathematical and statistical approaches to problem solving, analysis, application, and critical thinking to make mathematical arguments, and conduct experiments based on analytical, numerical, statistical, algorithms to solve new problems. "
+    },
+    {
+      "number": 3,
+      "text": "Work autonomously or in teams to demonstrate professional and responsible analysis of real-life problems that require application of mathematics and statistics. "
+    },
+    {
+      "number": 4,
+      "text": "Design creative solutions to contemporary mathematical sciences-related issues by incorporating innovative methods, reflective practices and self-directed learning. "
+    },
+    {
+      "number": 5,
+      "text": "Use succinct and accurate presentation of reasoning and conclusions to communicate mathematical solutions, and their implications, to a variety of audiences, using a variety of approaches. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [
+    {
+      "name": "Pure and Applied Mathematics, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/52eaef2f47b22650a31de422036d4364"
+    },
+    {
+      "name": "Pure and Applied Mathematics, Spring commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/52eaef2f47b22650a31de422036d438c"
+    },
+    {
+      "name": "Statistics and Data Science, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/c6eaef2f47b22650a31de422036d4337"
+    },
+    {
+      "name": "Statistics and Data Science, Spring commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/d6eaef2f47b22650a31de422036d4384"
+    }
+  ],
+  "notes": "None",
+  "admission_requirements": "Applicants must have completed an Australian Year 12 qualification, Australian Qualifications Framework Diploma, or equivalent Australian or overseas qualification at the required level.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Career options include business analyst, data analyst, data scientist, financial analyst, market analyst, mathematical modeller, programmer in diverse industries including the financial sector, marketing, non-profit, and government at local, state and federal levels, quantitative analyst (finance), statistician.",
+  "course_structure": "Students must complete 144 credit points made up of 84 credit points of core subjects, a 36-credit-point major and 24 credit points of electives.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c10457.html",
+    "crawled_at": "2025-11-10T17:55:25.820001",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

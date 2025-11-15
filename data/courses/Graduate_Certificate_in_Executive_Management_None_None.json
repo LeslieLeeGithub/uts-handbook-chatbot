@@ -1,0 +1,57 @@
+{
+  "course_code": "C11338",
+  "course_name": "Graduate Certificate in Executive Management",
+  "credit_points": "24 Credit points",
+  "cricos_code": "None",
+  "overview": "The Graduate Certificate in Executive Management provides essential skills and knowledge used in the general management of a business unit or enterprise.\n\nThe Certificate has been designed for busy professionals who seek to upskill in essential business and management domains while having the flexibility of a fully online delivery. All course content can be applied in professional work contexts so that students can learn and directly benefit.",
+  "awards": [
+    "Graduate Certificate in Executive Management (GradCertExecM)"
+  ],
+  "faculty": [
+    "Business"
+  ],
+  "study_level": "Postgraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": null,
+  "duration_parttime": "1 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Apply contemporary professional business skills and well-developed judgement to generate creative solutions to complex problems "
+    },
+    {
+      "number": 2,
+      "text": "Communicate ideas and strategies effectively and demonstrate interpersonal awareness of self and others "
+    },
+    {
+      "number": 3,
+      "text": "Appraise diverse moral and ethical dimensions to critically evaluate current and future business strategies "
+    },
+    {
+      "number": 4,
+      "text": "Apply business concepts and practices with professional integrity to evaluate businesses for transformation "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [],
+  "notes": "This course is only available to international students, and only by distance mode. International students are not eligible for a student visa to study this course in Australia.",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree, or an equivalent or higher qualification, or submitted other evidence of general and professional qualifications that demonstrates potential to pursue graduate studies.\n\nProfessional Experience Requirement: At least six years full-time, or equivalent part-time, professional work experience.\n\nThe relevant work experience must be demonstrated through a C.V. and a Statement of Service, confirming the dates of employment, and the position held within the organisation.\n\nInterview Requirement: Attend an interview with the director of the EMBA.\n\nApplicants without an academic qualification may be considered for the Graduate Certificate with eight years of full-time, or equivalent npart-time, senior management work experience and a general capacity to undertake tertiary education.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 7.0 overall with a writing score of 6.5; or TOEFL: paper based: 584-609 overall, internet based: 94-101 overall with a writing score of 24; or AE6: Pass; or PTE: 65-72 overall with a writing score 58; or C1A/C2P: 185-190 with a writing score 176.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Career options include management-level positions in private, public and non-profit organisations, start-ups and SMEs.",
+  "course_structure": "Students must complete a total of 24 credit points, comprising eight core disciplinary-based subjects delivered online (24 credit points).",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c11338.html",
+    "crawled_at": "2025-11-10T18:56:34.698337",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "course_code": "C11021",
+  "course_name": "Graduate Certificate in Management",
+  "credit_points": "24 Credit points",
+  "cricos_code": "None",
+  "overview": "The Graduate Certificate in Management introduces students to post-graduate studies toward an enterprise-wide view of organisations embedded in a global society, integrating views that range from back-office/shop-floor to boardroom to town-hall meetings. Such a view is deemed essential to prizing the work, people, places and processes needed in today’s highly competitive and publicly scrutinized global business environment for an increasingly uncertain future.\n\nAn innovative structure provides students with an introduction to the skills, attitudes and professional capabilities involved in managing and leading across industry sectors.",
+  "awards": [
+    "Graduate Certificate in Management (GradCertM)"
+  ],
+  "faculty": [
+    "Business"
+  ],
+  "study_level": "Postgraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": null,
+  "duration_parttime": "1 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Formulate innovative solutions that respond to community and business needs within a management context "
+    },
+    {
+      "number": 2,
+      "text": "Communicate information clearly to a diverse range of stakeholders "
+    },
+    {
+      "number": 3,
+      "text": "Work effectively in teams and deliver agreed project outcomes "
+    },
+    {
+      "number": 4,
+      "text": "Implement decisions to create positive outcomes for society and the environment as publicly accountable managers "
+    },
+    {
+      "number": 5,
+      "text": "Use management concepts and technological skills to form socially responsible judgments to undertake professional management practice "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [
+    {
+      "name": "Autumn commencing, part time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/9a947799c376e250020e061ad00131b8"
+    },
+    {
+      "name": "Spring commencing, part time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/9a947799c376e250020e061ad00131b4"
+    }
+  ],
+  "notes": "This course is not offered to international students.",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree, or an equivalent or higher qualification, or submitted other evidence of general and professional qualifications that demonstrates potential to pursue graduate studies.\n\nAll applicants who do not meet the academic requirement may still be considered on the basis of:\n\nThe relevant work experience must be demonstrated through a C.V. and a Statement of Service confirming the dates of employment, and the position held within the organisation.\n\nThe English proficiency requirement for local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Career options include entry level management positions in industry or government.",
+  "course_structure": "Students must complete a total of 24 credit points made up of four core subjects.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c11021.html",
+    "crawled_at": "2025-11-10T18:00:45.121222",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

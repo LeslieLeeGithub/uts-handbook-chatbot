@@ -1,0 +1,62 @@
+{
+  "course_code": "C11277",
+  "course_name": "Graduate Certificate in Genetic Counselling",
+  "credit_points": "24 Credit points",
+  "cricos_code": "098054J",
+  "overview": "Students enrolled in the Master of Genetic Counselling (C04374) can apply to transfer into this exit-only course after completing 24 credit points of specified study and gain a graduate certificate qualification.",
+  "awards": [
+    "Graduate Certificate in Genetic Counselling (GradCertGenCouns)"
+  ],
+  "faculty": [
+    "Graduate",
+    "School",
+    "of",
+    "Health"
+  ],
+  "study_level": "Postgraduate",
+  "location": [],
+  "duration_fulltime": null,
+  "duration_parttime": "1 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "Students who exit the Master of Genetic Counselling (C04374) with a Graduate Certificate in Genetic Counselling are not eligible to to be on the HGSA register of genetic counsellors or to undertake certification as a genetic counsellor.",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Describe evidence-based genetic and genomic health care. "
+    },
+    {
+      "number": 2,
+      "text": "Apply self-awareness through self-reflection relating to their work. "
+    },
+    {
+      "number": 3,
+      "text": "Evaluate and synthesise knowledge and skills related to genetic counselling and apply professional capabilities including relationship building, communication and reflective practice to work effectively with and for Indigenous Australians. "
+    },
+    {
+      "number": 4,
+      "text": "Engage in appropriate and effective relationships with people from diverse communities whilst demonstrating awareness of cultural and societal diversity and disparity in healthcare. "
+    },
+    {
+      "number": 5,
+      "text": "Provide explanations about genetics and genomics to a peer audience. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [],
+  "notes": "This is an exit-only course. There is no direct admission to it. Current UTS students may be able to submit an Internal Course Transfer (Graduating) application to exit with this course. See the Course transfer page for further details.",
+  "admission_requirements": "None; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "None",
+  "course_structure": "This course comprises a total of 24 credit points.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c11277.html",
+    "crawled_at": "2025-11-10T18:36:38.040980",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

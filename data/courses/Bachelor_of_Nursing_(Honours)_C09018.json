@@ -1,0 +1,61 @@
+{
+  "course_code": "C09018",
+  "course_name": "Bachelor of Nursing (Honours)",
+  "credit_points": "48 Credit points",
+  "cricos_code": "015936F",
+  "overview": "This course provides the opportunity for eligible graduates of the Bachelor of Nursing to extend their skills and understanding of the research process. It emphasises the reciprocal relationship between nursing research and the contexts of nursing practice.\n\nThis course provides Bachelor of Nursing graduates with the opportunity to develop training in clinically focused research. The course deepens students' understanding of the importance of research in nursing.",
+  "awards": [
+    "Bachelor of Nursing (Honours)"
+  ],
+  "faculty": [
+    "Health"
+  ],
+  "study_level": "Undergraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "1 Year(s)",
+  "duration_parttime": "2 Year(s)",
+  "duration_sessions": "2",
+  "course_fee": "22460",
+  "course_intake": "Feb/ Jul",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Demonstrate an ability to plan and provide safe, holistic and compassionate person-centred nursing care in partnership with individuals, respecting their lived experiences and advocating for their needs and cultural values. "
+    },
+    {
+      "number": 2,
+      "text": "Critically analyse and apply appropriate professional codes and standards, demonstrating accountability to and responsibility for ethical, equitable, sustainable and legal nursing practice and research. "
+    },
+    {
+      "number": 3,
+      "text": "Evaluate and apply a range of best available evidence and research methodology, including clinical expertise and individual needs, values and preferences to inform nursing practice and research. "
+    },
+    {
+      "number": 4,
+      "text": "Critically reflect on and learn from previous experiences to improve practice in addressing novel and emergent healthcare problems. "
+    },
+    {
+      "number": 5,
+      "text": "Effectively communicate collaborate, and disseminate research findings with individuals, peers and other professionals to inform practices and facilitate person-centred care. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [],
+  "notes": "None",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree in a relevant discipline at an appropriate level.\n\nAll applicants must be eligible to graduate from a Bachelor of Nursing program from UTS or another tertiary institution at the time of application (followed by successful completion). Applicants must be registered as a nurse in their country of citizenship or residence at the time of enrolment (exemptions to this rule may be sought from the Bachelor (Honours) Selection Committee in exceptional circumstances).\n\nAll applicants must have a weighted average mark or grade point average of credit or higher for their bachelor's degree. Applicants are admitted to the honours course only if appropriately qualified academic members of UTS: Health staff are available for supervision of the dissertation component.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): n/a ; Admission requirements for Chinese students (Gaokao score out of 750): n/a ; Admission requirements for students with GCE A Levels: n/a ; Admission requirements for Hong Kong students (HKDSE): n/a ; Admission requirements for Indian students (AISSC): n/a ; Admission requirements for Indian students (ISC): n/a ; Admission requirements for students with IB or Predicted IB: n/a ; Admission requirements for Malaysian students (STPM with 3 AL Subjects): n/a ; Admission requirements for Singaporean students (A Level): n/a ; Admission requirements for USA students (SAT 1): n/a ; Admission requirements for UTS Foundation Studies students: n/a",
+  "career_options": "Career options that graduates may undertake include registered nurse in a clinical specialty supported by their research project work, such as critical care, or roles such as nurse educator or manager. However, graduates are also well-prepared to undertake postgraduate research degrees or begin a career as a researcher.",
+  "course_structure": "The course comprises a total of 48 credit points. Students complete one 12-credit-point subject and two 18-credit-point Dissertation subjects.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c09018.html",
+    "crawled_at": "2025-11-10T04:29:03.326483",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

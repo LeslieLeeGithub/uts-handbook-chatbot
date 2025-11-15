@@ -1,0 +1,73 @@
+{
+  "course_code": "C10327",
+  "course_name": "Bachelor of Information Technology Bachelor of Creative Intelligence and Innovation",
+  "credit_points": "240 Credit points",
+  "cricos_code": "079757B",
+  "overview": "This course offers a sound education in all aspects of computing and information technology for students who intend to make a career in the profession.\n\nTaking a transdisciplinary approach, the Bachelor of Creative Intelligence and Innovation utilises multiple perspectives from diverse fields, integrating a range of industry experiences, real-world projects and self-initiated proposals, equipping graduates to address the wicked problems, complex challenges and untapped opportunities in today's world.\n\nThis course adopts a practice-based approach to IT education and the course content is a mix of theory and practice. As well as gaining strong technical skills in IT, students gain skills in business analysis, problem-solving, teamwork and communication. Employers look for graduates with industry experience and students are exposed to real IT problems.\n\nBy focusing on the high-level conceptual thinking and problem-solving practices that lead to the development of innovative, creative and entrepreneurial outcomes, students of the combined degree also gain leading edge capabilities that are highly valued in the globalised world, including dealing with critical and creative thinking, invention, complexity, innovation, future scenario building and entrepreneurship, and the ability to work on their across disciplines. These creative intelligence competencies enable graduates to navigate in a rapidly changing world.",
+  "awards": [
+    "Bachelor of Information Technology (BIT) Bachelor of Creative Intelligence and Innovation (BCIInn)"
+  ],
+  "faculty": [
+    "Engineering",
+    "and",
+    "Information",
+    "TechnologyTD",
+    "School"
+  ],
+  "study_level": "Undergraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "4 Year(s)",
+  "duration_parttime": null,
+  "duration_sessions": "8*",
+  "course_fee": "25200",
+  "course_intake": "Feb",
+  "uac_codes": [
+    "609565",
+    "Autumn Session"
+  ],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "Graduates are eligible to apply for professional-level membership of the Australian Computer Society.",
+  "learning_outcomes": [
+    {
+      "number": 7,
+      "text": "Identify and evaluate complex challenges by analysing system dynamics, constraints, and potential leverage points, using disciplinary perspectives, evidence, and diverse viewpoints. (BCIInn) "
+    },
+    {
+      "number": 8,
+      "text": "Identify, create, and employ a range of appropriate creative intelligence methods and boundary-crossing methodologies to construct and solve problems and generate transformative possibilities. (BCIInn) "
+    },
+    {
+      "number": 9,
+      "text": "Practice mutual, responsible value creation, including the implementation of sustainable and entrepreneurial innovation. (BCIInn) "
+    },
+    {
+      "number": 10,
+      "text": "Communicate transdisciplinary ideas and solutions succinctly and persuasively using appropriate modalities. (BCIInn) "
+    },
+    {
+      "number": 11,
+      "text": "Develop reflexive connection with an evolving self, demonstrating ethical and intellectual positions that reflect well-considered values that enable greater purpose and inclusivity. (BCIInn) "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [
+    {
+      "name": "Business Information Systems major, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/95c7d975473aea10a31de422036d4315"
+    }
+  ],
+  "notes": "None",
+  "admission_requirements": "Applicants must have completed an Australian Year 12 qualification, Australian Qualifications Framework Diploma, or equivalent Australian or overseas qualification at the required level.\n\nCurrent school leavers are advised to complete the Year 12 Engineering and IT Questionnaire. The questionnaire allows applicants to demonstrate their strong motivation to study engineering or IT at UTS and may assist applicants whose ATAR falls short of the required cut-off by up to three points.\n\nNon-current school leavers are advised to complete the employment question on their UAC application as adjustment factors may be applied on the basis of relevant work experience.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): 75; Admission requirements for Chinese students (Gaokao score out of 750): 471; Admission requirements for students with GCE A Levels: 8; Admission requirements for Hong Kong students (HKDSE): 15; Admission requirements for Indian students (AISSC): 11; Admission requirements for Indian students (ISC): 80; Admission requirements for students with IB or Predicted IB: 25/30 ; Admission requirements for Malaysian students (STPM with 3 AL Subjects): 8; Admission requirements for Singaporean students (A Level): 8; Admission requirements for USA students (SAT 1): 1120; Admission requirements for UTS Foundation Studies students: 6.6",
+  "career_options": "Depending on the major selected, career options include business analyst, IT project manager, network specialist, software developer, systems analyst or web developer.\n\nBy being creative thinkers, initiators of new ideas, scenario planners, global strategists, open network designers or sustainable futures innovators within their chosen field of study, graduates maximise the potential of their chosen profession, making them highly sought after with the ability to identify and develop solutions to some of the most complex issues that face their disciplines and society.",
+  "course_structure": "Students are required to complete 240 credit points, comprising:\n\nInformation Technology (96 credit points)\n\nThe sub-major(s) must be taken in a different field to that of the major.\n\nCreative Intelligence and Innovation (96 credit points)\n\nThe creative intelligence and innovation subjects are undertaken in accelerated form within July and Summer sessions during the first three years of study, and through one full year of study after completion of the professional degree. The Bachelor of Creative Intelligence and Innovation is not offered as a separate degree, but is completed only in combination with the professional degree program.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c10327.html",
+    "crawled_at": "2025-11-10T04:46:38.627877",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

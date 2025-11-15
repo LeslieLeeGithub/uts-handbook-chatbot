@@ -1,0 +1,55 @@
+{
+  "course_code": "C07144",
+  "course_name": "Graduate Diploma in Health Services Management",
+  "credit_points": "48 Credit points",
+  "cricos_code": "None",
+  "overview": "This is an intermediate-level course in health services management and aims to expand students' knowledge and future career opportunities. The course develops students' knowledge and skills, which leads to an enhanced capacity to plan and manage health services.\n\nGraduates of this course are exposed to academic and industry leaders who share their experience and knowledge to facilitate insight into the contemporary health service management environment.",
+  "awards": [
+    "Graduate Diploma in Health Services Management (GradDipHSM)"
+  ],
+  "faculty": [
+    "Health"
+  ],
+  "study_level": "Postgraduate",
+  "location": [],
+  "duration_fulltime": null,
+  "duration_parttime": "3 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Engage in ongoing personal and professional development through inquiry, critical thinking and reflective practice. "
+    },
+    {
+      "number": 2,
+      "text": "Apply knowledge and skills to address real-world problems in health and social care, informed by evidence. "
+    },
+    {
+      "number": 3,
+      "text": "Based on knowledge, communicate, collaborate and lead in health and social care to optimise individual and system outcomes. "
+    },
+    {
+      "number": 4,
+      "text": "Demonstrate awareness and understanding of socially responsible and ethical practice in health and social care. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [],
+  "notes": "This is an exit-only course. There is no direct admission to it. Current UTS students may be able to submit an Internal Course Transfer (Graduating) application to exit with this course. See the Course transfer page for further details.\n\nThis course is not offered to international students.",
+  "admission_requirements": "None; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Career options include positions in health authorities, hospitals, primary and community care, aged care services and other healthcare facilities in the public, private, not-for-profit, government and non-government health sectors.",
+  "course_structure": "Students must complete a total of 48 credit points, comprising six core subjects offered by UTS: Health, and two electives offered by UTS: Health and UTS: Business.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c07144.html",
+    "crawled_at": "2025-11-10T16:47:46.402133",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

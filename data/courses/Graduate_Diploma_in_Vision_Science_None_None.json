@@ -1,0 +1,63 @@
+{
+  "course_code": "C07141",
+  "course_name": "Graduate Diploma in Vision Science",
+  "credit_points": "48 Credit points",
+  "cricos_code": "098503M",
+  "overview": "Students enrolled in the Master of Orthoptics (C04299) can apply to transfer into this exit-only course after completing 48 credit points of specified study and gain a graduate diploma qualification.",
+  "awards": [
+    "Graduate Diploma in Vision Science (GradDipVisSc)"
+  ],
+  "faculty": [
+    "Graduate",
+    "School",
+    "of",
+    "Health"
+  ],
+  "study_level": "Postgraduate",
+  "location": [],
+  "duration_fulltime": "1 Year(s)",
+  "duration_parttime": "2 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Analyse and synthesise knowledge of health and vision sciences concepts and theory and apply skills of inquiry to support decision-making. "
+    },
+    {
+      "number": 2,
+      "text": "Collaborate effectively within teams and accurately communicate concepts in vision science to a wide variety of audiences. "
+    },
+    {
+      "number": 3,
+      "text": "Reflect on knowledge, attitudes and skills acquired for the evaluation and integration of emerging evidence into health practice. "
+    },
+    {
+      "number": 4,
+      "text": "Demonstrate ethical, compassionate, and respectful approaches to the practice of vision science, with an awareness of national and global health contexts. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [
+    {
+      "name": "Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/7f2a672b47b22650a31de422036d4352"
+    }
+  ],
+  "notes": "This is an exit-only course. There is no direct admission to it. Current UTS students may be able to submit an Internal Course Transfer (Graduating) application to exit with this course. See the Course transfer page for further details.",
+  "admission_requirements": "None; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "None",
+  "course_structure": "This course comprises a total of 48 credit points.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c07141.html",
+    "crawled_at": "2025-11-10T16:45:44.486883",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

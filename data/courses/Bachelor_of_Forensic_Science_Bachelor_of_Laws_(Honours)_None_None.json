@@ -1,0 +1,82 @@
+{
+  "course_code": "C09121",
+  "course_name": "Bachelor of Forensic Science Bachelor of Laws (Honours)",
+  "credit_points": "240 Credit points",
+  "cricos_code": "116592G",
+  "overview": "The Bachelor of Forensic Science Bachelor of Laws is offered jointly by UTS Law and UTS Science.\n\nThe Bachelor of Forensic Science prepares students for professional and specialist work in the discipline of forensic science. Students build a solid foundation of skills and knowledge in the enabling sciences, complemented by an in-depth understanding of forensic science in the context of their chosen discipline. Development of critical thinking and problem-solving skills is a focus of the degree, with graduates in high demand from a diverse range of industries and organisations.\n\nThe program provides full-time study for students wishing to obtain a professional legal qualification that satisfies the academic requirements only for admission as a lawyer together with forensic science.\n\nThis course provides students with a thorough understanding of how forensic science can solve and prevent crime. This is a hands-on course using world-class facilities that are modelled on operational laboratories.\n\nStudents can choose from four majors: biology, chemistry, crime scene investigation, and digital forensics. The course is well regarded, with strong links to industries such as the federal and state police services, national and international forensic institutions, and government laboratories.",
+  "awards": [
+    "Bachelor of Forensic Science (BForSc) Bachelor of Laws (Honours) (LLB(Hons))"
+  ],
+  "faculty": [
+    "Law",
+    "Science"
+  ],
+  "study_level": "Undergraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "5 Year(s)",
+  "duration_parttime": null,
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "This course satisfies the requirements for admission to the Supreme Court of NSW as a lawyer, provided students complete a practical legal training program, such as the Graduate Certificate in Professional Legal Practice (C11232).\n\nGraduates of the Bachelor of Forensic Science are eligible for membership of the Royal Australian Chemical Institute and the Australian and New Zealand Forensic Science Society.",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Evaluate and transform an advanced body of legal knowledge to demonstrate an understanding of the broader contexts in which legal issues arise, and the law operates. "
+    },
+    {
+      "number": 2,
+      "text": "Demonstrate professional integrity and accountability through the ability to critically analyse and respond to ethical challenges in legal practice. "
+    },
+    {
+      "number": 3,
+      "text": "Formulate appropriate responses to problems and questions in law and execute a piece of legal scholarship, using advanced skills in legal research, critical analysis and evaluation. "
+    },
+    {
+      "number": 4,
+      "text": "Generate solutions to complex legal issues through effective collaboration and communicate accurately and persuasively with a variety of audiences. "
+    },
+    {
+      "number": 5,
+      "text": "Critically reflect on ethical Indigenous research practices to work with and for Indigenous peoples across the legal and community sectors. "
+    },
+    {
+      "number": 6,
+      "text": "Demonstrate a command of forensic science practice, including the detection, collection, and analysis of traces in order to exploit and integrate the results of analyses into investigative, evaluative and intelligence frameworks. "
+    },
+    {
+      "number": 7,
+      "text": "Apply investigative, critical thinking and problem-solving skills to forensic science problems and design experimental methods to test hypotheses and critically analyse and interpret data. "
+    },
+    {
+      "number": 8,
+      "text": "Practise safe, ethical, and professional conduct with consideration for the role of forensic science in addressing current and future challenges faced by law enforcement, the legal system, security, and the wider community. "
+    },
+    {
+      "number": 9,
+      "text": "Apply forensic science professional skills with a high degree of personal autonomy and reflection to demonstrate initiative and innovative thinking in solving complex forensic problems. "
+    },
+    {
+      "number": 10,
+      "text": "Demonstrate skills in communicating experimental conclusions, expert opinion, and the justification of professional decisions related to forensic science processes effectively to expert, scientific, and non-expert audiences. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "Inherent (essential) requirements are academic and non-academic requirements that are essential to the successful completion of a course.\n\nProspective and current students should carefully read the Inherent (Essential) Requirements Statement below and consider whether they might experience challenges in successfully completing this course. This Statement should be read in conjunction with the UTS Student Rules.\n\nProspective or current student concerned about their ability to meet these requirements should discuss their concerns with the Academic Liaison Officer in their faculty or school and/or UTS Accessibility Service on 9514 1177 or at accessibility@uts.edu.au.\n\nUTS will make reasonable adjustments to teaching and learning, assessment, professional experiences, course related work experience and other course activities to facilitate maximum participation by students with disabilities, carer responsibilities, and religious or cultural obligations in their courses.\n\nFor course specific information see the Faculty of Law Inherent (Essential) Requirements Statement.",
+  "study_plans": [],
+  "notes": "This is an exit-only course. There is no direct admission to it. Current UTS students may be able to submit an Internal Course Transfer (Graduating) application to exit with this course. See the Course transfer page for further details.",
+  "admission_requirements": "None; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Career options include positions in the police service, state and federal law enforcement agencies, government and private forensic or drug detection laboratories, customs, quarantine services, environmental protection agencies, pharmaceutical, chemical and analytical industries, DNA testing laboratories, medical diagnostic laboratories, hospitals or corporate multinationals providing forensic, medical or research services, digital forensic laboratories, scene of crime officers.",
+  "course_structure": "The course comprises a total of 240 credit points and allows students to graduate with the separate degrees of Bachelor of Forensic Science (BForSc) and Bachelor of Laws (LLB). The study components for course completion are as follows.\n\nThe law component of 144 credit points is made up of:\n\nThe forensic science component comprises 42 credit points of core subjects and a 54-credit-point major, taken from one of the four specified majors representing different forensic science disciplines.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c09121.html",
+    "crawled_at": "2025-11-10T17:12:19.851987",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

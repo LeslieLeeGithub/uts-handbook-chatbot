@@ -1,0 +1,63 @@
+{
+  "course_code": "C10300",
+  "course_name": "Bachelor of Sport and Exercise Science",
+  "credit_points": "144 Credit points",
+  "cricos_code": "080087C",
+  "overview": "The Bachelor of Sport and Exercise Science meets the demand for professionals able to provide physical activity services to all sectors of the community.\n\nThe course provides students with a strong understanding of the processes and mechanisms underlying sport and exercise science, and with the knowledge and skills necessary to manage and plan sport and exercise activities in health, exercise science, sport, event and exercise therapy contexts. Both the Exercise Science and Exercise Therapy major in the Bachelor of Sport and Exercise Science degree are accredited with Exercise and Sports Science Australia (ESSA). Completion of these majors enables Exercise Science accreditation and focuses on the assessment, prescription and delivery of exercise to apparently healthy people.\n\nStudents who complete the Exercise Therapy major (MAJ06234) (not available to international students) are guaranteed entry to the UTS Master of Physiotherapy (C04306) subject to maintaining a credit average (GPA of 5.0 and above) and a successful internal interview. The Master of Physiotherapy leads to eligibility for registration as a physiotherapist in Australia.",
+  "awards": [
+    "Bachelor of Sport and Exercise Science (BSportExSc)"
+  ],
+  "faculty": [
+    "Health"
+  ],
+  "study_level": "Undergraduate",
+  "location": [
+    "Moore Park Precinct"
+  ],
+  "duration_fulltime": "3 Year(s)",
+  "duration_parttime": null,
+  "duration_sessions": "6",
+  "course_fee": "19060",
+  "course_intake": "Feb",
+  "uac_codes": [
+    "606020",
+    "Exercise Science",
+    "Autumn Session606021",
+    "Exercise Therapy",
+    "Autumn Session"
+  ],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "Accreditation with Exercise and Sports Science Australia (ESSA) for those who select the Exercise Science major or enrol in the Exercise Therapy major; the Australian Physiotherapy Council for those who go on to complete Master of Physiotherapy. Please note that ESSA requires all individuals seeking initial accreditation to meet the English Language Requirements.",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Engage in the process of personal and professional development through inquiry, critical thinking, and reflective practice. "
+    },
+    {
+      "number": 2,
+      "text": "Apply knowledge and skills to solve real-world problems in sport, exercise, and health, guided by evidence-informed practice. "
+    },
+    {
+      "number": 3,
+      "text": "Communicate, collaborate and lead in the fields of sport, exercise, and health to optimise client outcomes. "
+    },
+    {
+      "number": 4,
+      "text": "Demonstrate socially responsible, legal, and ethical behaviour in the field of sport, exercise, and health. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [],
+  "notes": "None",
+  "admission_requirements": "Applicants must have completed an Australian Year 12 qualification, Australian Qualifications Framework Diploma, or equivalent Australian or overseas qualification at the required level.\n\nStudents must apply through UAC to enrol in the course or specifically in the Exercise Therapy major (MAJ06234) (different UAC codes apply).\n\nThis course is also available to mature-aged applicants where preference is given to those with vocational experience in the broad field of human movement.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): 78; Admission requirements for Chinese students (Gaokao score out of 750): 481; Admission requirements for students with GCE A Levels: 8; Admission requirements for Hong Kong students (HKDSE): 16; Admission requirements for Indian students (AISSC): 12; Admission requirements for Indian students (ISC): 82; Admission requirements for students with IB or Predicted IB: 27/32 ; Admission requirements for Malaysian students (STPM with 3 AL Subjects): 9; Admission requirements for Singaporean students (A Level): 8; Admission requirements for USA students (SAT 1): 1140; Admission requirements for UTS Foundation Studies students: 6.8",
+  "career_options": "Career options include exercise scientist, sport scientist, exercise physiologist (pathway), corporate health and wellbeing, strength and conditioning, personal training, physiotherapy (via pathway or guaranteed pathway), exercise rehabilitation, sports coaching, outdoor education, facility management.",
+  "course_structure": "Students must complete at least 144 credit points over 24 subjects. Students choose four electives or a major, appropriate to their chosen career, to complement the core subjects in the degree.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c10300.html",
+    "crawled_at": "2025-11-10T04:28:00.612263",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

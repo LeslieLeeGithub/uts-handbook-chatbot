@@ -1,0 +1,61 @@
+{
+  "course_code": "C09051",
+  "course_name": "Bachelor of Midwifery (Honours)",
+  "credit_points": "48 Credit points",
+  "cricos_code": "None",
+  "overview": "This course provides the opportunity for eligible graduates of the Bachelor of Midwifery (C10225) to extend their skills and understanding of the research process. It emphasises the reciprocal relationship between midwifery research and the contexts of midwifery practice.\n\nThis course provides Bachelor of Midwifery graduates with the opportunity to develop training in clinically focused research. The course deepens students' understanding of the importance of research in midwifery.",
+  "awards": [
+    "Bachelor of Midwifery (Honours)"
+  ],
+  "faculty": [
+    "Health"
+  ],
+  "study_level": "Undergraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "1 Year(s)",
+  "duration_parttime": "2 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Practices woman centred evidence informed care. "
+    },
+    {
+      "number": 2,
+      "text": "Demonstrates comprehensive theoretical knowledge that is applied through sound clinical judgement and skills to optimise maternal and neonatal outcomes. "
+    },
+    {
+      "number": 3,
+      "text": "Communicates and collaborates respectfully and effectively in diverse contexts and interdisciplinary teams. "
+    },
+    {
+      "number": 4,
+      "text": "Makes informed and independent judgements to foster resilience and improve midwifery practice. "
+    },
+    {
+      "number": 5,
+      "text": "Actively contributes to the midwifery profession based on broad knowledge of the health system and a critical and evidence-informed approach to practice. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [],
+  "notes": "This course is not offered to international students.",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree in a relevant discipline at an appropriate level.\n\nAll applicants must be eligible to graduate from the UTS Bachelor of Midwifery or another tertiary institution at the time of application (followed by successful completion). Applicants must be registered as a midwife in their country of citizenship or residence at the time of enrolment (in exceptional circumstances, exemptions to this rule may be sought from the Bachelor (Honours) Selection Committee).\n\nAll applicants must have a weighted average mark or grade point average of credit or higher for their bachelor's degree. Applicants are admitted to the honours course only if appropriately qualified academic members of UTS: Health are available for supervision of the dissertation component.\n\nThe English proficiency requirement for local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Career options include registered midwife in a clinical specialty supported by their research project work, such as antenatal care, or preparation for roles such as midwife educator or manager. However, graduates are also well prepared to undertake postgraduate research degrees or begin a career as a researcher.",
+  "course_structure": "The course comprises a total of 48 credit points. Students complete two 6-credit-point subjects and a 36-credit-point thesis.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c09051.html",
+    "crawled_at": "2025-11-10T16:52:27.092183",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

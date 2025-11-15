@@ -1,0 +1,61 @@
+{
+  "course_code": "C11216",
+  "course_name": "Graduate Certificate in Science",
+  "credit_points": "24 Credit points",
+  "cricos_code": "071910G",
+  "overview": "The Graduate Certificate in Science is a four-subject qualification that draws on the world-class curriculum of the UTS Master of Science. It equips students with both professional and discipline-specific expertise without the commitment of a longer degree.\n\nThis qualification has been designed for students taking the first steps into postgraduate science, those looking for a rigorous professional development opportunity in an existing scientific career, or those seeking an alternative entry pathway into the master’s degree.\n\nExplore the Master of Science The UTS Master of Science is an advanced science degree designed to propel students into senior roles in their chosen scientific discipline. Students who complete the Graduate Certificate in Science can progress into the master’s degree and receive recognition of prior learning for all four subjects.\n\nThe Graduate Certificate in Science is comprised of four subjects. Students choose two electives in their preferred scientific discipline and complete two professional subjects designed to prepare them for professional scientific practice.",
+  "awards": [
+    "Graduate Certificate in Science (GradCertSc)"
+  ],
+  "faculty": [
+    "Science"
+  ],
+  "study_level": "Postgraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": null,
+  "duration_parttime": "1 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Demonstrate appraisal of advanced knowledge and demonstrate application of knowledge and technical skills relevant to professional practice in science. "
+    },
+    {
+      "number": 2,
+      "text": "Assess, argue for, and conduct appropriate approaches to independent research and solving problems and apply inquiry and critical thinking approaches in a relevant professional context. "
+    },
+    {
+      "number": 3,
+      "text": "Develop and prepare work practices that demonstrate an understanding of health and safety requirements, ethical conduct, risk management, record keeping and collaborative skills in the context of science. "
+    },
+    {
+      "number": 4,
+      "text": "Discover, create, and self-reflect on the processes used to determine the value, integrity, and relevance of sources of information to propose innovative solutions to science problems. "
+    },
+    {
+      "number": 5,
+      "text": "Present and communicate complex ideas using appropriate communication approaches from a variety of methods (oral, written, visual) to communicate with discipline experts, scientists, industry, and the general public. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [],
+  "notes": "None",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree, or an equivalent or higher qualification, or submitted other evidence of general and professional qualifications that demonstrates potential to pursue graduate studies.\n\nEntry into the course requires a minimum of a Bachelor's degree in a science-related field.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Graduates are prepared for a wide range of professional opportunities specific to their elective choices. See the Master of Science course listing for example career opportunities.",
+  "course_structure": "The course requires 24 credit points of study, with 12 credit points chosen from the professional stream subjects and 12 credit points from a choice of specified science subjects.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c11216.html",
+    "crawled_at": "2025-11-10T18:13:52.644108",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

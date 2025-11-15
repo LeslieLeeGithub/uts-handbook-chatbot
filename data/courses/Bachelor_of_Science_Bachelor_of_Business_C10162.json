@@ -1,0 +1,146 @@
+{
+  "course_code": "C10162",
+  "course_name": "Bachelor of Science Bachelor of Business",
+  "credit_points": "192 Credit points",
+  "cricos_code": "032310K",
+  "overview": "The Bachelor of Science Bachelor of Business is designed to produce graduates who are prepared for scientific practice or business and management in technical, financial, regulatory, environmental, health or biomedical oriented businesses, industries or government departments. Students choose one of seven specialised science majors according to their preference. Students also have a choice of major study in the business stream.\n\nStudents choose from a choice of majors from both their science and business degrees. Depending on the science and business disciplines chosen, graduates could work in a wide range of areas such as commodities, resource trading, pharmaceutical industries, leading consumer goods companies, hospitals, medical research, industry, environmental protection agencies and government.\n\nDemand is growing for graduates able to cross the divide between science and business. Students develop a combination of scientific and professional business skills, and transferable skills that are highly sought-after by employers.",
+  "awards": [
+    "Bachelor of Science in (name of Science major) (BSc) Bachelor of Business (BBus)"
+  ],
+  "faculty": [
+    "Science",
+    "Business"
+  ],
+  "study_level": "Undergraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "4 Year(s)",
+  "duration_parttime": "8 Year(s)",
+  "duration_sessions": "8",
+  "course_fee": "23220",
+  "course_intake": "Feb/ Jul",
+  "uac_codes": [
+    "609170",
+    "Autumn Session, Spring Session"
+  ],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "Depending on disciplines chosen, students may be eligible for entry to the relevant professional associations. Refer to the Bachelor of Business (C10026) for details on professional recognition of that award.",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Demonstrate theoretical and technical knowledge of broad science concepts and explain specialised disciplinary knowledge. "
+    },
+    {
+      "number": 2,
+      "text": "Evaluate scientific evidence and apply effective experimental design and/or mathematical reasoning, analysis, and critical thinking to apply science and/or mathematic methodologies to real world problems. "
+    },
+    {
+      "number": 3,
+      "text": "Work autonomously or in teams to address workplace or community problems utilising best scientific practice, with consideration to safety requirements and ethical guidelines. "
+    },
+    {
+      "number": 4,
+      "text": "Design creative solutions to contemporary or complex scientific issues by incorporating innovative methods, reflective practices, and self-directed learning. "
+    },
+    {
+      "number": 5,
+      "text": "Present and communicate complex ideas and justifications using appropriate communication approaches from a variety of methods (oral, written, visual) to communicate with discipline experts, scientists, industry, and the general public. "
+    },
+    {
+      "number": 6,
+      "text": "Develop knowledge of Indigenous Australian contexts to inform professional cultural capabilities to work effectively with and for, Indigenous Australians within Scientific contexts. "
+    },
+    {
+      "number": 7,
+      "text": "Apply evidence, creativity and critical reasoning to solve business problems "
+    },
+    {
+      "number": 8,
+      "text": "Communicate information clearly in a form appropriate for its audience "
+    },
+    {
+      "number": 9,
+      "text": "Demonstrate ability to work independently and with others as a member of a team to achieve an agreed goal "
+    },
+    {
+      "number": 10,
+      "text": "Make judgements and business decisions consistent with the principles of social responsibility and inclusion "
+    },
+    {
+      "number": 11,
+      "text": "Apply technical and professional skills to operate effectively in business "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [
+    {
+      "name": "Biotechnology, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/194d636b47f22650a31de422036d43ff"
+    },
+    {
+      "name": "Biotechnology, Spring commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/2d4da36b47f22650a31de422036d43aa"
+    },
+    {
+      "name": "Chemistry, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/554d636b47f22650a31de422036d43e9"
+    },
+    {
+      "name": "Chemistry, Spring commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/654da36b47f22650a31de422036d43cd"
+    },
+    {
+      "name": "Environmental Biology, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/1d4da36b47f22650a31de422036d4309"
+    },
+    {
+      "name": "Environmental Biology, Spring commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/6d4da36b47f22650a31de422036d43e3"
+    },
+    {
+      "name": "Marine Biology, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/954da36b47f22650a31de422036d434f"
+    },
+    {
+      "name": "Marine Biology, Spring commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/a54de36b47f22650a31de422036d4307"
+    },
+    {
+      "name": "Mathematics, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/594da36b47f22650a31de422036d432c"
+    },
+    {
+      "name": "Mathematics, Spring commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/394de36b47f22650a31de422036d431e"
+    },
+    {
+      "name": "Medical Science, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/e14da36b47f22650a31de422036d4372"
+    },
+    {
+      "name": "Medical Science, Spring commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/b94de36b47f22650a31de422036d4335"
+    },
+    {
+      "name": "Physics, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/614da36b47f22650a31de422036d4389"
+    },
+    {
+      "name": "Physics, Spring commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/e14da36b47f22650a31de422036d43a0"
+    }
+  ],
+  "notes": "None",
+  "admission_requirements": "Applicants must have completed an Australian Year 12 qualification, Australian Qualifications Framework Diploma, or equivalent Australian or overseas qualification at the required level.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): 80; Admission requirements for Chinese students (Gaokao score out of 750): 487; Admission requirements for students with GCE A Levels: 9; Admission requirements for Hong Kong students (HKDSE): 17; Admission requirements for Indian students (AISSC): 13; Admission requirements for Indian students (ISC): 83; Admission requirements for students with IB or Predicted IB: 28/33 ; Admission requirements for Malaysian students (STPM with 3 AL Subjects): 10; Admission requirements for Singaporean students (A Level): 9; Admission requirements for USA students (SAT 1): 1160; Admission requirements for UTS Foundation Studies students: 6.9",
+  "career_options": "Graduates are able to tap into both industries and job markets. Careers are influenced by the major chosen and are described in detail in the individual course and major entries: see the Bachelor of Science (C10242) and the Bachelor of Business (C10026). Career options include policy analyst; science consultant; banking and finance; communicator; statistician; business analyst; science communication and scientific publishing; product development; manufacturing; marketing; pharmaceutical, biotechnology, chemical or high-technology industries; curator of museums, parks, zoos and aquariums; and environmental management.",
+  "course_structure": "Students are required to complete a total of 192 credit points, comprising 96 credit points of science subjects and 96 credit points of business subjects.\n\nIn the science component, students choose one of seven possible majors representing the major science disciplines. Refer to the entry for the Bachelor of Business (C10026) for the possible majors available in the business component.\n\nGraduation from the science component of the combined degree is not possible prior to completion of all components of the combined degree. Students wishing to graduate with a Bachelor of Science prior to completion of the business component of the combined degree must apply for transfer to the Bachelor of Science (C10242) single degree program where they must complete all requirements for the stand-alone single degree version.\n\nSimilarly, if a student wishes to graduate from the business component of the combined degree prior to completion of the science component they must apply for transfer to the Bachelor of Business (C10026) single degree program where they must complete all requirements for the stand-alone single degree version.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c10162.html",
+    "crawled_at": "2025-11-10T03:22:15.904105",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

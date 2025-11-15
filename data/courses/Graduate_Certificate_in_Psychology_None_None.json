@@ -1,0 +1,54 @@
+{
+  "course_code": "C11352",
+  "course_name": "Graduate Certificate in Psychology",
+  "credit_points": "24 Credit points",
+  "cricos_code": "None",
+  "overview": "Students enrolled in the Graduate Diploma in Psychology (C06148) can apply to transfer into this exit-only course after completing 24 credit points of specified study and gain a graduate certificate qualification.",
+  "awards": [
+    "Graduate Certificate in Psychology (GradCertPsych)"
+  ],
+  "faculty": [
+    "Graduate",
+    "School",
+    "of",
+    "Health"
+  ],
+  "study_level": "Postgraduate",
+  "location": [],
+  "duration_fulltime": null,
+  "duration_parttime": null,
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "This course is not accredited with the Australian Psychology Accreditation Council (APAC) and does not lead to a psychology registration.",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Infer knowledge required for research and professional practice that is sensitive to diversity of individuals, culturally appropriate, and cognisant of the impacts of ongoing colonisation on the health and wellbeing of Indigenous Australians. "
+    },
+    {
+      "number": 2,
+      "text": "Apply psychological science to meet personal, professional, and societal goals. "
+    },
+    {
+      "number": 3,
+      "text": "Analyse, critique, and communicate theory and research in psychology. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [],
+  "notes": "This is an exit-only course. There is no direct admission to it. Current UTS students may be able to submit an Internal Course Transfer (Graduating) application to exit with this course. See the Course transfer page for further details.",
+  "admission_requirements": "None; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "None",
+  "course_structure": "This course comprises a total of 24 credit points.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c11352.html",
+    "crawled_at": "2025-11-10T19:04:04.182914",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

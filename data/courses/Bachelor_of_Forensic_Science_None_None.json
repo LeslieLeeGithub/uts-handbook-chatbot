@@ -1,0 +1,97 @@
+{
+  "course_code": "C10387",
+  "course_name": "Bachelor of Forensic Science",
+  "credit_points": "144 Credit points",
+  "cricos_code": "092381J",
+  "overview": "As the first forensic science degree in Australia, the world-class UTS Bachelor of Forensic Science is recognised for producing future leaders in this compelling field of practice. More than just a theoretical science degree, this course delivers a comprehensive learning experience at the intersection of STEM, information technology, law, criminology and social impact coupled with specialist expertise in a choice of four in-demand forensic science disciplines: biology, chemistry, crime scene investigation, and digital forensic science.\n\nWhy UTS Science?\n\nUTS Science, one of Australia’s leading university science faculties, is committed to scientific advancement that creates a more sustainable world. When students study with UTS, they join a university that delivers global impact in STEM education and research and a faculty that produces scientists with the power to transform the profession.\n\nCourse features",
+  "awards": [
+    "Bachelor of Forensic Science (BForSc)"
+  ],
+  "faculty": [
+    "Science"
+  ],
+  "study_level": "Undergraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "3 Year(s)",
+  "duration_parttime": "6 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [
+    "607020",
+    "Autumn Session, Spring Session"
+  ],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "Graduates of the Chemistry major are eligible for membership of the Royal Australian Chemical Institute and the Australian and New Zealand Forensic Science Society.",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Demonstrate a command of forensic science practice, including the detection, collection, and analysis of traces in order to exploit and integrate the results of analyses into investigative, evaluative and intelligence frameworks. "
+    },
+    {
+      "number": 2,
+      "text": "Apply investigative, critical thinking and problem-solving skills to forensic science problems and design experimental methods to test hypotheses and critically analyse and interpret data. "
+    },
+    {
+      "number": 3,
+      "text": "Practise safe, ethical, and professional conduct with consideration for the role of forensic science in addressing current and future challenges faced by law enforcement, the legal system, security, and the wider community. "
+    },
+    {
+      "number": 4,
+      "text": "Apply forensic science professional skills with a high degree of personal autonomy and reflection to demonstrate initiative and innovative thinking in solving complex forensic problems. "
+    },
+    {
+      "number": 5,
+      "text": "Demonstrate skills in communicating experimental conclusions, expert opinion, and the justification of professional decisions related to forensic science processes effectively to expert, scientific, and non-expert audiences. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [
+    {
+      "name": "Biology, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/d9da2b2f47b22650a31de422036d430a"
+    },
+    {
+      "name": "Biology, Spring commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/65da2b2f47b22650a31de422036d435a"
+    },
+    {
+      "name": "Chemistry, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/21da2b2f47b22650a31de422036d4312"
+    },
+    {
+      "name": "Chemistry, Spring commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/2dda2b2f47b22650a31de422036d4325"
+    },
+    {
+      "name": "Crime Scene Investigation, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/dddae72f47b22650a31de422036d43f6"
+    },
+    {
+      "name": "Crime Scene Investigation, Spring commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/6dda2b2f47b22650a31de422036d437a"
+    },
+    {
+      "name": "Digital Forensic, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/99dae72f47b22650a31de422036d43ef"
+    },
+    {
+      "name": "Digital Forensic, Spring commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/e9da2b2f47b22650a31de422036d4352"
+    }
+  ],
+  "notes": "None",
+  "admission_requirements": "Applicants must have completed an Australian Year 12 qualification, Australian Qualifications Framework Diploma, or equivalent Australian or overseas qualification at the required level.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Graduates will make their mark in the world of criminal justice and security. Depending on the choice of major, they can prepare for careers in state and federal policing and criminal justice, government and scientific research organisations (ASIO, CSIRO, ANSTO, customs and immigration), intelligence agencies, or in a wealth of commercial settings where forensic science expertise is highly valued by industry (banking, insurance, consulting, accounting, forensic and cybersecurity organisations).",
+  "course_structure": "Students must complete 144 credit points of study made up of 48 credit points of core subjects, a 72-credit-point major choice and 24 credit points of electives.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c10387.html",
+    "crawled_at": "2025-11-10T17:51:39.800139",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "course_code": "C04368",
+  "course_name": "Master of Event Management (Extension)",
+  "credit_points": "96 Credit points",
+  "cricos_code": "096871C",
+  "overview": "The Master of Event Management (Extension) provides a substantial overview of the events industry and is designed to develop advanced professional skills and knowledge to sufficiently equip students for management positions in the broad and multifaceted events industry. With this in mind, the program includes subjects that seek to develop an understanding of event creation, planning, delivery, marketing and evaluation processes and practices of various forms of events in both Australian and international contexts.\n\nThe course is designed to expose students to best practice, current issues, and emerging trends in event management. Industry experts are engaged throughout course and assessment design and subject delivery to ensure the integration of real-world practice against cutting edge theory. Research-inspired course content is delivered by world-leading academics and industry partners.\n\nThe course strongly focuses on professional practice, including two innovative capstone subjects – Industry Research Project or Internship Experience – which allow students to work on or with contemporary industry issues and opportunities.",
+  "awards": [
+    "Master of Event Management (MEvM)"
+  ],
+  "faculty": [
+    "Business"
+  ],
+  "study_level": "Postgraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "2 Year(s)",
+  "duration_parttime": "4 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Develop and justify innovative evidence-based solutions addressing community and business needs and emerging challenges within diverse professional practice and complex event contexts "
+    },
+    {
+      "number": 2,
+      "text": "Communicate clearly, effectively and persuasively with both specialist and non-specialist audiences within professional practice in events management "
+    },
+    {
+      "number": 3,
+      "text": "Work effectively in teams and with diverse event stakeholders to deliver negotiated project outcomes in a timely manner "
+    },
+    {
+      "number": 4,
+      "text": "Implement and critically evaluate a range of event management decisions to create positive outcomes for society and the environment "
+    },
+    {
+      "number": 5,
+      "text": "Synthesize advanced knowledge of varied event management concepts and technological skills to demonstrate professional expertise in diverse and complex event management contexts "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [
+    {
+      "name": "Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/ce596b6fc3beee50020e061ad001313d"
+    },
+    {
+      "name": "Spring commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/8a59ab6fc3beee50020e061ad001317a"
+    }
+  ],
+  "notes": "None",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree, or an equivalent or higher qualification, or submitted other evidence of general and professional qualifications that demonstrates potential to pursue graduate studies.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Graduates of this program can pursue careers in such areas as festival management, conference and meeting management, sport event management, venue management, exhibition management, event marketing and sponsorship, corporate event management, event risk management, and event theming and design.",
+  "course_structure": "Students must complete a total of 96 credit points made up of 15 subjects, comprising twelve core subjects (72 credit points), two electives subjects (12 credit points), and either Industry Research Project or Internship Experience (12 credit points).",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c04368.html",
+    "crawled_at": "2025-11-10T15:20:21.187224",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

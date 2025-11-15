@@ -1,0 +1,57 @@
+{
+  "course_code": "C10226",
+  "course_name": "Bachelor of Business (Offshore)",
+  "credit_points": "144 Credit points",
+  "cricos_code": "063721A",
+  "overview": "The Bachelor of Business offers students a sound background in all areas of business through common core subjects, in addition to in-depth knowledge in one or more chosen areas of interest.\n\nThis course provides a basic understanding of important aspects of business with a choice of majors.",
+  "awards": [
+    "Bachelor of Business (BBus)"
+  ],
+  "faculty": [
+    "Business"
+  ],
+  "study_level": "Undergraduate",
+  "location": [
+    "China"
+  ],
+  "duration_fulltime": "3 Year(s)",
+  "duration_parttime": null,
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Apply evidence, creativity and critical reasoning to solve business problems "
+    },
+    {
+      "number": 2,
+      "text": "Communicate information clearly in a form appropriate for its audience "
+    },
+    {
+      "number": 3,
+      "text": "Demonstrate ability to work independently and with others as a member of a team to achieve an agreed goal "
+    },
+    {
+      "number": 4,
+      "text": "Make judgements and business decisions consistent with the principles of social responsibility, inclusion and knowledge of different cultures "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [],
+  "notes": "This course is only offered offshore. It is available in Shanghai. The language of tuition is English.",
+  "admission_requirements": "Applicants must have completed an Australian Year 12 qualification, Australian Qualifications Framework Diploma, or equivalent Australian or overseas qualification at the required level.\n\nApplicants must have successfully completed the UTS College Diploma of Business, with no more than two subject failures in the course. Further information about admission requirements, including English language requirements, for the UTS College Diploma of Business, is available from UTS College.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Career options include finance, international business and management.",
+  "course_structure": "There are three majors for this course that are delivered by UTS at Shanghai University: the Management major and the International Business major.\n\nThe structure of the delivery mode in Shanghai University is:",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c10226.html",
+    "crawled_at": "2025-11-10T17:38:20.529544",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

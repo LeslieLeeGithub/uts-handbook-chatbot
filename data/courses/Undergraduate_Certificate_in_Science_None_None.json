@@ -1,0 +1,64 @@
+{
+  "course_code": "C22033",
+  "course_name": "Undergraduate Certificate in Science",
+  "credit_points": "24 Credit points",
+  "cricos_code": "None",
+  "overview": "The Undergraduate Certificate in Science is a six month program designed to build foundational knowledge and skills in science. Students can acquire new skills that boost their employability or provide an alternative pathway to UTS Science degree programs and training in much needed STEM areas. The course gives students the opportunity to study first year Science subjects that match their area of scientific interest. They can then articulate their certificate into a UTS undergraduate degree in science in either the Life Sciences (e.g. in medical sciences, biotechnology, environmental sciences) or the Physical Sciences (e.g. physics, chemistry, mathematics, forensics). The Undergraduate Certificate in Science constitutes 24 credit points of study in either Autumn or Spring session first year subjects. Students are enrolled alongside full degree students and experience the same blend of online and on campus learning activities, have the same access to University resources such as the library, social clubs, student services and participate in orientation activities. Students engage in a personalised learning experience which stimulates their interest in further study and lifelong learning. Students who graduate from the course receive recognition of prior learning (RPL) in their course of choice should they choose to follow a pathway to continue their studies. If students choose not to pursue further studies, they already have developed important employability skills such as critical and scientific thinking, problem solving, basic communication and practical skills.",
+  "awards": [
+    "Undergraduate Certificate in Science (UGCertSc)"
+  ],
+  "faculty": [
+    "Science"
+  ],
+  "study_level": "Undergraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": null,
+  "duration_parttime": "1 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [
+    "609997",
+    "Autumn Session, Spring Session"
+  ],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Apply: Demonstrate knowledge of discipline relevant topics "
+    },
+    {
+      "number": 2,
+      "text": "Apply: Investigate effective application of experimental design and sampling for hypothesis testing "
+    },
+    {
+      "number": 3,
+      "text": "Apply: Participate in team-based data collection, recording and management, with an understanding of ethical limitations "
+    },
+    {
+      "number": 4,
+      "text": "Apply: Develop tools and aptitudes that create flexible and adaptive approaches to learning within a discipline context "
+    },
+    {
+      "number": 5,
+      "text": "Apply: Demonstrate interpersonal communication skills with peer and professional colleagues "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [],
+  "notes": "This course offers a pathway to the science undergraduate degrees.\n\nThis course is not offered to international students.",
+  "admission_requirements": "Applicants must have completed an Australian Year 12 qualification, Australian Qualifications Framework Diploma, or equivalent Australian or overseas qualification at the required level.\n\nThe English proficiency requirement for local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64; or CAE: 176-184.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "None",
+  "course_structure": "The certificate constitute 24cp and is streamed by discipline area. Students in each stream are enrolled in either Autumn or Spring session into first year subjects that match Science undergraduate degrees.\n\nNote:",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c22033.html",
+    "crawled_at": "2025-11-10T19:19:52.054405",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

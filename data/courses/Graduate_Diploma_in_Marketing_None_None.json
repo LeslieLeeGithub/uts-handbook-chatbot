@@ -1,0 +1,70 @@
+{
+  "course_code": "C07135",
+  "course_name": "Graduate Diploma in Marketing",
+  "credit_points": "48 Credit points",
+  "cricos_code": "098048G",
+  "overview": "The Graduate Diploma in Marketing provides a thorough understanding of the basic principles of marketing, the motivations of customers and marketing management. Students are also given opportunity to consider various topics including marketing communications, digital marketing, marketing analytics, international marketing, new products and innovations, and marketing research, as well as entrepreneurial marketing and branding.\n\nThe course assists students in developing the ability to identify and analyse marketing management problems and fosters skills in generating marketing strategies to solve problems in the marketing domain, both in Australia and internationally.\n\nStudents have flexible program options including subject choices, full-time or part-time study options and studying over Autumn, Spring or Summer sessions.",
+  "awards": [
+    "Graduate Diploma in Marketing (GradDipMktg)"
+  ],
+  "faculty": [
+    "Business"
+  ],
+  "study_level": "Postgraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "1 Year(s)",
+  "duration_parttime": "2 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Implement critical, analytical, and innovative problem-solving skills to plan solutions to contemporary marketing issues. "
+    },
+    {
+      "number": 2,
+      "text": "Clearly communicate marketing concepts, decisions and strategies in a form appropriate to the audience "
+    },
+    {
+      "number": 3,
+      "text": "Collaborate with colleagues and stakeholders to achieve desired marketing and business outcomes "
+    },
+    {
+      "number": 4,
+      "text": "Apply principles of cultural diversity and social justice to produce responsible marketing decisions "
+    },
+    {
+      "number": 5,
+      "text": "Integrate advanced professional and technical skills within marketing practice "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [
+    {
+      "name": "Commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/29a044a1c3f6e250020e061ad0013131"
+    },
+    {
+      "name": "Commencing, part time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/eda084a1c3f6e250020e061ad001312e"
+    }
+  ],
+  "notes": "None",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree, or an equivalent or higher qualification, or submitted other evidence of general and professional qualifications that demonstrates potential to pursue graduate studies.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Career options include management-level positions in industry or government.",
+  "course_structure": "The course comprises 48 credit points and consists of a combination of three core subjects (18 credit points) and five electives (30 credit points).",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c07135.html",
+    "crawled_at": "2025-11-10T16:41:33.163752",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

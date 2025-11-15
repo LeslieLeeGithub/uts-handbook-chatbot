@@ -1,0 +1,90 @@
+{
+  "course_code": "C10328",
+  "course_name": "Bachelor of Sport and Exercise Science Bachelor of Creative Intelligence and Innovation",
+  "credit_points": "240 Credit points",
+  "cricos_code": "079758A",
+  "overview": "The Bachelor of Sport and Exercise Science meets the demand for professionals able to provide physical activity services to all sectors of the community.\n\nTaking a transdisciplinary approach, the Bachelor of Creative Intelligence and Innovation utilises multiple perspectives from diverse fields, integrating a range of industry experiences, real-world projects and self-initiated proposals, equipping graduates to address the wicked problems, complex challenges and untapped opportunities in today's world.\n\nThe course provides students with a strong understanding of the processes and mechanisms underlying sport and exercise science, and the knowledge and skills necessary to manage and plan sport and exercise activities in health, exercise science, sport, event and exercise therapy contexts.\n\nBy focusing on the high-level conceptual thinking and problem-solving practices that lead to the development of innovative, creative and entrepreneurial outcomes, students of the combined degree also gain leading edge capabilities that are highly valued in the globalised world, including dealing with critical and creative thinking, invention, complexity, innovation, future scenario building and entrepreneurship, and the ability to work on their own across disciplines. These creative intelligence competencies enable graduates to navigate in a rapidly changing world.",
+  "awards": [
+    "Bachelor of Sport and Exercise Science (BSportExSc) Bachelor of Creative Intelligence and Innovation (BCIInn)"
+  ],
+  "faculty": [
+    "HealthTD",
+    "School"
+  ],
+  "study_level": "Undergraduate",
+  "location": [
+    "Moore Park Precinct"
+  ],
+  "duration_fulltime": "4 Year(s)",
+  "duration_parttime": null,
+  "duration_sessions": "8*",
+  "course_fee": "19060",
+  "course_intake": "Feb",
+  "uac_codes": [
+    "609580",
+    "Autumn Session"
+  ],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "Accreditation with Exercise and Sports Science Australia (ESSA) for those who select the Exercise Science major; the Australian Physiotherapy Council for those who go on to complete Master of Physiotherapy. Please note that ESSA requires all individuals seeking initial accreditation to meet the English Language Requirements.",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Engage in the process of personal and professional development through inquiry, critical thinking, and reflective practice. "
+    },
+    {
+      "number": 2,
+      "text": "Apply knowledge and skills to solve real-world problems in sport, exercise, and health, guided by evidence-informed practice. "
+    },
+    {
+      "number": 3,
+      "text": "Communicate, collaborate and lead in the fields of sport, exercise, and health to optimise client outcomes. "
+    },
+    {
+      "number": 4,
+      "text": "Demonstrate socially responsible, legal, and ethical behaviour in the field of sport, exercise, and health. "
+    },
+    {
+      "number": 5,
+      "text": "Apply culturally safe work practices to work effectively with and for Indigenous Australians in a sport and exercise professional context. "
+    },
+    {
+      "number": 6,
+      "text": "Identify and evaluate complex challenges by analysing system dynamics, constraints, and potential leverage points, using disciplinary perspectives, evidence, and diverse viewpoints. "
+    },
+    {
+      "number": 7,
+      "text": "Identify, create, and employ a range of appropriate creative intelligence methods and boundary-crossing methodologies to construct and solve problems and generate transformative possibilities. "
+    },
+    {
+      "number": 8,
+      "text": "Practice mutual, responsible value creation, including the implementation of sustainable and entrepreneurial innovation. "
+    },
+    {
+      "number": 9,
+      "text": "Communicate transdisciplinary ideas and solutions succinctly and persuasively using appropriate modalities. "
+    },
+    {
+      "number": 10,
+      "text": "Develop reflexive connection with an evolving self, demonstrating ethical and intellectual positions that reflect well-considered values that enable greater purpose and inclusivity. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [
+    {
+      "name": "Exercise Science, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/ab7e795683236250fed7d4326daad373"
+    }
+  ],
+  "notes": "None",
+  "admission_requirements": "Applicants must have completed an Australian Year 12 qualification, Australian Qualifications Framework Diploma, or equivalent Australian or overseas qualification at the required level.\n\nAdmission to the combined degree is on merit according to the admissions policy for the Bachelor of Sport and Exercise Science (C10300).\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): 81.2; Admission requirements for Chinese students (Gaokao score out of 750): 491; Admission requirements for students with GCE A Levels: 9; Admission requirements for Hong Kong students (HKDSE): 17; Admission requirements for Indian students (AISSC): 13; Admission requirements for Indian students (ISC): 84; Admission requirements for students with IB or Predicted IB: 28/33 ; Admission requirements for Malaysian students (STPM with 3 AL Subjects): 11; Admission requirements for Singaporean students (A Level): 9; Admission requirements for USA students (SAT 1): 1170; Admission requirements for UTS Foundation Studies students: 6.9",
+  "career_options": "Career options include roles in sport and exercise science; corporate health and wellbeing; strength and conditioning; personal training; physiotherapy (pathway); exercise rehabilitation; sports coaching; outdoor education; and facility management.\n\nBy being creative thinkers, initiators of new ideas, scenario planners, global strategists, open network designers or sustainable futures innovators within their chosen field of study, graduates maximise the potential of their chosen profession, making them highly sought after graduates with the ability to identify and develop solutions to some of the most complex issues that face their disciplines and society.",
+  "course_structure": "Students must complete at least 144 credit points over 24 subjects in the sport and exercise component of the course. Students choose four electives or a major, appropriate to their chosen career, to complement the core subjects in the degree. The creative intelligence and innovation component consists of 96 credit points. The creative intelligence and innovation subjects are undertaken in accelerated form within July and Summer sessions during the first three years of study, and through one full year of study after completion of the professional degree.\n\nThe Bachelor of Creative Intelligence and Innovation is not offered as a separate degree, but is completed only in combination with the professional degree program.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c10328.html",
+    "crawled_at": "2025-11-10T04:32:57.163690",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

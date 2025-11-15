@@ -1,0 +1,61 @@
+{
+  "course_code": "C04447",
+  "course_name": "Master of Women's and Children's Health",
+  "credit_points": "72 Credit points",
+  "cricos_code": "None",
+  "overview": "This comprehensive Masters of Women’s and Children’s Health prepares nurses, midwives and allied health practitioners to advance their careers in a range of diverse and challenging roles. Developed in close consultation with experts and industry stakeholders, core subjects in women’s health provide contemporary and responsive content that is industry aligned, evidence-based and research-informed, ensuring that graduates are well prepared to meet the current and future needs of women’s health.\n\nThe Masters of Women’s and Children’s Health uses teaching, innovative learning and assessment approaches such as inquiry-based and workplace learning, drawing from real-world environments and experiences. These elements bring together skills and knowledge that build capacity in the students in an area of their choosing. Electives provide students with the opportunity to expand their learning in addition to their chosen stream selection, broadening their potential career trajectory beyond traditional paths into areas including policy development, research, leadership and women's health.",
+  "awards": [
+    "Master of Women's and Children's Health (MWomenChldH)"
+  ],
+  "faculty": [
+    "Health"
+  ],
+  "study_level": "Postgraduate",
+  "location": [
+    "Online campus"
+  ],
+  "duration_fulltime": "2 Year(s)",
+  "duration_parttime": "4 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Reflect on professional roles to continuously enhance knowledge, skills, and practice within the health and social care profession. "
+    },
+    {
+      "number": 2,
+      "text": "Communicate effectively across diverse healthcare environments to facilitate positive and sustainable change. "
+    },
+    {
+      "number": 3,
+      "text": "Apply critical thinking and problem-solving skills to contribute to policy and practice and develop evidence-based solutions for contemporary challenges in women’s and children’s health. "
+    },
+    {
+      "number": 4,
+      "text": "Demonstrate leadership that is visionary, innovative, and responsive to the evolving needs of healthcare systems. "
+    },
+    {
+      "number": 5,
+      "text": "Exhibit social, cultural, and ethical accountability to promote equity of access to healthcare when engaging with relevant stakeholders. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [],
+  "notes": "None",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree, or an equivalent or higher qualification, or submitted other evidence of general and professional qualifications that demonstrates potential to pursue graduate studies.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "The Masters is structured into 4 Streams which allows candidates to choose to specialise in one of 3 majors, but also offers an option to elect no major as follows:\n\nNurses and Midwives\n\nThe Masters of Women’s and Children’s Health will appeal to nurses and midwives who wish to expand their current clinical knowledge and experiences in nursing and/or midwifery as well as supporting them to work in the child and family health domain.\n\nThe course supports career progression in the nursing and midwifery sectors and allows graduates to pursue career opportunities in:\n\nAllied Health Professionals\n\nThis course appeals to allied health professionals such as general practitioners, social workers, psychologists, dietitians and nutritionists, physiotherapist, occupational therapist, speech pathologists and other allied health professionals who wish to expand their current clinical knowledge and experience and focus their career on supporting the health needs of women and children.\n\nThe course supports graduates to pursue roles in:",
+  "course_structure": "Students must complete a total of 72 credit points, choosing one of three majors (in Reproductive Health, Leadership and Management in Health Care or Health Research ) or a no-major option to complete the course.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c04447.html",
+    "crawled_at": "2025-11-10T15:56:18.646687",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

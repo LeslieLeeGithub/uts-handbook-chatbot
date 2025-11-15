@@ -1,0 +1,62 @@
+{
+  "course_code": "C11283",
+  "course_name": "Graduate Certificate in Speech and Language Sciences",
+  "credit_points": "24 Credit points",
+  "cricos_code": "098165B",
+  "overview": "Students enrolled in the Master of Speech Pathology (C04386) can apply to transfer into this exit-only course after completing 24 credit points of specified study and gain a graduate certificate qualification.",
+  "awards": [
+    "Graduate Certificate in Speech and Language Sciences (GradCertSpLangSc)"
+  ],
+  "faculty": [
+    "Graduate",
+    "School",
+    "of",
+    "Health"
+  ],
+  "study_level": "Postgraduate",
+  "location": [],
+  "duration_fulltime": null,
+  "duration_parttime": "1 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Recognise and explain the field of speech pathology and the role of speech pathologists in working with children and adults in Australia. "
+    },
+    {
+      "number": 2,
+      "text": "Apply the World Health Organisation's International Classification of Functioning Disability and Health, the Social Determinants of Health, and Models of Disability to clinical scenarios. "
+    },
+    {
+      "number": 3,
+      "text": "Explain the importance of life-long learning to the field of speech pathology and use library resources to seek and find literature relating to the field of speech pathology. "
+    },
+    {
+      "number": 4,
+      "text": "Identify important aspects and principles of collaboration between health professionals through observation of speech pathologists engaging in multidisciplinary and inter-professional teams. "
+    },
+    {
+      "number": 5,
+      "text": "Demonstrate effective interpersonal communication in simulated clinical scenarios involving children's speech and language. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [],
+  "notes": "This is an exit-only course. There is no direct admission to it. Current UTS students may be able to submit an Internal Course Transfer (Graduating) application to exit with this course. See the Course transfer page for further details.",
+  "admission_requirements": "None; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "None",
+  "course_structure": "This course comprises a total of 24 credit points.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c11283.html",
+    "crawled_at": "2025-11-10T18:39:29.972931",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

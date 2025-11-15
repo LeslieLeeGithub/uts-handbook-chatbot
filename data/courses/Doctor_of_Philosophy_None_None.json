@@ -1,0 +1,75 @@
+{
+  "course_code": "C02107",
+  "course_name": "Doctor of Philosophy",
+  "credit_points": null,
+  "cricos_code": "None",
+  "overview": "The PhD is a University-wide research degree which involves an intense period of supervised study and research, leading to an original and significant contribution to knowledge. This is a degree of the future and is a recognised path for those wishing to assume leadership positions in their field of specialisation.\n\nThis course prepares graduates for a leadership role in the widely diverse range of industries and organisations that rely on research or research skills to solve real-world problems, including but not limited to academia, business, government, cultural and community organisations.",
+  "awards": [
+    "Doctor of Philosophy (PhD)"
+  ],
+  "faculty": [
+    "Vice-ChancellorGraduate",
+    "Research",
+    "School"
+  ],
+  "study_level": "Postgraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "4 Year(s)",
+  "duration_parttime": "8 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Demonstrate an integrated knowledge of the theoretical underpinnings of the relevant specialised field necessary for a career in academia or relevant professions. "
+    },
+    {
+      "number": 2,
+      "text": "Integrate research principles and concepts and apply them to relevant academic and/or professional disciplines "
+    },
+    {
+      "number": 3,
+      "text": "Critically reflect, synthesise and evaluate existing academic and other relevant literature in the research field "
+    },
+    {
+      "number": 4,
+      "text": "Apply critical and creative thinking to address major research issues in the field of specialisation "
+    },
+    {
+      "number": 5,
+      "text": "Develop, adapt and implement research methodologies to extend and redefine existing knowledge, including for creative or professional practice "
+    },
+    {
+      "number": 6,
+      "text": "Communicate research clearly and fluently, in high-quality forms appropriate for academic and/or professional audiences, and where feasible to lay or public audiences "
+    },
+    {
+      "number": 7,
+      "text": "Understand and rigorously apply ethical research and the core professional obligations, values and operations of researchers as appropriate to the relevant discipline and field of professional practice "
+    },
+    {
+      "number": 8,
+      "text": "Generate original knowledge and understanding to make a substantial contribution to knowledge, including for creative or professional practice "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [],
+  "notes": "None",
+  "admission_requirements": "Applicants must have completed a UTS recognised master's by research or bachelor honours degree with first class or second class / division 1 honours, or an equivalent or higher qualification, or submitted other evidence of general and professional qualifications that demonstrates potential to pursue graduate research studies.\n\nSelection criteria also include: research potential, research experience, quality of the research proposal, alignment with the UTS Research Strategy and the strategic goals of the field of specialisation, and the Faculty's ability to offer appropriate supervision in the applicant's chosen field.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 7.0 overall with a writing score of 7.0; or TOEFL: paper based: 584-609 overall with TWE of 5.0, internet based: 94-101 overall with a writing score of 27; or AE6: Pass; or PTE: 65-72 overall with a writing score of 65; or C1A/C2P: 185-190 overall with a writing score of 185.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "This research degree is especially valuable for students gain deeper understanding of a subject area and develop analytical, problem solving, communication and project management skills. That are highly valued and will enable graduates to pursue an academic career or careers in industry, research, government non-government organisations.",
+  "course_structure": "There are three specific stages to the doctoral program. In the first stage, candidates must complete a formal assessment to confirm their candidature. In the second stage, a progress confirmation assessment to ensure their progress is consistent with completion of the research program within the prescribed time and demonstrates potential to complete the work to standard. Candidates are required to complete a third stage in order to confirm readiness to submit their thesis for examination.\n\nWithin this framework of stages, doctoral students design their own Graduate Research Study Plan in discussion with their supervisory panel. This draws from the UTS HDR Capability Framework that shapes what it means to be a research student at UTS. A Review of Progress is conducted each year, in a process that is separate from the Stage Assessments.\n\nStudents may be required to undertake some coursework, for example in research methods or in theoretical knowledge in the field of specialisation. Students have the opportunity to complete an industry-based HDR internship experience, with government, business or community.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c02107.html",
+    "crawled_at": "2025-11-10T13:58:00.170888",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

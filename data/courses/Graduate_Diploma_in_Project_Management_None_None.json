@@ -1,0 +1,69 @@
+{
+  "course_code": "C07004",
+  "course_name": "Graduate Diploma in Project Management",
+  "credit_points": "48 Credit points",
+  "cricos_code": "109002D",
+  "overview": "UTS's Postgraduate Project Management program is designed to enhance the knowledge, experience and careers of both aspiring and experienced project managers.\n\nProspective students are not able to enrol directly in the Graduate Diploma in Project Management and should instead refer to the Graduate Certificate in Project Management, the Master of Project Management or the Master of Property Development and Project Management in order to join the UTS Postgraduate Project Management Program.\n\nThe Graduate Diploma in Project Management is an ‘exit’ option that enables appropriate recognition for students who have completed two-thirds of the Master of Project Management course, but are unable to complete the full course. Students in the Master of Project Management may apply for an internal course transfer to complete with a Graduate Diploma.",
+  "awards": [
+    "Graduate Diploma in Project Management (GradDipPM)"
+  ],
+  "faculty": [
+    "Design,",
+    "Architecture",
+    "and",
+    "Building"
+  ],
+  "study_level": "Postgraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "1 Year(s)",
+  "duration_parttime": null,
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Evaluate ethical issues and reflect on ethical judgments, considering the impact of cultural diversity within project management contexts. "
+    },
+    {
+      "number": 2,
+      "text": "Communicate effectively in both oral and written forms at a practitioner level within project environments. "
+    },
+    {
+      "number": 3,
+      "text": "Source and adapt project management tools, techniques, and knowledge to meet the specific demands of diverse project contexts. "
+    },
+    {
+      "number": 4,
+      "text": "Apply foundational project management knowledge and methods of information analysis to analyse project activities to enhance and improve project practice as part of a team. "
+    },
+    {
+      "number": 5,
+      "text": "Critically engage with complex data and information to synthesise and formulate reasoned arguments and solutions in project management. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "Inherent (essential) requirements are academic and non-academic requirements that are essential to the successful completion of a course.\n\nProspective and current students should carefully read the Inherent (Essential) Requirements Statement below and consider whether they might experience challenges in successfully completing this course. This Statement should be read in conjunction with the UTS Student Rules.\n\nProspective or current student concerned about their ability to meet these requirements should discuss their concerns with the Academic Liaison Officer in their faculty or school and/or UTS Accessibility Service on 9514 1177 or at accessibility@uts.edu.au.\n\nUTS will make reasonable adjustments to teaching and learning, assessment, professional experiences, course related work experience and other course activities to facilitate maximum participation by students with disabilities, carer responsibilities, and religious or cultural obligations in their courses.\n\nFor course specific information see the Faculty of Design, Architecture and Building Inherent (Essential) Requirements Statement.",
+  "study_plans": [
+    {
+      "name": "Autumn commencing, Full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/812aefe747b22650a31de422036d4360"
+    }
+  ],
+  "notes": "This is an exit-only course. There is no direct admission to it. Current UTS students may be able to submit an Internal Course Transfer (Graduating) application to exit with this course. See the Course transfer page for further details.\n\nTransfer is for students enrolled in the Master of Project Management (C04006).",
+  "admission_requirements": "None; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Career options align with those outlined for the Graduate Certificate in Project Management and the Master of Project Management.",
+  "course_structure": "Students choose 48 credit points from a list of available subjects.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c07004.html",
+    "crawled_at": "2025-11-10T16:28:40.812140",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

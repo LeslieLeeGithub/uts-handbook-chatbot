@@ -1,0 +1,62 @@
+{
+  "course_code": "C06100",
+  "course_name": "Graduate Diploma in Pharmaceutical Sciences",
+  "credit_points": "48 Credit points",
+  "cricos_code": "075569E",
+  "overview": "Transfer is for students enrolled in the Master of Pharmacy (C04252).",
+  "awards": [
+    "Graduate Diploma in Pharmaceutical Sciences (GradDipPharmSc)"
+  ],
+  "faculty": [
+    "Graduate",
+    "School",
+    "of",
+    "Health"
+  ],
+  "study_level": "Postgraduate",
+  "location": [],
+  "duration_fulltime": "1 Year(s)",
+  "duration_parttime": "2 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Demonstrate an understanding of the contribution of pharmacists to the care of patients and the wider community. "
+    },
+    {
+      "number": 2,
+      "text": "Identify the knowledge, attitudes and skills required for the growth of personal and professional learning. "
+    },
+    {
+      "number": 3,
+      "text": "Demonstrate critical thinking with capacity for judgement based on informed inquiry. "
+    },
+    {
+      "number": 4,
+      "text": "Effectively engage in teams, recognise pharmacy contributions to interprofessional collaboration, and demonstrate ability to communicate effectively with patients, carers and colleagues. "
+    },
+    {
+      "number": 5,
+      "text": "Explain the healthcare environment and the responsibilities of the pharmacist, including ethics and personal and social accountability. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [],
+  "notes": "This is an exit-only course. There is no direct admission to it. Current UTS students may be able to submit an Internal Course Transfer (Graduating) application to exit with this course. See the Course transfer page for further details.",
+  "admission_requirements": "None; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "None",
+  "course_structure": "None",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c06100.html",
+    "crawled_at": "2025-11-10T16:05:29.389139",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

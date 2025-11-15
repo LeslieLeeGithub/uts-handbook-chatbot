@@ -1,0 +1,69 @@
+{
+  "course_code": "C11053",
+  "course_name": "Graduate Certificate in Local Government",
+  "credit_points": "24 Credit points",
+  "cricos_code": "None",
+  "overview": "Today's local government manager must have a high level of professional expertise together with a broad range of managerial skills and a sound understanding of the special characteristics of local government. The Graduate Certificate in Local Government Management is tailored to the local government environment, allowing managers to meet their differing professional needs, while keeping up-to-date with the latest issues.\n\nTailored to the local government environment, the course enables participants to build an education program that responds to individual needs as it allows students to develop a study plan that matches the requirements of their professional development. Subjects can be studied in the workplace, through intensive block release. The course can also be used as a stepping stone to a Master of Local Government (C04257).",
+  "awards": [
+    "Graduate Certificate in Local Government (GradCertLG)"
+  ],
+  "faculty": [
+    "Design,",
+    "Architecture",
+    "and",
+    "Building"
+  ],
+  "study_level": "Postgraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "0 Year(s)",
+  "duration_parttime": "2 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Embrace an open, ethical, and culturally competent approach to diversity in professional and social contexts. "
+    },
+    {
+      "number": 2,
+      "text": "Communicate and collaborate effectively with diverse perspectives and in diverse contexts and formats, acknowledging the status of Indigenous peoples to develop cross-disciplinary interventions. "
+    },
+    {
+      "number": 3,
+      "text": "Critically evaluate innovative approaches and evidence-based solutions to complex issues in local and international government contexts. "
+    },
+    {
+      "number": 4,
+      "text": "Demonstrate strategic thinking in managing resources and governance structures within local government contexts. "
+    },
+    {
+      "number": 5,
+      "text": "Analyse and consider complex arguments, interests, and values to inform decision-making within local government and intergovernmental contexts. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "Inherent (essential) requirements are academic and non-academic requirements that are essential to the successful completion of a course.\n\nProspective and current students should carefully read the Inherent (Essential) Requirements Statement below and consider whether they might experience challenges in successfully completing this course. This Statement should be read in conjunction with the UTS Student Rules.\n\nProspective or current student concerned about their ability to meet these requirements should discuss their concerns with the Academic Liaison Officer in their faculty or school and/or UTS Accessibility Service on 9514 1177 or at accessibility@uts.edu.au.\n\nUTS will make reasonable adjustments to teaching and learning, assessment, professional experiences, course related work experience and other course activities to facilitate maximum participation by students with disabilities, carer responsibilities, and religious or cultural obligations in their courses.\n\nFor course specific information see the Faculty of Design, Architecture and Building Inherent (Essential) Requirements Statement.",
+  "study_plans": [
+    {
+      "name": "Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/f2faa723c3feee50020e061ad001313c"
+    }
+  ],
+  "notes": "This course is not offered to international students.\n\nThis course is not offered to international students.",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree, or an equivalent or higher qualification, or submitted other evidence of general and professional qualifications that demonstrates potential to pursue graduate studies.\n\nApplicants must have one of the following UTS recognised academic qualifications or an equivalent (according to NOOSR or UK NARIC):\n\nApplicants who do not satisfy the above requirements may be considered on the following:\n\n*Work experience from within the following ANZSCO Occupation descriptors is deemed as relevant: 13. Specialist Managers, 22. Business, Human Resources and Marketing Professionals, 23. Design, Engineering, Science and Transport Professions, 51. Office Managers and Program Administrators.\n\nThe English proficiency requirement for local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "The course is particularly suited to local government middle-tier managers and unit leaders who wish to advance their careers. It is also highly recommended for public administrators from other tiers of government and professionals from the non-government sector who work in partnership with local councils for the benefit of local and regional communities.",
+  "course_structure": "The course comprises 24 credit points, made up of four subjects.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c11053.html",
+    "crawled_at": "2025-11-10T18:06:07.601857",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "course_code": "C10172",
+  "course_name": "Bachelor of Molecular Biotechnology",
+  "credit_points": "144 Credit points",
+  "cricos_code": "026806C",
+  "overview": "By 2031, the global biotechnology market is expected to be valued at US$53.7 billion – which means over the coming decade, skilled biotech professionals will be more in demand than ever. Students passionate about using science to transform human and environmental outcomes can take their place in this rapidly expanding field.\n\nAt its core, biotechnology is about manipulating the cellular and molecular processes of living organisms. With a unique hands-on learning style, UTS Bachelor of Molecular Biotechnology students work at the intersection of emerging technology and medical or environmental science to drive new innovations in human and planetary health.\n\nWhy UTS Science?\n\nUTS Science, one of Australia’s leading university science faculties, is committed to scientific advancement that creates a more sustainable world. When students study with UTS, they join a university that delivers global impact in STEM education and research and a faculty that produces scientists with the power to transform the profession.\n\nCourse features",
+  "awards": [
+    "Bachelor of Molecular Biotechnology (BMolBiotech)"
+  ],
+  "faculty": [
+    "Science"
+  ],
+  "study_level": "Undergraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "3 Year(s)",
+  "duration_parttime": "6 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [
+    "607045",
+    "Autumn Session, Spring Session"
+  ],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Explain how current and emerging molecular biotechnologies can be used to pioneer better health care or help solve or otherwise address environmental issues, and to evaluate and integrate economic and scientific strategies that influence the translation of new biotechnology products to the marketplace. "
+    },
+    {
+      "number": 2,
+      "text": "Critically evaluate information from sources such as databases and published literature to identify novel research ideas and apply strategic and creative reasoning to find solutions or articulate issues related to biotechnology. "
+    },
+    {
+      "number": 3,
+      "text": "Articulate the role and place of bio-business in the economy, with due consideration of global risk perceptions and the legal and regulatory requirements in biotechnology. "
+    },
+    {
+      "number": 4,
+      "text": "Demonstrate a confident independence to identify problems or unmet needs and act to find innovative and creative solutions with an understanding of the social, disciplinary, economic, and contextual barriers. "
+    },
+    {
+      "number": 5,
+      "text": "Display effective and appropriate professional communication skills (oral, written, visual) in order to pitch ideas, generate defensible, convincing arguments or transmit research findings within a multi-disciplinary setting. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [
+    {
+      "name": "Environmental Biotechnology, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/564d276b47f22650a31de422036d4381"
+    },
+    {
+      "name": "Environmental Biotechnology, Spring commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/5a4d276b47f22650a31de422036d43aa"
+    },
+    {
+      "name": "Medical Biotechnology, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/164d276b47f22650a31de422036d4379"
+    },
+    {
+      "name": "Medical Biotechnology, Spring commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/124d276b47f22650a31de422036d4396"
+    }
+  ],
+  "notes": "None",
+  "admission_requirements": "Applicants must have completed an Australian Year 12 qualification, Australian Qualifications Framework Diploma, or equivalent Australian or overseas qualification at the required level.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Biotechnology is a global field – and Australia is one of the world’s leading locations for biotech companies. Whether graduates want to work overseas or pursue local opportunities, the UTS Bachelor of Molecular Biotechnology can supercharge their career prospects.\n\nCareer options depend on the choice of major:",
+  "course_structure": "Students must complete a total of 144 credit points, made up of 54 credit points of core subjects, a 66-credit-point major and 24 credit points of electives.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c10172.html",
+    "crawled_at": "2025-11-10T17:33:30.418293",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

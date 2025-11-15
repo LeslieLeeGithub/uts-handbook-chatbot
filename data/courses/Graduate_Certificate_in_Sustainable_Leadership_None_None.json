@@ -1,0 +1,61 @@
+{
+  "course_code": "C11370",
+  "course_name": "Graduate Certificate in Sustainable Leadership",
+  "credit_points": "24 Credit points",
+  "cricos_code": "None",
+  "overview": "The Graduate Certificate in Sustainable Leadership is for existing or future leaders who want to ensure sustainability is at the forefront of their profession. The program is designed for individuals seeking career progression or those looking to equip themselves with contemporary knowledge about advancements and how to report and present sustainability initiatives and outcomes. Topics include science data, policies, climate change and sustainability practice to develop an all-encompassing skill set for leaders, or emerging leaders, who have sustainability as one of their priorities.\n\nThis program is for individuals who want to address the challenges of sustainability from multiple perspectives including techno-economic, social license and community impact. Fully online delivery in accelerated mode provides flexibility to current professionals wanting to further develop their career while still maintaining their employment responsibilities and wishing to apply their learning in their current positions.",
+  "awards": [
+    "Graduate Certificate in Sustainable Leadership (GradCertSustLdship)"
+  ],
+  "faculty": [
+    "Science"
+  ],
+  "study_level": "Postgraduate",
+  "location": [
+    "Online campus"
+  ],
+  "duration_fulltime": null,
+  "duration_parttime": null,
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Critically appraise and apply advanced skills and knowledge relevant to sustainability and leadership. "
+    },
+    {
+      "number": 2,
+      "text": "Analyse data and information to design appropriate independent research to solve complex sustainability and leadership problems. "
+    },
+    {
+      "number": 3,
+      "text": "Develop, prepare, and engage in work practices demonstrating awareness of ethical conduct, risk management, organisation, and governance or regulatory requirements in the context of sustainable leadership. "
+    },
+    {
+      "number": 4,
+      "text": "Critically reflect on their own and others' practices in relation to sustainability, seek and act on feedback to develop professional practice and learning "
+    },
+    {
+      "number": 5,
+      "text": "Communicate complex ideas using various communication approaches from a variety of methods (oral, written, digital and visual) to broad audiences around sustainability. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [],
+  "notes": "None",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree, or an equivalent or higher qualification, or submitted other evidence of general and professional qualifications that demonstrates potential to pursue graduate studies.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Career options include commercialisation officer / coordinator, product manager, scientific advisor, policy officer/advisor, corporate sustainability consultant, renewable energy leader, sustainability project officer, environmental and sustainability advisor, science communication manager / officer, business development management (energy/sustainability), corporate sustainability consultant, senior sustainability consultant, sustainability manager, corporate social responsibility specialist, environmental policy analyst, sustainability consultant / coordinator, sustainable business strategist, sustainability communications manager, green supply chain manager, social impact manager, sustainable development planner, renewable energy consultant, project coordinator, climate change analyst, sustainability educator, corporate sustainability advisor, sustainability project manager.",
+  "course_structure": "The course comprises a total of 24 credit points and consists of four compulsory core subjects.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c11370.html",
+    "crawled_at": "2025-11-10T19:14:46.000573",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

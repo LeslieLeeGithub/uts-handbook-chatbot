@@ -1,0 +1,66 @@
+{
+  "course_code": "C07137",
+  "course_name": "Graduate Diploma in Forensic Science",
+  "credit_points": "48 Credit points",
+  "cricos_code": "098063G",
+  "overview": "The Graduate Diploma in Forensic Science prepares students for professional and specialist work in the discipline of forensic science and is designed for professional scientists wishing to update their industry-related skills for career advancement.\n\nThis course is designed to build students' knowledge and practice of forensic science alongside developing science management and leadership skills. The course contains compulsory core and elective practice-focused forensic science subjects across a range of disciplines from the crime scene to the laboratory. Professional subjects covering a range of skills crucial to all professional scientists – such as project and laboratory management, advanced scientific communication, ethics, innovation and science business models – complete the course. Students also have the option of undertaking a short research internship, subject to approval by the faculty.",
+  "awards": [
+    "Graduate Diploma in Forensic Science (GradDipForSc)"
+  ],
+  "faculty": [
+    "Science"
+  ],
+  "study_level": "Postgraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "1 Year(s)",
+  "duration_parttime": "2 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Demonstrate the appraisal and application of advanced knowledge, technical skills relevant to professional practice in forensic science. "
+    },
+    {
+      "number": 2,
+      "text": "Assess, argue for, and conduct appropriate approaches to forensic science problems through analysis and critical thinking in a relevant professional context. "
+    },
+    {
+      "number": 3,
+      "text": "Develop and execute - individually or collaboratively - ethical, safe and sustainable work practices, accountable to stakeholder requirements in forensic science, locally and globally. "
+    },
+    {
+      "number": 4,
+      "text": "Reflectively discover, create, and evaluate the processes used to determine the value, integrity, and relevance of sources of information to derive solutions to forensic science problems. "
+    },
+    {
+      "number": 5,
+      "text": "Communicate complex ideas in a rigorous and professional manner using a variety of methods (oral, written, visual) to discipline experts, scientists, stakeholders, and the general public. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [
+    {
+      "name": "Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/db66670d833be210fed7d4326daad322"
+    }
+  ],
+  "notes": "None",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree, or an equivalent or higher qualification, or submitted other evidence of general and professional qualifications that demonstrates potential to pursue graduate studies.\n\nEntry into the course requires the completion of a bachelor's, master's, graduate diploma, graduate certificate qualification in chemical sciences, biochemistry and cell biology, human biology, forensic science or medical science.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Depending on the area of specialisation, graduates may pursue employment with organisations such as the Australian Federal Police, state policing agencies, ASIO, CSIRO, ANSTO, customs, immigration, and private forensic agencies. Career options include criminalist, trace evidence specialist, forensic toxicologist, DNA specialist, scene-of-crime officer, team leader in investigations, fire investigator, and fingerprint analyst.",
+  "course_structure": "The course requires 48 credit points of study, with 32 credit points chosen from core discipline subjects and 16 credit points from professional stream subjects.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c07137.html",
+    "crawled_at": "2025-11-10T16:43:36.270209",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

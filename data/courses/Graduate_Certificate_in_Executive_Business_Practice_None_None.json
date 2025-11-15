@@ -1,0 +1,57 @@
+{
+  "course_code": "C11327",
+  "course_name": "Graduate Certificate in Executive Business Practice",
+  "credit_points": "24 Credit points",
+  "cricos_code": "None",
+  "overview": "The UTS Graduate Certificate in Executive Business Practice provides foundation skills used in the management and strategic change of a business unit, start-up or enterprise. The course is designed for experienced professionals and features:\n\nThe Graduate Certificate in Executive Business Practice emphasises applied and work-integrated learning that allows students to apply what they learn directly to their specific work context. The flexible modular structure of the program allows students to study the program in stages, leveraging online and immersive, interaction-rich in-class learning.",
+  "awards": [
+    "Graduate Certificate in Executive Business Practice (GradCertExecBusPrac)"
+  ],
+  "faculty": [
+    "Business"
+  ],
+  "study_level": "Postgraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": null,
+  "duration_parttime": "1 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Apply analytical and creative thinking to evaluate information and formulate strategies to solve business problems "
+    },
+    {
+      "number": 2,
+      "text": "Demonstrate effective communication skills and interpersonal awareness of self and others "
+    },
+    {
+      "number": 3,
+      "text": "Appraise diverse moral and ethical dimensions to critically evaluate and culturally contextualise sustainable business strategies "
+    },
+    {
+      "number": 4,
+      "text": "Apply business concepts and practices with professional integrity to evaluate businesses for transformation "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [],
+  "notes": "This course is not offered to international students.",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree, or an equivalent or higher qualification, or submitted other evidence of general and professional qualifications that demonstrates potential to pursue graduate studies.\n\nProfessional Experience Requirement: At least six years full-time, or equivalent part-time, professional work experience.\n\nThe relevant work experience must be demonstrated through a C.V. and a Statement of Service, confirming the dates of employment, and the position held within the organisation.\n\nInterview Requirement: Attend an interview with the director of the EMBA.\n\nApplicants without an academic qualification may be considered for the Graduate Certificate with eight years of full-time, or equivalent part-time, senior management work experience and a general capacity to undertake tertiary education.\n\nThe English proficiency requirement for local applicants with international qualifications is: Academic IELTS: 7.0 overall with a writing score of 6.5; or TOEFL: paper based: 584-609 overall, internet based: 94-101 overall with a writing score of 24; or AE6: Pass; or PTE: 65-72 overall with a writing score 58; or C1A/C2P: 185-190 with a writing score 176.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Career options include management-level positions in industry, start-ups or government.",
+  "course_structure": "Students must complete a total of 24 credit points, comprising of Adaptive Leadership Lab (6 credit points), one study pathway in corporate transformation or entrepreneurship (12 credit points) and core or elective options (6 credit points).",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c11327.html",
+    "crawled_at": "2025-11-10T18:47:57.188581",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

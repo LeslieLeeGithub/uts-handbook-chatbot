@@ -1,0 +1,42 @@
+name: SIG
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - git
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - uvicorn
+  - fastapi
+
+
+# mannualy Install Torch first (GPU):
+# pip3 install --upgrade pip
+# pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu129
+
+
+# Core LLM/RAG libs (after Torch is present):
+# pip install "transformers>=4.51.0" "accelerate>=0.33.0" "sentence-transformers>=2.7.0"
+# pip install qdrant-client whoosh rank-bm25
+
+# PDF & orchestration:
+# pip install pdfplumber pypdfium2 pypdf pymupdf
+# pip install langchain langchain-community langchain-huggingface langchain-ollama
+# pip install ollama requests openai httpx python-dotenv pydantic
+
+
+# Optional heavy stuff:
+# pip install ragas
+# pip install jupyter ipykernel notebook
+
+
+# Verify:
+# python - << 'PY'
+# import torch, transformers
+# print("Torch:", torch.__version__)
+# print("CUDA:", torch.cuda.is_available(), "GPUs:", torch.cuda.device_count())
+# print("Transformers:", transformers.__version__)
+# PY

@@ -1,0 +1,58 @@
+{
+  "course_code": "C10476",
+  "course_name": "Bachelor of Computing Science",
+  "credit_points": "144 Credit points",
+  "cricos_code": "118360G",
+  "overview": "The Bachelor of Computing Science offers a full grounding in the central disciplines of IT and Computing Science, including both theory and professional practice. Utilising a cadetship model of study, the degree builds professional aptitude and workplace experience while studying. It is aimed at student with a passion for computer science, IT and related fields who are looking toward technically oriented industry positions.\n\nThe Bachelor of Computing Science is part of the Industry Degree Academy program, which uniquely combines work and study in an integrated cadetship format where students’ workplace activities are credited towards this degree. Unlike working while studying, the Bachelor of Computing Science is designed to enable employers and students to actively contribute to the learning outcomes via portfolios and industry certifications and training. As well as gaining strong technical skills and a full qualification in computing science and IT for their chosen specialisation, students also gain skills in problem-solving, teamwork, project management and communication.",
+  "awards": [
+    "Bachelor of Computing Science (BCompSc)"
+  ],
+  "faculty": [
+    "Engineering",
+    "and",
+    "Information",
+    "Technology"
+  ],
+  "study_level": "Undergraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "3 Year(s)",
+  "duration_parttime": null,
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [
+    "603232",
+    "Standard",
+    "Autumn Session, Spring Session603231",
+    "IDeA",
+    "Autumn Session"
+  ],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "The Faculty of Engineering and Information Technology is seeking accreditation from the Australian Computer Society.",
+  "learning_outcomes": [],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "Inherent (essential) requirements are academic and non-academic requirements that are essential to the successful completion of a course.\n\nProspective and current students should carefully read the Inherent (Essential) Requirements Statement below and consider whether they might experience challenges in successfully completing this course. This Statement should be read in conjunction with the UTS Student Rules.\n\nProspective or current student concerned about their ability to meet these requirements should discuss their concerns with the Academic Liaison Officer in their faculty or school and/or UTS Accessibility Service on 9514 1177 or at accessibility@uts.edu.au.\n\nUTS will make reasonable adjustments to teaching and learning, assessment, professional experiences, course related work experience and other course activities to facilitate maximum participation by students with disabilities, carer responsibilities, and religious or cultural obligations in their courses.\n\nFor course specific information see the Faculty of Engineering & Information Technology Inherent (Essential) Requirements Statement.",
+  "study_plans": [
+    {
+      "name": "Autumn commencing, full time (IDeA)",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/eed00af847647a10413994ed036d4377"
+    },
+    {
+      "name": "Autumn commencing, full time (Standard)",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/e6d00af847647a10413994ed036d4384"
+    }
+  ],
+  "notes": "This course is not offered to international students.",
+  "admission_requirements": "Applicants must have completed an Australian Year 12 qualification, Australian Qualifications Framework Diploma, or equivalent Australian or overseas qualification at the required level.\n\nThe English proficiency requirement for local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Depending on the major selected, career options include software developer, systems analyst, data analyst, business analyst, IT project manager, network specialist.",
+  "course_structure": "Students are required to complete 144 credit points, comprising 48 credit points of Information Technology core subjects, 48 credit points of Computing Science core subjects, and an option of choosing either a major or two sub-majors, or combination of 24 credit points of electives and a sub-major.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c10476.html",
+    "crawled_at": "2025-11-10T17:57:28.734904",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

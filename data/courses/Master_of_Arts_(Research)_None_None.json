@@ -1,0 +1,60 @@
+{
+  "course_code": "C03067",
+  "course_name": "Master of Arts (Research)",
+  "credit_points": "24 Credit points",
+  "cricos_code": "102187B",
+  "overview": "Students extend and deepen their knowledge through an appropriate research investigation under a supervisory panel with expertise in the proposed area of research. They develop critical and analytical skills, and advanced research skills to enable in-depth exploration of their chosen area, including for creative or professional practice.\n\nAll students are required to successfully complete the research training coursework subject 51913 Academic Research Practice which will develop their research knowledge and skills.",
+  "awards": [
+    "Master of Arts (Research)"
+  ],
+  "faculty": [
+    "Arts",
+    "and",
+    "Social",
+    "Sciences"
+  ],
+  "study_level": "Postgraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "2 Year(s)",
+  "duration_parttime": "4 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Research and apply established theories to a body of knowledge, including for creative or professional practice "
+    },
+    {
+      "number": 2,
+      "text": "Analyse critically, reflect on and synthesise complex information, problems, concepts and theories "
+    },
+    {
+      "number": 3,
+      "text": "Consider the implications of research in relation to Indigenous peoples and communities in Australia and global contexts, where relevant "
+    },
+    {
+      "number": 4,
+      "text": "Conduct research ethically and rigorously "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [],
+  "notes": "Research degrees are offered on a sponsored or full-fee-paying basis. Contact the Faculty of Arts and Social Sciences or the UTS: Graduate Research School for further details.",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree, or an equivalent or higher qualification, or submitted other evidence of general and professional qualifications that demonstrates potential to pursue graduate research studies.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 7.0 overall with a writing score of 7.0; or TOEFL: paper based: 584-609 overall with TWE of 5.0, internet based: 94-101 overall with a writing score of 27; or AE6: Pass; or PTE: 65-72 overall with a writing score of 65; or C1A/C2P: 185-190 overall with a writing score of 185.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "The research degrees offered by the Faculty of Arts and Social Sciences are especially valuable for those wishing to pursue an academic career, a career in research or an advanced level of professional practice. Career options include positions in the creative industries.",
+  "course_structure": "Candidates are required to submit a thesis that demonstrates a body of research at the quality and level required for a Master of Arts. A conventional thesis is a work of approximately 40,000 to 50,000 words. Candidates may elect to complete a thesis that includes non-traditional research artefacts, such as a creative work, exhibition, performance, or portfolio of creative or professional work relevant to the discipline/field with an accompanying written dissertation or exegesis of approximately 15,000 to 20,000 words. Ranges indicated do not include the abstract, appendices or references.\n\nCandidates are required to submit, in consultation with their supervisor(s), an Annual Review of Progress and undertake Stage Assessments as part of the Faculty's three-stage program. In the first stage, candidates must complete a formal assessment to confirm their candidature. In the second stage, a progress confirmation assessment to ensure their progress is consistent with completion of the research program within the prescribed time and demonstrates potential to complete the work to standard. Candidates are required to complete a third stage in order to confirm readiness to submit their thesis for examination.\n\nAs part of this course students must also complete the research training subject 51913 Academic Research Practice.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c03067.html",
+    "crawled_at": "2025-11-10T14:24:04.834567",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

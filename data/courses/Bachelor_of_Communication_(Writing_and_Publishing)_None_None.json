@@ -1,0 +1,76 @@
+{
+  "course_code": "C10369",
+  "course_name": "Bachelor of Communication in Creative Writing",
+  "credit_points": "144 Credit points",
+  "cricos_code": "118287M",
+  "overview": "For those with an interest in different forms of creative writing and publishing, this practice-based course provides the skills and industry knowledge to work in the field. The Bachelor of Communication (Writing and Publishing) at UTS is an industry-led course, designed and taught by a team of award-winning published authors, editors, scholars and industry professionals. Writing and Publishing builds students’ knowledge of Australian and global publishing contexts, as well as writing and storytelling across an array of formats, like fiction and nonfiction, screenwriting, digital content and games. Students also develop strengths in critical thinking, research, editing and publishing and storytelling in broader contexts – all skills transferable to a wide range of industries and careers.\n\nTo hone their skills, students engage in interactive classes led by skilled practitioners. Subjects often rely on workshopping, with students learning key concepts, applying these to their own writing, and collaborating with other students to provide and receive feedback. In this way the course provides students with a brilliant opportunity to be a part of a unique writer’s studio and develop their craft, finishing with a folio of works covering key forms and genres.",
+  "awards": [
+    "Bachelor of Communication in Creative Writing / Bachelor of Communication in Creative Writing and in (name of second stream) (BCommCreativeWriting)"
+  ],
+  "faculty": [
+    "Arts",
+    "and",
+    "Social",
+    "Sciences"
+  ],
+  "study_level": "Undergraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "3 Year(s)",
+  "duration_parttime": null,
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [
+    "600033",
+    "Autumn Session, Spring Session"
+  ],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Apply theoretically informed understandings of communication industries to independent and collaborative projects across a range of media. "
+    },
+    {
+      "number": 2,
+      "text": "Act as reflexive critical thinkers and innovative communication practitioners who can thoughtfully evaluate and analyse their own and others’ work. "
+    },
+    {
+      "number": 3,
+      "text": "Demonstrate a strong awareness, knowledge of, and sensitivity to, diversity and equity in global contexts. "
+    },
+    {
+      "number": 4,
+      "text": "Apply knowledge and skills related to Indigenous Australian contexts to inform capabilities to work for and with Indigenous Australians within communication industries. "
+    },
+    {
+      "number": 5,
+      "text": "Reflect upon and act ethically in the personal, political and professional contexts of civil society. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "Inherent (essential) requirements are academic and non-academic requirements that are essential to the successful completion of a course.\n\nProspective and current students should carefully read the Inherent (Essential) Requirements Statement below and consider whether they might experience challenges in successfully completing this course. This Statement should be read in conjunction with the UTS Student Rules.\n\nProspective or current student concerned about their ability to meet these requirements should discuss their concerns with the Academic Liaison Officer in their faculty or school and/or UTS Accessibility Service on 9514 1177 or at accessibility@uts.edu.au.\n\nUTS will make reasonable adjustments to teaching and learning, assessment, professional experiences, course related work experience and other course activities to facilitate maximum participation by students with disabilities, carer responsibilities, and religious or cultural obligations in their courses.\n\nFor course specific information see the Communication Inherent (Essential) Requirements Statement.",
+  "study_plans": [
+    {
+      "name": "Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/e4fe3243837f2e10fed7d4326daad3ea"
+    },
+    {
+      "name": "Spring commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/e4fe3243837f2e10fed7d4326daad3d2"
+    }
+  ],
+  "notes": "Students who commenced the Bachelor of Communication (Creative Writing) before 2022 can view their revised program of study here.",
+  "admission_requirements": "Applicants must have completed an Australian Year 12 qualification, Australian Qualifications Framework Diploma, or equivalent Australian or overseas qualification at the required level.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "To increase career flexibility, students can add a second major from five of the other majors offered in the Bachelor of Communication, and build further skills and portfolios that equip them for a range of work options in media and communication. These courses give students practical and transferrable skills for the expanding media industries.\n\nGraduates of this course have found work as writers of fiction and nonfiction in a variety of forms, both as freelance writers and in media organisations. These skills are transferable to careers in communication and marketing, and in organisations with communication processes, such as government, NGOs, industry and cultural groups.",
+  "course_structure": "Students must complete 144 credit points consisting of 24 credit points of core subjects, a 48-credit-point major, a potential 48-credit-point second major, and 24 credit points of electives.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c10369.html",
+    "crawled_at": "2025-11-10T17:49:26.092476",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

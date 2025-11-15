@@ -1,0 +1,13 @@
+pyppeteer==1.0.2
+aiofiles==23.2.1
+beautifulsoup4==4.12.2
+requests==2.31.0
+lxml==4.9.3
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+qdrant-client==1.9.1
+sentence-transformers==2.7.0
+transformers==4.44.2
+accelerate==0.34.2
+huggingface-hub==0.24.6
+python-dotenv==1.0.1

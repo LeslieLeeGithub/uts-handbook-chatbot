@@ -1,0 +1,140 @@
+{
+  "course_code": "C10026",
+  "course_name": "Bachelor of Business",
+  "credit_points": "144 Credit points",
+  "cricos_code": "113425B",
+  "overview": "The Bachelor of Business offers students a sound background in all areas of business through eight common core subjects undertaken in first year. It also provides them with an opportunity to study one or more areas of interest via a major or an extended major undertaken from second year. The major provides them with in-depth knowledge in a business specialisation. Students could also undertake sub-majors or electives to complement this specialised knowledge.\n\nThe Bachelor of Business provides flexibility for students as they construct a learning journey tailored to their career aspirations. Students can choose from a range of course structures. Depending on their selected course structure, they can choose from a wide range of majors, sub-majors or electives which deepen expertise via business subjects, or add breadth via subjects from other faculties and schools.",
+  "awards": [
+    "Bachelor of Business (BBus)"
+  ],
+  "faculty": [
+    "Business"
+  ],
+  "study_level": "Undergraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "3 Year(s)",
+  "duration_parttime": "6 Year(s)",
+  "duration_sessions": "6",
+  "course_fee": "22460",
+  "course_intake": "Feb/ Jul",
+  "uac_codes": [
+    "601030",
+    "FT",
+    "Autumn Session, Spring Session, Summer Session601035",
+    "PT",
+    "Autumn Session, Spring Session"
+  ],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "To meet the educational membership requirements for entry into CPA Australia (CPAA), Chartered Accountants of Australia and New Zealand (CAANZ), Chartered Institute of Management Accountants (CIMA), Association of Chartered Certified Accountants (ACCA), and Institute of Public Accountants (IPA) students will need to complete the Accounting major and successfully complete subject 21644 Law and Ethics for Managers as either an elective or part of another major.\n\nStudents who complete the Human Resource Management major are eligible to apply for the professional member status and/or advancement to a higher level of membership of the Australian Human Resources Institute (AHRI).\n\nUTS is recognised as an affiliated university under the CFA® (Charted Financial Analyst®) University Affiliation Program, based on the Bachelor of Business with Finance major. CFA Institute has affiliations with select universities around the world that have embedded a significant percentage (70 per cent) of the CFA® Program Candidate Body of Knowledge into their degree programs.",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Apply evidence, creativity and critical reasoning to solve business problems "
+    },
+    {
+      "number": 2,
+      "text": "Communicate information clearly in a form appropriate for its audience "
+    },
+    {
+      "number": 3,
+      "text": "Demonstrate ability to work independently and with others as a member of a team to achieve an agreed goal "
+    },
+    {
+      "number": 4,
+      "text": "Make judgements and business decisions consistent with the principles of social responsibility and inclusion "
+    },
+    {
+      "number": 5,
+      "text": "Apply technical and professional skills to operate effectively in business "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [
+    {
+      "name": "Accounting major, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/f631e3de8364b650fed7d4326daad3e1"
+    },
+    {
+      "name": "Accounting major, Spring commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/533127de8364b650fed7d4326daad396"
+    },
+    {
+      "name": "Advertising and Marketing Communications major, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/e231e3de8364b650fed7d4326daad3b4"
+    },
+    {
+      "name": "Advertising and Marketing Communications major, Spring commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/473127de8364b650fed7d4326daad359"
+    },
+    {
+      "name": "Business Analytics major, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/f231e3de8364b650fed7d4326daad3e9"
+    },
+    {
+      "name": "Business Analytics major, Spring commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/933127de8364b650fed7d4326daad39e"
+    },
+    {
+      "name": "Economics major, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/b231e3de8364b650fed7d4326daad3fa"
+    },
+    {
+      "name": "Economics major, Spring commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/173127de8364b650fed7d4326daad38d"
+    },
+    {
+      "name": "Finance major, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/be31e3de8364b650fed7d4326daad3cf"
+    },
+    {
+      "name": "Finance major, Spring commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/933127de8364b650fed7d4326daad36b"
+    },
+    {
+      "name": "Human Resource Management major, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/fa31e3de8364b650fed7d4326daad3f1"
+    },
+    {
+      "name": "Human Resource Managment major, Spring commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/0b3127de8364b650fed7d4326daad347"
+    },
+    {
+      "name": "International Business major, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/6231e3de8364b650fed7d4326daad3be"
+    },
+    {
+      "name": "International Business major, Spring commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/c33127de8364b650fed7d4326daad362"
+    },
+    {
+      "name": "Management major, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/fa31e3de8364b650fed7d4326daad3d8"
+    },
+    {
+      "name": "Management major, Spring commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/873127de8364b650fed7d4326daad350"
+    },
+    {
+      "name": "Marketing major, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/6e31e3de8364b650fed7d4326daad3c6"
+    },
+    {
+      "name": "Marketing major, Spring commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/5f3127de8364b650fed7d4326daad3a6"
+    }
+  ],
+  "notes": "None",
+  "admission_requirements": "Applicants must have completed an Australian Year 12 qualification, Australian Qualifications Framework Diploma, or equivalent Australian or overseas qualification at the required level.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): 80; Admission requirements for Chinese students (Gaokao score out of 750): 487; Admission requirements for students with GCE A Levels: 9; Admission requirements for Hong Kong students (HKDSE): 17; Admission requirements for Indian students (AISSC): 13; Admission requirements for Indian students (ISC): 83; Admission requirements for students with IB or Predicted IB: 28/33 ; Admission requirements for Malaysian students (STPM with 3 AL Subjects): 10; Admission requirements for Singaporean students (A Level): 9; Admission requirements for USA students (SAT 1): 1160; Admission requirements for UTS Foundation Studies students: 6.9",
+  "career_options": "The Bachelor of Business is a broad professional degree, equipping graduates to pursue careers across all business fields, industries and sectors. Examples of career options include accountant, auditor, banker, business adviser, business analyst, business consultant, economist, entrepreneur, financial analyst, financial planner, human resources manager, project manager, marketing specialist, stockbroker.",
+  "course_structure": "The course comprises a total of 144 credit points. The study components for course completion are:\n\nStudents can choose any of the following as a first major: Accounting, Economics, Finance, Human Resource Management, International Business, Management, Marketing or Advertising and Marketing Communications.\n\nThe choice of second major includes those listed above as well as Business Law or Information Technology.\n\nElectives (totalling 24 or 48 credit points) can be taken from any faculty in the university, with the approval of the owning Faculty. For more information on business electives, please see the Business Electives page.\n\nStudents have an option to undertake an internship program (26600 Business Internship) as an elective within the business major or as a free elective. Students should not enrol in the internship subject in the last session of study to ensure that completion of required hours of work does not impact graduation and/or international students' visa conditions.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c10026.html",
+    "crawled_at": "2025-11-10T03:02:31.781838",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

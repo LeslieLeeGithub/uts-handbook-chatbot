@@ -1,0 +1,61 @@
+{
+  "course_code": "C09057",
+  "course_name": "Bachelor of Sport and Exercise Science (Honours)",
+  "credit_points": "48 Credit points",
+  "cricos_code": "043289M",
+  "overview": "The honours program is designed to provide students with the resources to further develop and apply their research skills and to pursue focused areas of interest within sport and exercise science.",
+  "awards": [
+    "Bachelor of Sport and Exercise Science (Honours)"
+  ],
+  "faculty": [
+    "Health"
+  ],
+  "study_level": "Undergraduate",
+  "location": [
+    "Moore Park Precinct"
+  ],
+  "duration_fulltime": "1 Year(s)",
+  "duration_parttime": "2 Year(s)",
+  "duration_sessions": "2",
+  "course_fee": "19060",
+  "course_intake": "Feb",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Synthesise, evaluate and apply disciplinary knowledge, skills and perspectives to develop evidence-based interventions in sport, exercise, and health. "
+    },
+    {
+      "number": 2,
+      "text": "Provide ethical, accountable and equitable services in sport, exercise and health. "
+    },
+    {
+      "number": 3,
+      "text": "Lead, manage and develop collaborative partnerships in sport, exercise and health. "
+    },
+    {
+      "number": 4,
+      "text": "Communicate effectively and collaborate with industry professionals, clients, and diverse populations to promote and manage sport, exercise, and health outcomes. "
+    },
+    {
+      "number": 5,
+      "text": "Apply contemporary management practices and adapt to diverse contexts to ensure sustainable, socially, and environmentally responsible outcomes in sport, exercise, and health. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [],
+  "notes": "None",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree in a relevant discipline at an appropriate level.\n\nExamples include:\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): n/a ; Admission requirements for Chinese students (Gaokao score out of 750): n/a ; Admission requirements for students with GCE A Levels: n/a ; Admission requirements for Hong Kong students (HKDSE): n/a ; Admission requirements for Indian students (AISSC): n/a ; Admission requirements for Indian students (ISC): n/a ; Admission requirements for students with IB or Predicted IB: n/a ; Admission requirements for Malaysian students (STPM with 3 AL Subjects): n/a ; Admission requirements for Singaporean students (A Level): n/a ; Admission requirements for USA students (SAT 1): n/a ; Admission requirements for UTS Foundation Studies students: n/a",
+  "career_options": "Adding an honours year to your degree will develop higher level skills that set you apart and improve your employment opportunities. Honours students can also pathway into higher level degrees such as a Masters or Doctor of Philosophy (PhD). Career options include exercise science, sports science, corporate health and fitness, physical activity, strength and conditioning, research assistant, health promotion (e.g. for general population or aged care), sports coaching or training (e.g. in schools or sporting clubs), sports development and sports management (including government roles in planning and policy). Students who progress to the level of PhD may find career opportunities in higher education institutions such as TAFE or University. This could include lecturing, research or coordination of work experience programs.",
+  "course_structure": "All students must complete one coursework subject, worth 6 credit points, and a major thesis of 42 credit points, totalling 48 credit points. The precise nature of each student's program is determined in consultation with the honours course coordinator, with the aim of choosing a topic that will facilitate completion of the honours research thesis.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c09057.html",
+    "crawled_at": "2025-11-10T04:30:04.976577",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

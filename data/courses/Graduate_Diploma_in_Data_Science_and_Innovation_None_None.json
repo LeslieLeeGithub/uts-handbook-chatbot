@@ -1,0 +1,62 @@
+{
+  "course_code": "C06124",
+  "course_name": "Graduate Diploma in Data Science and Innovation",
+  "credit_points": "48 Credit points",
+  "cricos_code": "084267M",
+  "overview": "The Graduate Diploma in Data Science and Innovation is a nested qualification within the Master of Data Science and Innovation (C04372), a world-leading program of study in analytics and data science.\n\nTaking a transdisciplinary approach, the master's course utilises a range of perspectives from diverse fields and integrates them with industry experiences, real-world projects and self-directed study, equipping graduates with an understanding of the potential of analytics to transform practice. The course is delivered in a range of modes, including contemporary online and face-to-face learning experiences in UTS's leading-edge facilities.\n\nThe dramatic growth of data in every conceivable industry, from oceanography to market research, presents another major driving force in generating unprecedented global demand for data science skills.",
+  "awards": [
+    "Graduate Diploma in Data Science and Innovation (GradDipDataScInn)"
+  ],
+  "faculty": [
+    "TD",
+    "School"
+  ],
+  "study_level": "Postgraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "1 Year(s)",
+  "duration_parttime": "2 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Analyse and organise human and technical elements within complex systems, critically evaluating models and assumptions for predicting system behaviours and guiding data exploration. "
+    },
+    {
+      "number": 2,
+      "text": "Critically apply data science techniques to explore, manipulate,and visualise complex data, addressing uncertainty, ambiguity and stakeholder needs. "
+    },
+    {
+      "number": 3,
+      "text": "Develop and evaluate problem-solving strategies to extract value from data, while clearly articulating the implications of analytics outcomes for various stakeholders. "
+    },
+    {
+      "number": 4,
+      "text": "Collaborate effectively in data science teams, crafting meaningful narratives that engage diverse audiences with data-driven insights and implications for action. "
+    },
+    {
+      "number": 5,
+      "text": "Engage in ethical and reflective practice, promoting positive change in data science contexts, with an awareness of social,organisational and community issues, including indigenous perspectives. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "Inherent (essential) requirements are academic and non-academic requirements that are essential to the successful completion of a course.\n\nProspective and current students should carefully read the Inherent (Essential) Requirements Statement below and consider whether they might experience challenges in successfully completing this course. This Statement should be read in conjunction with the UTS Student Rules.\n\nProspective or current student concerned about their ability to meet these requirements should discuss their concerns with the Academic Liaison Officer in their faculty or school and/or UTS Accessibility Service on 9514 1177 or at accessibility@uts.edu.au.\n\nUTS will make reasonable adjustments to teaching and learning, assessment, professional experiences, course related work experience and other course activities to facilitate maximum participation by students with disabilities, carer responsibilities, and religious or cultural obligations in their courses.\n\nFor course specific information see the TD School Inherent (Essential) Requirements Statement.",
+  "study_plans": [],
+  "notes": "None",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree, or an equivalent or higher qualification, or submitted other evidence of general and professional qualifications that demonstrates potential to pursue graduate studies.\n\nIn addition, applicants must also meet one of the following criteria:\n\n1. The academic qualification used to support the application for admission must have been completed with a GPA of at least 4.0 on a 7.00 GPA scale\n\nOR\n\n2. The applicant must have a minimum of two-year full-time, or equivalent part-time, work experience in one of the following fields.\n\nTo support their application these applicants must provide:\n\nOR\n\n3. The academic qualification must be within one of the following fields.\n\nApplicants with a minimum of two-year full-time, or equivalent part-time relevant work experience who do not fully meet the above criteria may still be eligible for an offer.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "The course prepares students to participate in a variety of emerging careers with the growth of data science. While other offerings also provide the basis for these careers, this unique transdisciplinary course is the first of its kind in Australia where creativity and innovation are integral components, producing industry-ready graduates with strong technical, creative thinking and data ethics skills.",
+  "course_structure": "Students must complete 48 credit points in total, including 16 credit points of electives.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c06124.html",
+    "crawled_at": "2025-11-10T16:14:57.110561",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

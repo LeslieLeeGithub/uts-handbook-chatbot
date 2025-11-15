@@ -1,0 +1,61 @@
+{
+  "course_code": "C11357",
+  "course_name": "Graduate Certificate in Acute Care Nursing",
+  "credit_points": "24 Credit points",
+  "cricos_code": "None",
+  "overview": "The Graduate Certificate in Acute Care Nursing is a contemporary, accelerated and fully online program of study designed for Registered Nurses wanting to expand and future proof their specialist knowledge and professional capabilities in acute care nursing. The Graduate Certificate in Acute Care Nursing consists of four subjects: 96320 Specialty Clinical Practice, 96314 Evidence for Informing Practice, 96324 Nursing - Sensitive Indicators in Acute Care and 96315 Recognising and Responding to Acute Deterioration.\n\nThis course is aimed at students who wish to further develop their knowledge, skills and career in acute care nursing. Practitioners attracted to this course hold an approved Registration as a Nurse and work in a variety of acute care settings. These settings include hospital clinical areas such as high dependency units (step down from intensive care units), or acute care units/wards e.g. (medical surgical wards, cardiology, neurology stroke units, transplant units and other acute care nursing specialty areas). Students completing the course gain knowledge and industry experience during the course and can also articulate into the Masters of Advanced Nursing.",
+  "awards": [
+    "Graduate Certificate in Acute Care Nursing (GradCertAcCareN)"
+  ],
+  "faculty": [
+    "Health"
+  ],
+  "study_level": "Postgraduate",
+  "location": [
+    "Online campus"
+  ],
+  "duration_fulltime": null,
+  "duration_parttime": null,
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Evaluate and apply evidence to contribute to practice and policy and achieve optimal health outcomes. "
+    },
+    {
+      "number": 2,
+      "text": "Collaborate and lead to promote evidence-based care and optimal healthcare delivery. "
+    },
+    {
+      "number": 3,
+      "text": "Apply and promote principles of social justice and ethical accountability to achieve optimal health outcomes. "
+    },
+    {
+      "number": 4,
+      "text": "Communicate effectively and respectfully in diverse contexts. "
+    },
+    {
+      "number": 5,
+      "text": "Practice safe and effective person and family -centred care based on professional standards and promote principles of self-care that build resilience. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [],
+  "notes": "None",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree, or an equivalent or higher qualification, or submitted other evidence of general and professional qualifications that demonstrates potential to pursue graduate studies.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "The Graduate Certificate in Acute Care Nursing is targeted at Registered Nurses working in, or have ambitions to work in, an acute care health setting. These nurses are seeking to develop their capability in safe and effective, evidence-based advanced nursing care for patients with acute (i.e. rapid onset of severe illness or trauma) conditions who require urgent and/or intensive management.",
+  "course_structure": "Students must complete a total of 24 credit points.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c11357.html",
+    "crawled_at": "2025-11-10T19:08:11.404675",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

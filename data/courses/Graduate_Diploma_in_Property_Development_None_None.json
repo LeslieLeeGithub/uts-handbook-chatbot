@@ -1,0 +1,64 @@
+{
+  "course_code": "C06150",
+  "course_name": "Graduate Diploma in Property Development (Online)",
+  "credit_points": "48 Credit points",
+  "cricos_code": "None",
+  "overview": "The Graduate Diploma in Property Development provides a comprehensive understanding of the property development process combined with the practical skills required to work effectively in the industry. This incorporates the political, financial, legal and physical systems that contribute to the successful development of property assets.\n\nStudent benefit from close ties to industry. UTS academics have professional backgrounds and connections, and class projects are often based on real development scenarios. As many students have extensive industry experience too, there are excellent opportunities for peer-to-peer learning and networking across a range of fields including property development, valuation, construction, engineering, and town planning.",
+  "awards": [
+    "Graduate Diploma in Property Development (GradDipPropDev)"
+  ],
+  "faculty": [
+    "Design,",
+    "Architecture",
+    "and",
+    "Building"
+  ],
+  "study_level": "Postgraduate",
+  "location": [
+    "Online campus"
+  ],
+  "duration_fulltime": "1 Year(s)",
+  "duration_parttime": "2 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Apply ethical judgements, creative solutions and effective communication skills in professional contexts. "
+    },
+    {
+      "number": 2,
+      "text": "Analyse and apply legal frameworks and market drivers in property development. "
+    },
+    {
+      "number": 3,
+      "text": "Demonstrate a comprehensive theoretical understanding of property valuation methodologies together with the capacity to prepare valuation assessments to a professional standard. "
+    },
+    {
+      "number": 4,
+      "text": "Synthesise and apply knowledge of sustainable development and asset management in property portfolio analysis. "
+    },
+    {
+      "number": 5,
+      "text": "Demonstrate and apply comprehensive understanding of research methods and analytical skills in property development. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "Inherent (essential) requirements are academic and non-academic requirements that are essential to the successful completion of a course.\n\nProspective and current students should carefully read the Inherent (Essential) Requirements Statement below and consider whether they might experience challenges in successfully completing this course. This Statement should be read in conjunction with the UTS Student Rules.\n\nProspective or current student concerned about their ability to meet these requirements should discuss their concerns with the Academic Liaison Officer in their faculty or school and/or UTS Accessibility Service on 9514 1177 or at accessibility@uts.edu.au.\n\nUTS will make reasonable adjustments to teaching and learning, assessment, professional experiences, course related work experience and other course activities to facilitate maximum participation by students with disabilities, carer responsibilities, and religious or cultural obligations in their courses.\n\nFor course specific information see the Faculty of Design, Architecture and Building Inherent (Essential) Requirements Statement.",
+  "study_plans": [],
+  "notes": "This is an exit-only course. There is no direct admission to it. Current UTS students may be able to submit an Internal Course Transfer (Graduating) application to exit with this course. See the Course transfer page for further details.",
+  "admission_requirements": "None; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "The degree provides property-related professionals such as architects, engineers, construction managers, valuers, planners and business or finance professionals the opportunity to broaden their knowledge and qualifications and obtain a more holistic understanding of property development and related processes. This enables graduates to expand their careers or move outside of their original professional area to higher or broader roles within the property development industry and/or offer new services to clients.",
+  "course_structure": "Students must complete a total of 48 credit points, comprising 36 credit points of core subjects and 12 credit points of sub-major/electives.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c06150.html",
+    "crawled_at": "2025-11-10T16:26:27.397780",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

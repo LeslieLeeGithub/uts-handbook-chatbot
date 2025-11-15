@@ -1,0 +1,66 @@
+{
+  "course_code": "C11265",
+  "course_name": "Graduate Certificate in Laws",
+  "credit_points": "24 Credit points",
+  "cricos_code": "095711E",
+  "overview": "This course gives students the opportunity to build specialist legal skills in their area of professional practice, as well as theoretical and practical research capabilities as they relate to the study of the law.\n\nThe degree is highly customisable. Students complete 24 credit points of study based on their personal or professional interests, choosing from a wide range of law electives including finance, patent, insurance, human rights, copyright, family, international and common law.\n\nCourse content is delivered by a mix of practising law professionals, full-time academic staff and international visiting academics, giving students access to a wide range of expertise and perspectives on the study and practice of law. Cross-institutional study in Australia and overseas is encouraged as part of this degree.",
+  "awards": [
+    "Graduate Certificate in Laws (GradCertLL)"
+  ],
+  "faculty": [
+    "Law"
+  ],
+  "study_level": "Postgraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": null,
+  "duration_parttime": "1 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Demonstrate understanding of a body of legal knowledge relating to the Australian legal system and laws and contemporary legal developments. "
+    },
+    {
+      "number": 2,
+      "text": "Apply skills in legal inquiry and approaches to professional ethics and responsibility to respond to ethical challenges in legal research. "
+    },
+    {
+      "number": 3,
+      "text": "Apply skills in critical analysis and evaluation to problems and questions in law. "
+    },
+    {
+      "number": 4,
+      "text": "Generate solutions to legal issues and communicate accurately and persuasively to a variety of audiences. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "Inherent (essential) requirements are academic and non-academic requirements that are essential to the successful completion of a course.\n\nProspective and current students should carefully read the Inherent (Essential) Requirements Statement below and consider whether they might experience challenges in successfully completing this course. This Statement should be read in conjunction with the UTS Student Rules.\n\nProspective or current student concerned about their ability to meet these requirements should discuss their concerns with the Academic Liaison Officer in their faculty or school and/or UTS Accessibility Service on 9514 1177 or at accessibility@uts.edu.au.\n\nUTS will make reasonable adjustments to teaching and learning, assessment, professional experiences, course related work experience and other course activities to facilitate maximum participation by students with disabilities, carer responsibilities, and religious or cultural obligations in their courses.\n\nFor course specific information see the Faculty of Law Inherent (Essential) Requirements Statement.",
+  "study_plans": [
+    {
+      "name": "Autumn commencing, full time with Electives (Law)",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/d10d9cb48360be10fed7d4326daad35c"
+    },
+    {
+      "name": "Autumn commencing, full time with Electives (Non-common Law)",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/550d9cb48360be10fed7d4326daad358"
+    }
+  ],
+  "notes": "Students from a non-common law background are also required to enrol in the subject 79708 Contemporary Business Law.",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree, or an equivalent or higher qualification, or submitted other evidence of general and professional qualifications that demonstrates potential to pursue graduate studies.\n\nA relevant, appropriate first degree is the Bachelor of Laws or equivalent, or higher law qualification. Students who have graduated with a Shari'a law qualification are not eligible to apply for this course.\n\nApplicants who do not have one of the academic qualifications listed, may be admitted, if they provide evidence of completion of a legal qualification not listed, providing the qualification enables admission to practise as a legal practitioner, excluding a Shari’a law degree.\n\nIf an applicant does not formally meet the selection criteria but the Faculty deems the applicant to be eligible based on evidence of prior learning and demonstrated capability, the Faculty reserves the right to make an offer to the appropriate course.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Specialisation and development of expertise leads to careers in a range of sought-after specialist vocations in the practice of law.",
+  "course_structure": "Students in this course undertake four 6-credit-point postgraduate subjects (totalling 24 credit points).",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c11265.html",
+    "crawled_at": "2025-11-10T18:27:10.691720",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

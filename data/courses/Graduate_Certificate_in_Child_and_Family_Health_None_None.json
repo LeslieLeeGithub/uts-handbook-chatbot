@@ -1,0 +1,61 @@
+{
+  "course_code": "C11358",
+  "course_name": "Graduate Certificate in Child and Family Health",
+  "credit_points": "24 Credit points",
+  "cricos_code": "None",
+  "overview": "This program of study is designed to build on the knowledge and skills of registered nurses and midwives to develop capacity to work in a primary health care setting with young children and their families. The comprehensive study program focuses on infant care and child health, and the promotion of maternal and family health and wellbeing. The accompanying clinical experience program provides placements in community child and family health services as well as Tresillian Family Care Centres.\n\nThe Graduate Certificate in Child and Family Health prepares registered nurses and midwives for beginning practice in the clinical specialty of child and family health. This course is fully online with options to enrol several times a year. There is also a clinical component where students spend time in community-based Maternal and Child/ Child and Family Health centres and Tresillian Family Care Centres.",
+  "awards": [
+    "Graduate Certificate in Child and Family Health (GradCertChldFamH)"
+  ],
+  "faculty": [
+    "Health"
+  ],
+  "study_level": "Postgraduate",
+  "location": [
+    "Online campus"
+  ],
+  "duration_fulltime": null,
+  "duration_parttime": null,
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Critically apply theory and evidence to achieve clinical excellence and enhance health outcomes. "
+    },
+    {
+      "number": 2,
+      "text": "Collaborate and lead to innovate and achieve optimal health care outcomes. "
+    },
+    {
+      "number": 3,
+      "text": "Apply and promote principles of social justice, accountability and equitable access to health care. "
+    },
+    {
+      "number": 4,
+      "text": "Communicate effectively and respectfully in diverse situations. "
+    },
+    {
+      "number": 5,
+      "text": "Demonstrate clinical practice based on professional standards. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [],
+  "notes": "This course is offered fully online.\n\nThis course is not offered to international students.",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree, or an equivalent or higher qualification, or submitted other evidence of general and professional qualifications that demonstrates potential to pursue graduate studies.\n\nThe completed degree must be in nursing or midwifery and the applicant must also have current registration as a registered nurse or midwife in Australia (AHPRA).\n\nThe English proficiency requirement for local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Career options include positions in Community-based Child and Family Health Centres /Maternal Child Health Centres, and General Practitioner practices.\n\nThe Graduate Certificate in Child & Family Health provides Registered Nurses and Registered Midwives with theoretical knowledge and associated skills that prepare them to work autonomously and across a variety of clinical settings with children and families. Graduates will be able to apply advanced learning and theory concepts and analysis to promote optimal health outcomes for children and families.",
+  "course_structure": "Students must complete a total of 24 credit points",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c11358.html",
+    "crawled_at": "2025-11-10T19:09:06.844367",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

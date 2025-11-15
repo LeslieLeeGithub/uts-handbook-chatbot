@@ -1,0 +1,134 @@
+{
+  "course_code": "C10242",
+  "course_name": "Bachelor of Science",
+  "credit_points": "144 Credit points",
+  "cricos_code": "040705B",
+  "overview": "Science holds the key to many of the challenges – pandemics, climate change, antibiotic resistance – that threaten the world today. With the UTS Bachelor of Science, students can take their place at the forefront of a profession with the power to build resilience in both humanity and the planet.\n\nThis flagship degree has been designed with flexibility in mind: with eight majors to choose from and extensive elective blocks on offer, students can build a degree that’s uniquely theirs. In their first year, they gain access to the ‘scientist’s toolkit’, a series of core subjects designed to help them critically analyse the ways in which science can help solve global problems.\n\nFrom there, they can dive into specialist science subjects in their chosen major, working in world-class facilities and on industry-standard equipment. Our practice-based learning approach means students learn by doing, translating scientific theory into real-world practice. But they don’t just do it in the classroom: extensive professional experiences, from internships and field trips to global exchange placements, help bring their learning to life.\n\nScience is about more than just what happens in the lab. UTS science students pair the study of hard science with the development of crucial professional skills – inquiry, reflection, innovation and communication – that prepare them for a diverse and thriving career.\n\nWhat you’ll study\n\nStudents can choose from eight majors from the Mathematical and Physical Sciences or Life Sciences stream and build specialist skills in their chosen scientific discipline.\n\nMathematical and Physical Sciences\n\nLife Sciences",
+  "awards": [
+    "Bachelor of Science in (name of Science major) (BSc)"
+  ],
+  "faculty": [
+    "Science"
+  ],
+  "study_level": "Undergraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "3 Year(s)",
+  "duration_parttime": "6 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [
+    "607001",
+    "Flexible",
+    "Autumn Session, Spring Session607005",
+    "Chemistry",
+    "Autumn Session, Spring Session607015",
+    "Biotechnology/Medical Science",
+    "Autumn Session, Spring  Session"
+  ],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Demonstrate theoretical and technical knowledge of broad science concepts and explain specialised disciplinary knowledge. "
+    },
+    {
+      "number": 2,
+      "text": "Evaluate scientific evidence and apply effective experimental design and/or mathematical reasoning, analysis, and critical thinking to apply science and/or mathematic methodologies to real world problems. "
+    },
+    {
+      "number": 3,
+      "text": "Work autonomously or in teams to address workplace or community problems utilising best scientific practice, with consideration to safety requirements and ethical guidelines. "
+    },
+    {
+      "number": 4,
+      "text": "Design creative solutions to contemporary or complex scientific issues by incorporating innovative methods, reflective practices, and self-directed learning. "
+    },
+    {
+      "number": 5,
+      "text": "Present and communicate complex ideas and justifications using appropriate communication approaches from a variety of methods (oral, written, visual) to communicate with discipline experts, scientists, industry, and the general public. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [
+    {
+      "name": "Biotechnology, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/89ff466283a7a250fed7d4326daad33e"
+    },
+    {
+      "name": "Biotechnology, Spring commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/a1ff466283a7a250fed7d4326daad39d"
+    },
+    {
+      "name": "Chemical and Physical Sciences, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/d5ff466283a7a250fed7d4326daad375"
+    },
+    {
+      "name": "Chemical and Physical Sciences, Spring commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/25ff466283a7a250fed7d4326daad3c7"
+    },
+    {
+      "name": "Chemistry, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/0dff466283a7a250fed7d4326daad347"
+    },
+    {
+      "name": "Chemistry, Spring commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/d1ff466283a7a250fed7d4326daad380"
+    },
+    {
+      "name": "Environmental Sciences, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/c1ff466283a7a250fed7d4326daad350"
+    },
+    {
+      "name": "Environmental Sciences, Spring commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/61ff466283a7a250fed7d4326daad3b6"
+    },
+    {
+      "name": "Life and Environmental Sciences, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/d5ff466283a7a250fed7d4326daad36c"
+    },
+    {
+      "name": "Life and Environmental Sciences, Spring commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/a9ff466283a7a250fed7d4326daad3bf"
+    },
+    {
+      "name": "Mathematics, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/01ff466283a7a250fed7d4326daad31c"
+    },
+    {
+      "name": "Mathematics, Spring commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/69ff466283a7a250fed7d4326daad3a5"
+    },
+    {
+      "name": "Medical Science, Spring commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/adff466283a7a250fed7d4326daad3ad"
+    },
+    {
+      "name": "Medical Sciences, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/55ff466283a7a250fed7d4326daad363"
+    },
+    {
+      "name": "Physics, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/49ff466283a7a250fed7d4326daad35a"
+    },
+    {
+      "name": "Physics, Spring commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/51ff466283a7a250fed7d4326daad388"
+    }
+  ],
+  "notes": "None",
+  "admission_requirements": "Applicants must have completed an Australian Year 12 qualification, Australian Qualifications Framework Diploma, or equivalent Australian or overseas qualification at the required level.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Bachelor of Science graduates are ready for a vast range of roles across the public and private sectors, as well as teaching and research opportunities within universities, research institutes and other educational organisations.",
+  "course_structure": "Students must complete a total of 144 credit points to graduate. Subjects offered by the University have been classified as introductory (normally taken in stages 1 and 2), intermediate (stages 3 and 4) and advanced (stages 5 and 6 or later). In the Bachelor of Science, students are required to complete one introductory foundation stream. Upon the successful completion of first year, they may choose one of the majors that follow from that stream. The chosen major specifies a series of intermediate and advanced subjects that, if taken, result in award of a Bachelor of Science in that major.\n\nAlternatively, students may choose not to take a specific major but a flexible mix of subjects of interest and graduate with a Bachelor of Science degree without a specified major. If so, they must complete 36 credit points of intermediate and 36 credit points of advanced science subjects. In doing so, students must ensure that they have completed the required prerequisite subjects at each stage. It cannot be guaranteed that all subjects that students in a flexible program wish to take together can be timetabled without clashes and so students need to check timetable constraints before final subject choice each session.\n\nThe Bachelor of Science also contains up to 24 credit points of free elective subjects that enable students to increase their expertise in other areas of science or other disciplines in the University. This can be in the form of a specialised 24-credit-point sub-major or by a varied selection of subjects.\n\nStudents must satisfactorily complete 120 credit points of specified major or flexible science subjects and, in addition, 24 credit points of elective/sub-major subjects for award of the degree.\n\nChanging majors\n\nStudents may change majors in certain circumstances. Students wanting to change majors within the Bachelor of Science are required to raise an e-request via Ask UTS.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c10242.html",
+    "crawled_at": "2025-11-10T17:41:20.308160",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

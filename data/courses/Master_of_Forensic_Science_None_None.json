@@ -1,0 +1,70 @@
+{
+  "course_code": "C04391",
+  "course_name": "Master of Forensic Science",
+  "credit_points": "72 Credit points",
+  "cricos_code": "098061K",
+  "overview": "The Master of Forensic Science is one of Australia’s leading qualifications in this niche scientific discipline, combining hands-on advanced forensic science practice with high-level professional and research skills acquisition. Our research-informed curriculum is focused on highly practical, case-based activities that take place in world-class facilities designed to replicate real forensic science environments. These include our acclaimed Crime Scene Simulation Labs and other professional laboratories stocked with the latest industry-standard equipment.\n\nAs a master’s degree, this course is focused on developing students for leadership roles in forensic science. Curriculum is informed by leading academics and practitioners in the internationally acclaimed UTS Centre for Forensic Science, as well as by real-world organisations. As such, course content reflects the needs and priorities of the global forensic science profession.\n\nExplore the Master of Forensic Science (Extension) Students with an interest in the Master of Forensic Science should also consider the UTS Master of Forensic Science (Extension) a two-year program of full-time study that includes an additional 24 credit points on top of the standard Master of Forensic Science curriculum. High-performing Master of Forensic Science Extension students with an interest in research can transfer into the Master of Philosophy in Forensic Science, which provides a pathway to a PhD.\n\nCourse features",
+  "awards": [
+    "Master of Forensic Science (MForSc)"
+  ],
+  "faculty": [
+    "Science"
+  ],
+  "study_level": "Postgraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "5 Year(s)",
+  "duration_parttime": "3 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Critically engage with the appraisal and application of advanced knowledge, technical skills and research principles relevant to professional practice in forensic science. "
+    },
+    {
+      "number": 2,
+      "text": "Assess, argue for, and conduct appropriate approaches to complex forensic science problems through investigation, analysis and independent research in a relevant professional context. "
+    },
+    {
+      "number": 3,
+      "text": "Develop and execute - individually or collaboratively - ethical, safe and sustainable work practices, accountable to stakeholder requirements in forensic science, locally and globally. "
+    },
+    {
+      "number": 4,
+      "text": "Reflexively discover, create and evaluate the processes used to determine the value, integrity, and relevance of multiple sources of information to derive innovative solutions to complex forensic science problems. "
+    },
+    {
+      "number": 5,
+      "text": "Communicate complex ideas and justifications in a rigorous and professional manner using a variety of methods (oral, written, visual) to discipline experts, scientists, stakeholders, and the general public. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [
+    {
+      "name": "Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/ee516385833be210fed7d4326daad358"
+    },
+    {
+      "name": "Spring commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/6a516385833be210fed7d4326daad35d"
+    }
+  ],
+  "notes": "None",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree, or an equivalent or higher qualification, or submitted other evidence of general and professional qualifications that demonstrates potential to pursue graduate studies.\n\nEntry into the course requires the completion of a bachelor's, master's, graduate diploma, graduate certificate qualification in chemical sciences, biochemistry and cell biology, human biology, forensic science or medical science.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Graduates can pursue employment with organisations such as the Australian Federal Police, state policing agencies, ASIO, CSIRO, ANSTO, customs, immigration, and private forensic agencies. Career options depend on elective subject choices; roles include criminalist, trace evidence specialist, forensic toxicologist, DNA specialist, scene-of-crime officer, team leader in investigations, fire investigator and fingerprint analyst.",
+  "course_structure": "The course requires 72 credit points of study, comprising a 24-credit-point professional stream and 48 credit points of core subjects.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c04391.html",
+    "crawled_at": "2025-11-10T15:35:24.551681",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

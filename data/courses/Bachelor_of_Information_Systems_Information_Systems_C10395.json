@@ -1,0 +1,51 @@
+{
+  "course_code": "C10395",
+  "course_name": "Bachelor of Information Systems",
+  "credit_points": "144 Credit points",
+  "cricos_code": "0100483",
+  "overview": "The Bachelor of Information Systems (BIS) is an undergraduate coursework offering aimed at meeting emerging demands for a new generation of technology professionals ready to deal with the challenges of complex systems.\n\nStudents study complex systems such as enterprises, their services for different stakeholders (customers/patients/citizens/other organisations and stakeholders), and their internal processes conducted by people (with knowledge, skills and social capital) using data, information and IT-enabled services.\n\nBachelor of Information Systems (BIS) graduates are highly sought after to meet the job demands of an increasingly digital world of the future.\n\nBIS graduates are able to work in and create value from the financial, environmental and social nature of any type of organisation.\n\nWith future-focussed specialisations including Systems Analytics, Smart Infrastructure and Sustainable Enterprises, BIS graduates are well positioned to serve local Australian and international job markets.",
+  "awards": [
+    "Bachelor of Information Systems (BIS)"
+  ],
+  "faculty": [
+    "Engineering",
+    "and",
+    "Information",
+    "Technology"
+  ],
+  "study_level": "Undergraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "3 Year(s)",
+  "duration_parttime": "6 Year(s)",
+  "duration_sessions": "6",
+  "course_fee": "25200",
+  "course_intake": "Feb/ Jul",
+  "uac_codes": [
+    "603215",
+    "Autumn Session, Spring Session"
+  ],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "The Faculty of Engineering and Information Technology is seeking accreditation from the Australian Computer Society.",
+  "learning_outcomes": [],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "Inherent (essential) requirements are academic and non-academic requirements that are essential to the successful completion of a course.\n\nProspective and current students should carefully read the Inherent (Essential) Requirements Statement below and consider whether they might experience challenges in successfully completing this course. This Statement should be read in conjunction with the UTS Student Rules.\n\nProspective or current student concerned about their ability to meet these requirements should discuss their concerns with the Academic Liaison Officer in their faculty or school and/or UTS Accessibility Service on 9514 1177 or at accessibility@uts.edu.au.\n\nUTS will make reasonable adjustments to teaching and learning, assessment, professional experiences, course related work experience and other course activities to facilitate maximum participation by students with disabilities, carer responsibilities, and religious or cultural obligations in their courses.\n\nFor course specific information see the Faculty of Engineering & Information Technology Inherent (Essential) Requirements Statement.",
+  "study_plans": [
+    {
+      "name": "Bachelor of Information Systems, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/bc3a9642832c3650fed7d4326daad36c"
+    }
+  ],
+  "notes": "None",
+  "admission_requirements": "Applicants must have completed an Australian Year 12 qualification, Australian Qualifications Framework Diploma, or equivalent Australian or overseas qualification at the required level.\n\nCurrent school leavers are advised to complete the Year 12 Engineering and IT Questionnaire. The questionnaire allows applicants to demonstrate their strong motivation to study engineering or IT at UTS and may assist applicants whose ATAR falls short of the required cut-off by up to three points.\n\nNon-current school leavers are advised to complete the employment question on their UAC application as adjustment factors may be applied on the basis of relevant work experience.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): 75; Admission requirements for Chinese students (Gaokao score out of 750): 471; Admission requirements for students with GCE A Levels: 8; Admission requirements for Hong Kong students (HKDSE): 15; Admission requirements for Indian students (AISSC): 11; Admission requirements for Indian students (ISC): 80; Admission requirements for students with IB or Predicted IB: 25/30 ; Admission requirements for Malaysian students (STPM with 3 AL Subjects): 8; Admission requirements for Singaporean students (A Level): 8; Admission requirements for USA students (SAT 1): 1120; Admission requirements for UTS Foundation Studies students: 6.6",
+  "career_options": "Career options include positions in a range of sectors, such as energy, transport, smart cities, business, and government, in roles including: Business Analyst, Business Process Modeller, Smart Infrastructure Professional, Supply Chain Modeller, Digital Transformation Analyst, and Information Systems Analyst/Designer.",
+  "course_structure": "Students are required to complete 144 credit points, comprising 60 credit points of Information Systems core subjects, 36 credit points of Information Systems Studio subjects and one compulsory Information Systems stream choice, and 24 credit points of electives.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c10395.html",
+    "crawled_at": "2025-11-10T04:39:26.946817",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

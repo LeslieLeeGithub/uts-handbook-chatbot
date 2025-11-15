@@ -1,0 +1,64 @@
+{
+  "course_code": "C09087",
+  "course_name": "Bachelor of Engineering Science Bachelor of Laws (Honours)",
+  "credit_points": "264 Credit points",
+  "cricos_code": "116597B",
+  "overview": "The Bachelor of Engineering Science Bachelor of Laws (Honours) is offered jointly by UTS Law and UTS Engineering, and is awarded with two testamurs. The course is developed in response to growing demand for legal services in areas where an in-depth appreciation of complex technical matters is essential. It provides an overview of the legal system as a whole as well as detailed knowledge of an engineering specialisation.\n\nHonours relates to the law component only and students must successfully complete both of the research subjects: 76090 Research Methodology and 76040 Research Thesis. Strong research skills are valued highly in contemporary professional practice.\n\nThe program provides full-time study for students wishing to obtain a professional legal qualification that satisfies the academic requirements only for admission as a lawyer together with a specialisation in engineering science.\n\nThe course addresses the increasing need for technical expertise and legal knowledge, which are highly sought after in both private law firms and the engineering industry. Graduates develop critical and analytical skills, combined with a strong industry focus, essential for an understanding of the complex links between engineering and the law.\n\nStudents have the opportunity to engage in deeper study of the law by studying 76090 Research Methodology and undertaking 76040 Research Thesis. This course can be a pathway to higher degree research programs.",
+  "awards": [
+    "Bachelor of Engineering Science in (name of Engineering major) (BEngSc) Bachelor of Laws (Honours) (LLB(Hons))"
+  ],
+  "faculty": [
+    "LawEngineering",
+    "and",
+    "Information",
+    "Technology"
+  ],
+  "study_level": "Undergraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "5 Year(s)",
+  "duration_parttime": null,
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "This course satisfies the requirements for admission to the Supreme Court of NSW as a lawyer, provided students complete a practical legal training (PLT) program, such as the Graduate Certificate in Professional Legal Practice (C11232).\n\nStudents wishing to obtain full recognition as graduate engineers have the option of articulating to the Bachelor of Engineering (Honours) (C09066) or Bachelor of Engineering (Honours) Diploma in Engineering Practice (C09067) depending on entry requirements.",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Evaluate and transform an advanced body of legal knowledge to demonstrate an understanding of the broader contexts in which legal issues arise, and the law operates. "
+    },
+    {
+      "number": 2,
+      "text": "Demonstrate professional integrity and accountability through the ability to critically analyse and respond to ethical challenges in legal practice. "
+    },
+    {
+      "number": 3,
+      "text": "Formulate appropriate responses to problems and questions in law and execute a piece of legal scholarship, using advanced skills in legal research, critical analysis and evaluation. "
+    },
+    {
+      "number": 4,
+      "text": "Generate solutions to complex legal issues through effective collaboration and communicate accurately and persuasively with a variety of audiences. "
+    },
+    {
+      "number": 5,
+      "text": "Critically reflect on ethical Indigenous research practices to work with and for Indigenous peoples across the legal and community sectors. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "Inherent (essential) requirements are academic and non-academic requirements that are essential to the successful completion of a course.\n\nProspective and current students should carefully read the Inherent (Essential) Requirements Statement below and consider whether they might experience challenges in successfully completing this course. This Statement should be read in conjunction with the UTS Student Rules.\n\nProspective or current student concerned about their ability to meet these requirements should discuss their concerns with the Academic Liaison Officer in their faculty or school and/or UTS Accessibility Service on 9514 1177 or at accessibility@uts.edu.au.\n\nUTS will make reasonable adjustments to teaching and learning, assessment, professional experiences, course related work experience and other course activities to facilitate maximum participation by students with disabilities, carer responsibilities, and religious or cultural obligations in their courses.\n\nFor course specific information see the Faculty of Law Inherent (Essential) Requirements Statement.",
+  "study_plans": [],
+  "notes": "This is an exit-only course. There is no direct admission to it. Current UTS students may be able to submit an Internal Course Transfer (Graduating) application to exit with this course. See the Course transfer page for further details.",
+  "admission_requirements": "None; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Career options include professions as a lawyer in areas of environmental law, technology legislation and technology-specific criminal law; consultant, legal adviser or manager to engineering corporations in Australia and overseas.",
+  "course_structure": "The course comprises 264 credit points and allows students to graduate with the separate degrees of Bachelor of Engineering Science and Bachelor of Laws. The study components for course completion are as follows.\n\nThe law component of 144 credit points is made up of:\n\nThe engineering component of 120 credit points is made up of:\n\nOn completion of the engineering component, a student who has also completed at least 78 credit points of law subjects approved by UTS Law is eligible for the award of Bachelor of Engineering Science.\n\nA student who qualifies for the award of Bachelor of Engineering Science is, on completion of the law component as approved by UTS Law, eligible for the award of Bachelor of Laws (Honours).\n\nFor a current listing of subjects in each course refer to the study package directory.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c09087.html",
+    "crawled_at": "2025-11-10T17:00:28.920451",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

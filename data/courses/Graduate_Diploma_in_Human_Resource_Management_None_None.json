@@ -1,0 +1,70 @@
+{
+  "course_code": "C07113",
+  "course_name": "Graduate Diploma in Human Resource Management",
+  "credit_points": "48 Credit points",
+  "cricos_code": "055276F",
+  "overview": "The Graduate Diploma in Human Resource Management provides participants with sound knowledge and skills in the field of human resource management (HRM), enabling participants to develop expertise across the field of HRM and its issues, including employment relations and other management practices.\n\nThe course provides an avenue for participants to gain theoretical and practical skills in the fields of HRM and IR. It is based on the master's program but requires fewer units of study. In most circumstances, participants can choose to progress to the Master of Human Resource Management (C04286) on satisfactory completion of this course.",
+  "awards": [
+    "Graduate Diploma in Human Resource Management (GradDipHRM)"
+  ],
+  "faculty": [
+    "Business"
+  ],
+  "study_level": "Postgraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "1 Year(s)",
+  "duration_parttime": "2 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "Students completing this degree are eligible to apply to the Australian Human Resources Institute (AHRI) for the Professional Member (MAHRI) status and/or advancement to a higher level of membership for those who have appropriate work experience.",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Develop innovative solutions to HR problems that meet the interests, needs and values of both the organisation and the wider community "
+    },
+    {
+      "number": 2,
+      "text": "Communicate information clearly to a range of stakeholders "
+    },
+    {
+      "number": 3,
+      "text": "Work effectively in teams to deliver negotiated project outcomes "
+    },
+    {
+      "number": 4,
+      "text": "Implement HR and management decisions that seek to balance organisational interests with respect and dignity, social purpose and the common good "
+    },
+    {
+      "number": 5,
+      "text": "Apply advanced human resource management theories and practices complemented with technological skills to undertake professional practice across the field of HR management "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [
+    {
+      "name": "Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/bf407685c33a6250020e061ad0013127"
+    },
+    {
+      "name": "Spring commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/fb407685c33a6250020e061ad001312b"
+    }
+  ],
+  "notes": "None",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree, or an equivalent or higher qualification, or submitted other evidence of general and professional qualifications that demonstrates potential to pursue graduate studies.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Career options include management-level positions in industry or government related to HRM.",
+  "course_structure": "Students must complete a total of 48 credit points consisting of eight core subjects.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c07113.html",
+    "crawled_at": "2025-11-10T16:36:02.856953",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "course_code": "C10223",
+  "course_name": "Bachelor of Environmental Biology",
+  "credit_points": "144 Credit points",
+  "cricos_code": "079561C",
+  "overview": "Climate change is the singular issue of our time – today, the planet is facing its ultimate test. Become part of the solution with a degree that prepares students to protect and manage the critical species and ecosystems that hold the key to the future.\n\nLike most degrees of its kind, the UTS Bachelor of Environmental Biology combines theoretical and lab-based learning, but it’s what happens outside the classroom that really sets it apart. The extensive fieldwork program challenges students to test their skills in a variety of aquatic and terrestrial environments, while professional internship offerings can help kickstart their career with placements in leading university, government, and industry labs.\n\nWhy UTS Science?\n\nUTS Science, one of Australia’s leading university science faculties, is committed to scientific advancement that creates a more sustainable world. When students study with UTS, they join a university that delivers global impact in STEM education and research and a faculty that produces scientists with the power to transform the profession.\n\nCourse features",
+  "awards": [
+    "Bachelor of Environmental Biology (BEnvBio)"
+  ],
+  "faculty": [
+    "Science"
+  ],
+  "study_level": "Undergraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "3 Year(s)",
+  "duration_parttime": "6 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [
+    "607033",
+    "Autumn Session, Spring Session,"
+  ],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "Australian Institute for Biology, Australian Ecological Society, Australian Society for Plant Physiology, Australasian Society for Ecotoxicology, Australasian Marine Science Association.",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Demonstrate theoretical and technical knowledge of the principles of biodiversity and ecosystem function and evaluate and integrate principles of sustainability and conservation to protect biodiversity. "
+    },
+    {
+      "number": 2,
+      "text": "Critically evaluate scientific evidence and literature and apply effective andappropriate experimental design and analytical techniques to discover and hypothesise solutions to new and emerging environmental issues. "
+    },
+    {
+      "number": 3,
+      "text": "Demonstrate professionalism, including personal organisation, autonomy, teamwork, literacy and quantitative skills, while ensuring due consideration to ethical guidelines, work health and safety and environmental impact requirements. "
+    },
+    {
+      "number": 4,
+      "text": "Evaluate evolving concepts in environmental science and apply scientific skills to design creative solutions to contemporary or complex environmental issues by incorporating innovative methods, reflective practices, and self-directed learning. "
+    },
+    {
+      "number": 5,
+      "text": "Communicate effectively and professionally (oral, written, visual), generating defensible, convincing arguments for relaying research findings or articulating complex issues, concepts or skill around environmental science, within a multi-disciplinary setting. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [
+    {
+      "name": "Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/634de76b47f22650a31de422036d4337"
+    },
+    {
+      "name": "Spring commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/a34de76b47f22650a31de422036d4357"
+    }
+  ],
+  "notes": "None",
+  "admission_requirements": "Applicants must have completed an Australian Year 12 qualification, Australian Qualifications Framework Diploma, or equivalent Australian or overseas qualification at the required level.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "An environmental science degree can lead directly into a scientific career or into a diversity of professional opportunities in the world beyond the lab. From scientific and research roles to policy, education and advocacy positions, students could find themselves working for: environmental protection and/or management organisations, environmental/sustainability consulting firms, government agencies, schools, tourism bodies or universities and research institutes,.\n\nSpecific job titles include – but aren’t limited to education officer, environmental consultant, environmental officer, parks manager, policy officer, research scientist, scientific officer, science communicator or science educator.",
+  "course_structure": "Students must complete a total of 144 credit points, made up of 120 credit points of core subjects and 24 credit points of elective subjects. The elective subjects enable students to increase their expertise in other areas of science or in other disciplines in the University.\n\nStudents must satisfactorily complete all core subjects and the required number of credit points of elective for award of the degree.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c10223.html",
+    "crawled_at": "2025-11-10T17:36:29.064579",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

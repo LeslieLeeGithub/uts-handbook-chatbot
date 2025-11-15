@@ -1,0 +1,61 @@
+{
+  "course_code": "C11331",
+  "course_name": "Graduate Certificate in Critical Care",
+  "credit_points": "24 Credit points",
+  "cricos_code": "None",
+  "overview": "The Graduate Certificate in Critical Care is an innovative, contemporary program of fully online study designed for nurses working in the Critical Care setting who wish to expand their knowledge and skills in one of healthcare’s most unique environments. Critical care nursing requires a wide range of advanced level skills and abilities to deliver safe and effective culturally capable care, whether it be in the highly controlled and technologically sophisticated realm of intensive care or the unpredictability of emergency departments and retrieval. Developed in consultation with industry stakeholders and an expert advisory panel, the Graduate Certificate in Critical Care covers content is mapped to the Australian College of Critical Care Nurses and The College of Emergency Nursing Australasia practice standards.\n\nThe critical care setting requires a unique subset of nursing skills in the provision and coordination of care for people with life-threatening conditions, injuries and complications and, to support their significant others. The Graduate Certificate in Critical Care employs a co-design approach which brings together content and learning design experts to create engaging and high-quality learning experiences ensuring that graduates develop the requisite knowledge, skills and attitudes to work in the critical care setting.\n\nStudents learn from experienced clinicians, educators and researchers working in the emergency and intensive care setting who are at the forefront of national and international practice improvement and policy development. The fully online study mode allows students to personalise their learning, with flexible study options",
+  "awards": [
+    "Graduate Certificate in Critical Care (GradCertCritCare)"
+  ],
+  "faculty": [
+    "Health"
+  ],
+  "study_level": "Postgraduate",
+  "location": [
+    "Online campus"
+  ],
+  "duration_fulltime": null,
+  "duration_parttime": null,
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Demonstrate clinical judgement based on critical evaluation of evidence to achieve optimal health outcomes. "
+    },
+    {
+      "number": 2,
+      "text": "Collaborate and lead to promote safe, effective and evidence-based care. "
+    },
+    {
+      "number": 3,
+      "text": "Apply and promote principles of social justice, equity and safety across diverse contexts. "
+    },
+    {
+      "number": 4,
+      "text": "Communicate effectively and respectfully in diverse situations. "
+    },
+    {
+      "number": 5,
+      "text": "Practice safe and compassionate person and family-centred care based on professional guidelines and promote the principles of self-care and commitment to lifelong learning. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [],
+  "notes": "This course is offered fully online.\n\nThis course is not offered to international students.",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree, or an equivalent or higher qualification, or submitted other evidence of general and professional qualifications that demonstrates potential to pursue graduate studies.\n\nThe English proficiency requirement for local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Career options include clinical nurse specialist, education and leadership roles.",
+  "course_structure": "Students must complete a total of 24 credit points.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c11331.html",
+    "crawled_at": "2025-11-10T18:52:14.305076",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

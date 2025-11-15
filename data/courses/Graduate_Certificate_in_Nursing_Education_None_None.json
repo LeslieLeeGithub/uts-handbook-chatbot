@@ -1,0 +1,61 @@
+{
+  "course_code": "C11351",
+  "course_name": "Graduate Certificate in Nursing Education",
+  "credit_points": "24 Credit points",
+  "cricos_code": "None",
+  "overview": "The Graduate Certificate in Nursing Education is an innovative, contemporary and accelerated program of fully online study designed for nurses who want to move beyond discipline specific ways of teaching and learning and experience education as transdisciplinary. Students have the opportunity to develop their teaching and learning knowledge and skills and the capacity to influence patient and education outcomes in their workplace.\n\nStudents learn with experienced clinicians, educators, academics and researchers from nursing and education disciplines. Upon successful completion of the Graduate Certificate in Nursing Education, students have the opportunity to progress to the Master of Advanced Nursing or the Master of Education (Learning and Leadership).\n\nThe Graduate Certificate in in Nursing Education offers students a highly customised program of study that encourages them to focus on issues that align with their learning priorities, interests, and the real-world challenges they face in their own work contexts. Consequently, they have the opportunity to build a robust toolkit of evidence-based knowledge and skills to enhance and innovate their teaching and learning practices. In doing so, students also develop the skills to lead and manage educational change and design and implement effective approaches to build evidence-based teaching and learning capacity in their workplace.",
+  "awards": [
+    "Graduate Certificate in Nursing Education (GradCertNursEd)"
+  ],
+  "faculty": [
+    "Health"
+  ],
+  "study_level": "Postgraduate",
+  "location": [
+    "Online campus"
+  ],
+  "duration_fulltime": null,
+  "duration_parttime": null,
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Evaluate and apply evidence to improve teaching and learning practices and contribute to practice and policy. "
+    },
+    {
+      "number": 2,
+      "text": "Use evidence-based approaches to provide innovative leadership within the health care context. "
+    },
+    {
+      "number": 3,
+      "text": "Demonstrate cultural awareness and ethical accountability. "
+    },
+    {
+      "number": 4,
+      "text": "Apply appropriate communication strategies, technologies and learner centred approaches to the teaching and learning context. "
+    },
+    {
+      "number": 5,
+      "text": "Demonstrate professional engagement and a commitment to lifelong learning. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [],
+  "notes": "This course is offered fully online.",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree, or an equivalent or higher qualification, or submitted other evidence of general and professional qualifications that demonstrates potential to pursue graduate studies.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "The completion of the Graduate Certificate in Nursing Education opens the doorway to a range of career options in health and nursing education including staff and patient education roles.",
+  "course_structure": "Students must complete a total of 24 credit points.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c11351.html",
+    "crawled_at": "2025-11-10T19:03:10.515784",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

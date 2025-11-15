@@ -1,0 +1,59 @@
+{
+  "course_code": "C07132",
+  "course_name": "Graduate Diploma in Quantitative Finance",
+  "credit_points": "48 Credit points",
+  "cricos_code": "088932F",
+  "overview": "The Quantitative Finance program provides the opportunity to acquire the detailed specialised knowledge and the professional competency required to work as a quantitative finance analyst in the modern finance industry.\n\nThis course provides the core knowledge of the modern financial instruments and the fundamentals of the specialised quantitative finance skills required for a basic professional competency in quantitative finance.",
+  "awards": [
+    "Graduate Diploma in Quantitative Finance (GradDipQF)"
+  ],
+  "faculty": [
+    "Science"
+  ],
+  "study_level": "Postgraduate",
+  "location": [],
+  "duration_fulltime": "1 Year(s)",
+  "duration_parttime": "2 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Analyse advanced knowledge and critically evaluate the information's source and relevance, with a focus on applications of mathematical methodologies to quantitative finance problem solving. "
+    },
+    {
+      "number": 2,
+      "text": "Apply research to complex real-world problems in the areas of quantitative finance by critically evaluating information and solutions and conducting appropriate approaches to independent research. "
+    },
+    {
+      "number": 3,
+      "text": "Work ethically and confidentially in an organised and collaborative way whilst managing data and applying mathematical and statistical modelling to quantitative finance problems. "
+    },
+    {
+      "number": 4,
+      "text": "Reflect on the value, integrity, and relevance of multiple sources of information to derive creative solutions using technologies to solve quantitative finance problems. "
+    },
+    {
+      "number": 5,
+      "text": "Identify and present complex ideas and justifications using appropriate communication approaches from a variety of methods (oral, written,visual) to communicate with mathematicians, data analysts, scientists, industry, and the general public. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [],
+  "notes": "This is an exit-only course. There is no direct admission to it. Current UTS students may be able to submit an Internal Course Transfer (Graduating) application to exit with this course. See the Course transfer page for further details.",
+  "admission_requirements": "None; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Career options for graduates include positions as quantitative analysts, risk management analysts, quantitative structures, quantitative developers, forecasters, traders, investment analysts and financial engineers across investment banks, trading banks, hedge funds, investment management companies, consulting companies, energy and mining companies, regulatory bodies and government organisations.",
+  "course_structure": "The course totals 48 credit points, comprising six core subjects.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c07132.html",
+    "crawled_at": "2025-11-10T16:40:37.705546",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

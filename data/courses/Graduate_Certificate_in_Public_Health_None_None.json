@@ -1,0 +1,61 @@
+{
+  "course_code": "C11328",
+  "course_name": "Graduate Certificate in Public Health",
+  "credit_points": "24 Credit points",
+  "cricos_code": "None",
+  "overview": "Public health is a non-clinical field of health care that aims to prevent disease and injury, reduce health inequities and promote health across populations. Rather than working with individual patients, public health professionals are focused on enhancing health outcomes and improving health care solutions on a population level in developing and developed countries. A postgraduate public health degree is recognised worldwide as being invaluable for a career in public health. Whether students are just starting out or looking to upskill in a certain area, the Graduate Certificate in Public Health provide them with a grounding in public health that spans health data, education, promotion and policy. Students develop specialist knowledge and skills and become graduate ready to develop public health programs at a local, national or global level.\n\nDelivered in a flexible and convenient way, students can learn online. Course content is based on contemporary research and has been developed in close consultation with industry. The curriculum comprises subjects that provide a solid grounding of knowledge and skills required in any public health career, whilst also offering a wide range of electives that students can tailor to their expertise and interests. Students learn and arte supported by academic staff who are highly experienced experts and researchers, recognised as leaders in their chosen fields of public health.",
+  "awards": [
+    "Graduate Certificate in Public Health (GradCertHP)"
+  ],
+  "faculty": [
+    "Health"
+  ],
+  "study_level": "Postgraduate",
+  "location": [
+    "Online campus"
+  ],
+  "duration_fulltime": null,
+  "duration_parttime": null,
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Apply research and critical thinking to address public health problems and enhance outcomes. "
+    },
+    {
+      "number": 2,
+      "text": "Communicate effectively in diverse situations to build relationships and optimise public health strategies. "
+    },
+    {
+      "number": 3,
+      "text": "Identify cost factors and efficient use of resources for public health programs and healthcare choice. "
+    },
+    {
+      "number": 4,
+      "text": "Develop leadership skills to collaboratively respond to diverse public health challenges. "
+    },
+    {
+      "number": 5,
+      "text": "Maintain professional standards based on accountability and a commitment to lifelong learning. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [],
+  "notes": "This course is not offered to international students.",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree, or an equivalent or higher qualification, or submitted other evidence of general and professional qualifications that demonstrates potential to pursue graduate studies.\n\nApplicants who do not meet the above criteria for a threshold offer, such as applicants who do not have an undergraduate diploma or degree but whom have recent relevant work experience are also considered eligible.\n\nApplicants must present evidence of a capacity to undertake tertiary study via submission of a CV which may include details of completion of hospital or college certificates and professional or staff development.\n\nThe English proficiency requirement for local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Graduates are well equipped to work in a range of public health roles in government or private sectors, as well as in not-for-profit organisations; in disciplines such as environmental health, epidemiology, health education, health policy and health promotion.",
+  "course_structure": "The course comprises 24 credit points, made up of 18 credit points of core subjects and 6 credit points of electives.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c11328.html",
+    "crawled_at": "2025-11-10T18:48:59.119769",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

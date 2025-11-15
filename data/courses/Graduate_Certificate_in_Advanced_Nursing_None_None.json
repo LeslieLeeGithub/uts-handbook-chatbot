@@ -1,0 +1,61 @@
+{
+  "course_code": "C11303",
+  "course_name": "Graduate Certificate in Advanced Nursing",
+  "credit_points": "24 Credit points",
+  "cricos_code": "None",
+  "overview": "This course prepares nurses to advance their careers in a range of diverse and challenging roles. Developed in close consultation with industry stakeholders, our course is contemporary and responsive, ensuring that graduates are well prepared to meet the current and future needs of the healthcare system. Subjects incorporate up-to-the-minute evidence and content, and are all intended to positively impact outcomes for health care consumers.\n\nStudents develop specialised knowledge and highly sought-after skills to lead, advocate and enhance the quality of care for patients and their families, with complex illnesses and co-morbidities, using evidence to make informed clinical decisions. Graduates are well equipped to work as part of a multidisciplinary team, able to appraise and develop their own practice, as well as contribute to the professional development of others.",
+  "awards": [
+    "Graduate Certificate in Advanced Nursing (GradCertAdvN)"
+  ],
+  "faculty": [
+    "Health"
+  ],
+  "study_level": "Postgraduate",
+  "location": [
+    "Online campus"
+  ],
+  "duration_fulltime": null,
+  "duration_parttime": null,
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Apply clinical judgement based on evaluating the best available evidence to achieve optimal health outcomes. "
+    },
+    {
+      "number": 2,
+      "text": "Collaborate and lead to influence change and achieve optimal health care outcomes. "
+    },
+    {
+      "number": 3,
+      "text": "Promote equitable access to health care and engage respectfully in diverse contexts. "
+    },
+    {
+      "number": 4,
+      "text": "Communicate effectively and professionally in diverse situations. "
+    },
+    {
+      "number": 5,
+      "text": "Demonstrate ethical and collaborative professional practice based on relevant professional standards and promote the principles of self-care that build resilience. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [],
+  "notes": "This course is not offered to international students.",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree, or an equivalent or higher qualification, or submitted other evidence of general and professional qualifications that demonstrates potential to pursue graduate studies.\n\nThe English proficiency requirement for local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Students develop nursing skills and knowledge that enable improvement in person-centred care and health outcomes. Career options include leadership positions, advanced roles and specialisations, in areas such as acute care, chronic and complex care, quality and safety, and management. The course can also be used as an entry point for study at the Postgraduate Diploma or Masters level.",
+  "course_structure": "Students must complete a total of 24 credit points.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c11303.html",
+    "crawled_at": "2025-11-10T18:42:28.630166",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

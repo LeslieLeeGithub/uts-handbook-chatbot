@@ -1,0 +1,64 @@
+{
+  "course_code": "C11222",
+  "course_name": "Graduate Certificate in Learning Design and Technology",
+  "credit_points": "24 Credit points",
+  "cricos_code": "None",
+  "overview": "Created with industry and based on dynamic research, the course develops students’ core competencies in learning design through focussed studies that combine practice and essential knowledge. The course design and content are tailored to the needs of those who work in the broad fields of education (at any level) and training, those seeking employment in these areas, as well as those desiring to develop their digital learning skills to leverage new technologies to address changing educational needs. Students study online, either full time or part-time.\n\nDemand for learning design professionals is growing across a range of industries including education (primary schools, secondary schools, universities), finance, charities, government, health care and non-government organisations. Recent disruption in the education and training sectors has intensified the already significant need for digital skills.\n\nThe course equips students with the skills, knowledge and experience to become a learning designer or to progress in their existing role. Students consider underpinning theories of learning design and learning sciences and examine the characteristics of appropriate learning design, including critical issues such as accessibility, privacy and ethics. Students assess the role of data analytics and the importance of assessment and feedback within learning environments and equip themselves for continued change by examining predicted trends in the field and developing skills to assess and implement new tools and platforms.\n\nStudents develop their knowledge about research-informed design in a close-to-practice environment, interacting with local and international educators, and working on authentic assessments throughout the course. This culminates in an internship-like experience where students work on a comprehensive learning design project that contributes to a work-ready portfolio.Download a Learning Design flyer",
+  "awards": [
+    "Graduate Certificate in Learning Design and Technology (GradCertLrnDesignTech)"
+  ],
+  "faculty": [
+    "Arts",
+    "and",
+    "Social",
+    "Sciences"
+  ],
+  "study_level": "Postgraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": null,
+  "duration_parttime": "1 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Evaluate, develop, and implement effective technology-enhanced learning strategies, designs, and tools. "
+    },
+    {
+      "number": 2,
+      "text": "Develop, enhance and use various designs and tools in the formation of learning practices "
+    },
+    {
+      "number": 3,
+      "text": "Engage with and develop inclusive designs that address the needs of diverse learners. "
+    },
+    {
+      "number": 4,
+      "text": "Apply ethical guidelines and frameworks to ensure appropriate Indigenous Australian representation in learning design. "
+    },
+    {
+      "number": 5,
+      "text": "Develop strategies to address ethical and legal issues related to technology-enhanced learning design. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "Inherent (essential) requirements are academic and non-academic requirements that are essential to the successful completion of a course.\n\nProspective and current students should carefully read the Inherent (Essential) Requirements Statement below and consider whether they might experience challenges in successfully completing this course. This Statement should be read in conjunction with the UTS Student Rules.\n\nProspective or current student concerned about their ability to meet these requirements should discuss their concerns with the Academic Liaison Officer in their faculty or school and/or UTS Accessibility Service on 9514 1177 or at accessibility@uts.edu.au.\n\nUTS will make reasonable adjustments to teaching and learning, assessment, professional experiences, course related work experience and other course activities to facilitate maximum participation by students with disabilities, carer responsibilities, and religious or cultural obligations in their courses.\n\nFor course specific information see the Education Inherent (Essential) Requirements Statement.\n\nApplicants who do not satisfy the academic admission requirements may be considered on the basis of the below criteria:\n\nOR\n\nThis is to be supported by submission of:",
+  "study_plans": [],
+  "notes": "Applications for C11222 Graduate Certificate in Learning Design close on Wednesday 26 July 2023\n\nThis course is available in distance (online) mode.",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree, or an equivalent or higher qualification, or submitted other evidence of general and professional qualifications that demonstrates potential to pursue graduate studies.\n\nApplicants who do not satisfy the academic admission requirements may be considered on the basis of the below criteria:\n\nOR\n\nThis is to be supported by submission of:\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Career options include learning designer, instructional designer, educational developer, academic developer, learning engineer, multimedia designer.",
+  "course_structure": "Students must complete 24 credit points made up of eight three credit point subjects. One of these subjects is a work-integrated learning subject.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c11222.html",
+    "crawled_at": "2025-11-10T18:15:10.540258",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

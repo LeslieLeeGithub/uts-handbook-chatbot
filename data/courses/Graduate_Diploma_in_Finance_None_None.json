@@ -1,0 +1,66 @@
+{
+  "course_code": "C07021",
+  "course_name": "Graduate Diploma in Finance",
+  "credit_points": "48 Credit points",
+  "cricos_code": "020210B",
+  "overview": "The Graduate Diploma in Finance provides financial institution knowledge and decision-making skills for executives in financial institutions, corporations and financial consultancies.\n\nThe course provides students with the opportunity to acquire knowledge of finance theory and techniques for leading-edge professional practice purposes.",
+  "awards": [
+    "Graduate Diploma in Finance (GradDipFin)"
+  ],
+  "faculty": [
+    "Business"
+  ],
+  "study_level": "Postgraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "1 Year(s)",
+  "duration_parttime": "2 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Analyse and apply innovative and integrated solutions to complex finance and business problems "
+    },
+    {
+      "number": 2,
+      "text": "Communicate financial information and decisions clearly in an appropriate form to stakeholders "
+    },
+    {
+      "number": 3,
+      "text": "Collaborate in teams and with finance stakeholders to deliver agreed project outcomes "
+    },
+    {
+      "number": 4,
+      "text": "Analyse and apply ethical theories and decision-making frameworks to financial practice to create equitable and sustainable outcomes for the economy and society "
+    },
+    {
+      "number": 5,
+      "text": "Apply professional and technological skills and knowledge necessary for professional practice in finance "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [
+    {
+      "name": "Commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/63635ec9477ee610a31de422036d437e"
+    }
+  ],
+  "notes": "None",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree, or an equivalent or higher qualification, or submitted other evidence of general and professional qualifications that demonstrates potential to pursue graduate studies.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Career options include management-level positions in finance sector, industry or government.",
+  "course_structure": "The course comprises seven core subjects (totalling 42 credit points) and one elective subject (6 credit points).",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c07021.html",
+    "crawled_at": "2025-11-10T16:31:56.778497",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

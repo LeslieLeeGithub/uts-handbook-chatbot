@@ -1,0 +1,46 @@
+{
+  "course_code": "C03064",
+  "course_name": "Master of Learning Analytics (Research)",
+  "credit_points": null,
+  "cricos_code": "099357G",
+  "overview": "This is a research degree requiring an original and significant contribution to knowledge in the field of learning analytics.\n\nIt provides an opportunity for graduates to acquire high-level research skills and substantially deepen their knowledge in this area.\n\nThis course has been developed as a response to a global talent gap for people with data science knowledge, as identified and reported by the McKinsey Global Institute study (2011). The study predicted a shortfall by 2018 of nearly 200,000 data scientists and 1.5 million managers with the capability to make decisions using big data in the United States alone.\n\nThe dramatic growth of data in every conceivable industry, from oceanography to market research, presents another major driving force in generating unprecedented global demand for data science skills.\n\nThis course is designed for students interested in a leadership position as a data scientist, or pursuing an academic career in data science.",
+  "awards": [
+    "Master of Learning Analytics (Research)"
+  ],
+  "faculty": [
+    "Vice",
+    "Chancellor"
+  ],
+  "study_level": "Postgraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "2 Year(s)",
+  "duration_parttime": "4 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Students will learn and apply analytical techniques to educational data. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [],
+  "notes": "None",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree, or an equivalent or higher qualification, or submitted other evidence of general and professional qualifications that demonstrates potential to pursue graduate research studies.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 7.0 overall with a writing score of 7.0; or TOEFL: paper based: 584-609 overall with TWE of 5.0, internet based: 94-101 overall with a writing score of 27; or AE6: Pass; or PTE: 65-72 overall with a writing score of 65; or C1A/C2P: 185-190 overall with a writing score of 185.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "This degree prepares data scientists for leadership positions in teaching, management and research. There are opportunities for developing a career on a national and international level.",
+  "course_structure": "The research degree is undertaken wholly by thesis. It is structured in three phases.\n\nResearch and development activities are provided throughout the three phases to assist students to develop the capabilities of a successful graduate, or to extend their program through to a doctoral degree.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c03064.html",
+    "crawled_at": "2025-11-10T14:23:01.870062",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

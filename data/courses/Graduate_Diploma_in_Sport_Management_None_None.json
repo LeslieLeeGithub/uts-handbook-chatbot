@@ -1,0 +1,70 @@
+{
+  "course_code": "C07029",
+  "course_name": "Graduate Diploma in Sport Management",
+  "credit_points": "48 Credit points",
+  "cricos_code": "014223C",
+  "overview": "The Graduate Diploma in Sport Management provides a broad overview of the sport industry, and is designed to develop critical, interpretive and problem-solving skills relevant to that sector. With this in mind, the program includes subjects that develop a critical understanding of sport management across the areas of business, globalisation, governance, sport for social impact, and sport event management in both the Australian and international contexts.\n\nThe course is developed and delivered in collaboration with industry experts from the field, with each subject comprising of a mix of sport management concepts and real-world practice. Research-inspired course content is delivered by world-leading academics and industry partners, which allows students to apply an expert level of knowledge and understanding across different domains of the sport industry. It develops skill sets needed for managers to operate in the sport industry.",
+  "awards": [
+    "Graduate Diploma in Sport Management (GradDipSportM)"
+  ],
+  "faculty": [
+    "Business"
+  ],
+  "study_level": "Postgraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "1 Year(s)",
+  "duration_parttime": "2 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Develop innovative strategies that respond to community and business needs within a sport context "
+    },
+    {
+      "number": 2,
+      "text": "Communicate information clearly to a range of sport stakeholders "
+    },
+    {
+      "number": 3,
+      "text": "Work effectively in teams to deliver project outcomes that serve community and commercial interests "
+    },
+    {
+      "number": 4,
+      "text": "Implement sport management decisions to create positive outcomes for communities and the environment "
+    },
+    {
+      "number": 5,
+      "text": "Apply advanced knowledge of sport management concepts and technological skills to lead professional practice across community and commercial sport management context "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [
+    {
+      "name": "Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/8d9cc0f9c3b26650020e061ad001314a"
+    },
+    {
+      "name": "Spring commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/0d9cc0f9c3b26650020e061ad00131a5"
+    }
+  ],
+  "notes": "None",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree, or an equivalent or higher qualification, or submitted other evidence of general and professional qualifications that demonstrates potential to pursue graduate studies.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "The Graduate Diploma in Sport Management provides authentic engagement with the world of sport, producing graduates with specific skills and attributes of interest to employers in this sector. Graduates may pursue careers in fields such as sport management, sport marketing, sport policy, sports development, sport event management, and sports administration.",
+  "course_structure": "All students must complete a total of 48 credit points made up of eight core subjects.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c07029.html",
+    "crawled_at": "2025-11-10T16:32:52.229045",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

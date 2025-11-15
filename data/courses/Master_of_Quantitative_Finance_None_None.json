@@ -1,0 +1,78 @@
+{
+  "course_code": "C04373",
+  "course_name": "Master of Quantitative Finance",
+  "credit_points": "72 Credit points",
+  "cricos_code": "088930G",
+  "overview": "Major regulatory changes and the emergence of new types of financial risks mean that skilled quantitative finance professionals are more in demand than ever. The UTS postgraduate Quantitative Finance program is recognised in Australia and overseas as a leading qualification for aspiring and established quantitative finance professionals.\n\nDesigned by industry experts and leading UTS quantitative finance academics, it combines the theoretical learning, hands-on experience and professional competencies required to perform at the cutting edge of this specialist discipline. Whether students are just starting out or looking to deepen their quantitative expertise, this course will equip them with the knowledge and skills to measure and manage risk in today’s complex financial markets.\n\nExplore our quantitative finance degrees UTS offers a suite of postgraduate quantitative finance degrees, each with a different area of focus. Students considering the Master of Quantitative Finance may also be interested in the following courses:\n\nCourse content is comprised of nine subjects that have been specifically designed for this degree and that are frequently updated to keep pace with industry need.\n\nStudents engage with the in-depth study of derivative securities, financial market instruments, probability theory, credit risk, market risk, and numerical and computational methods, among others. They also learn to apply their theoretical learning to industry-relevant assignments in areas such as risk management, valuation of financial instruments, hedging of risks and model implementation.",
+  "awards": [
+    "Master of Quantitative Finance (MQF)"
+  ],
+  "faculty": [
+    "Science"
+  ],
+  "study_level": "Postgraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "1 Year(s)",
+  "duration_parttime": "3 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Appraise advanced knowledge and critically evaluate the information's source and relevance, with a focus on applications of mathematical methodologies to quantitative finance problem solving. "
+    },
+    {
+      "number": 2,
+      "text": "Investigate complex and challenging real-world problems in the areas of quantitative finance by critically evaluating information and solutions and conducting appropriate approaches to independent research. "
+    },
+    {
+      "number": 3,
+      "text": "Practice professionally adhering to confidentiality requirements, ethical conduct, data management, and organisation and collaborative skills in the context of applying mathematical and statistical modelling to quantitative finance problems. "
+    },
+    {
+      "number": 4,
+      "text": "Reflect and evaluate the value, integrity, and relevance of multiple sources of information to derive responsive, innovative solutions, show creativity, innovation and application of technologies in complex quantitative finance problems. "
+    },
+    {
+      "number": 5,
+      "text": "Develop and present complex ideas and justifications using appropriate communication approaches from a variety of methods (oral, written, visual) to communicate with mathematicians, data analysts, scientists, industry, and the general public. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [
+    {
+      "name": "Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/f2ee1b81833be210fed7d4326daad32d"
+    },
+    {
+      "name": "Autumn commencing, part time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/baee1b81833be210fed7d4326daad331"
+    },
+    {
+      "name": "Spring commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/76ee1b81833be210fed7d4326daad336"
+    },
+    {
+      "name": "Spring commencing, part time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/36ee1b81833be210fed7d4326daad33a"
+    }
+  ],
+  "notes": "None",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree, or an equivalent or higher qualification, or submitted other evidence of general and professional qualifications that demonstrates potential to pursue graduate studies.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Graduates are highly sought after by leading financial institutions, management consulting companies, energy and mining companies, regulatory bodies, government organisations and other organisations seeking advanced quantitative expertise.\n\nThey can work as quantitative analysts, risk management analysts, quantitative structurers, quantitative developers, forecasters, traders, investment analysts and financial engineers in organisations of all sizes, from multinationals to boutique firms.",
+  "course_structure": "The course comprises 72 credit points of core subjects.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c04373.html",
+    "crawled_at": "2025-11-10T15:25:33.792840",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

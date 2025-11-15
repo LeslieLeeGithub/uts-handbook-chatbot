@@ -1,0 +1,87 @@
+{
+  "course_code": "C10184",
+  "course_name": "Bachelor of Medical Science",
+  "credit_points": "144 Credit points",
+  "cricos_code": "023607A",
+  "overview": "Shape the future of human health with a uniquely hands-on degree from one of Australia’s leading science faculties. The UTS Bachelor of Medical Science combines the study of health science with technical, professional and communication-centric subjects taught by leading researchers and medical science practitioners. Graduates emerge ready to create, innovate and implement solutions to pressing medical and health care problems or to progress to postgraduate study in a range of health and science disciplines.\n\nWhy UTS Science?\n\nUTS Science, one of Australia's leading university science faculties, is committed to scientific advancement that creates a more sustainable world. When students study with UTS, they join a university that delivers global impact in STEM education and research and a faculty that produces scientists with the power to transform the profession.\n\nCourse features",
+  "awards": [
+    "Bachelor of Medical Science",
+    "in (name of major)"
+  ],
+  "faculty": [
+    "Science"
+  ],
+  "study_level": "Undergraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "3 Year(s)",
+  "duration_parttime": "6 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [
+    "607050",
+    "No major",
+    "Autumn Session, Spring Session607052",
+    "Medical and Health-related Sciences",
+    "Autumn Session, Spring Session607051",
+    "Pathology",
+    "Autumn Session, Spring Session"
+  ],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Explain how diseases arise and disrupt normal physiological function and appraise the technologies used to diagnose, treat, and cure diseases. "
+    },
+    {
+      "number": 2,
+      "text": "Collect, accurately record, interpret, and draw conclusions from data to solve real-world medical problems, and infer how the results of medical research can be translated to improve patient outcomes. "
+    },
+    {
+      "number": 3,
+      "text": "Evaluate ethical, social, and cultural issues in medical science in local and global contexts and work responsibly, safely and with respect to diversity and regulatory frameworks. "
+    },
+    {
+      "number": 4,
+      "text": "Reflect upon, independently evaluate, and critically appraise current evidence-based literature to identify medical problems or unmet medical needs and creatively translate medical research results to improve the clinical care of patients. "
+    },
+    {
+      "number": 5,
+      "text": "Effectively communicate medical science knowledge and research information, and the importance thereof, to a range of audiences using a variety of modes, independently and collaboratively. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [
+    {
+      "name": "Medical and Health-related Sciences, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/2e4d276b47f22650a31de422036d43ea"
+    },
+    {
+      "name": "Medical and Health-related Sciences, Spring commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/624d276b47f22650a31de422036d43f2"
+    },
+    {
+      "name": "Pathology, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/a24d676b47f22650a31de422036d4306"
+    },
+    {
+      "name": "Pathology, Spring commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/e64d676b47f22650a31de422036d430d"
+    }
+  ],
+  "notes": "Due to a change in UAC code, the selection rank for Medical and Health-related Sciences is likely to be closer to 87.05 in 2023",
+  "admission_requirements": "Applicants must have completed an Australian Year 12 qualification, Australian Qualifications Framework Diploma, or equivalent Australian or overseas qualification at the required level.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Prepare to deliver local and global impact in the health care sector. Graduates have a diversity of career options at their fingertips, including as a medical scientist, medical laboratory technician, consultant/advisor or science communicator for:",
+  "course_structure": "Students must complete a total of 144 credit points, made up of 48 credit points of Foundation stream core subjects, 72 credit points of major core subjects and 24 credit points of elective subjects. The elective subjects enable students to increase their expertise in other areas of science or other disciplines in the University.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c10184.html",
+    "crawled_at": "2025-11-10T17:34:54.086326",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

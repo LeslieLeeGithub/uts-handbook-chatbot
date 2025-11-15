@@ -1,0 +1,76 @@
+{
+  "course_code": "C09074",
+  "course_name": "Bachelor of Engineering (Honours) Bachelor of Medical Science",
+  "credit_points": "246 Credit points",
+  "cricos_code": "084095D",
+  "overview": "Engineers and Medical Scientists are the leaders of developing, engineering, and implementing solutions to health and medical problems having an impact globally on the health of society. This combined degree is designed to provide opportunities for students interested in medical science, the scientific basis of engineering and technology, and the technology itself.\n\nThere is a strong interrelation between the progress of engineering and developments in science, and a demonstrated need for professionals with a strong understanding and experience in both areas. Engineers with Medical Scientist training have careers that are dynamic and involve an exciting range of professions from research and development, writing and implementing policy and practice in the medical and health sciences, to working in industry, government, and the innovation sector. This course allows choice or majors within both the Medical Scientist and Engineering programs, so students can specialise to their interests.\n\nThe Bachelor of Engineering (Honours) program has a core taken by all engineering students which provides the foundation knowledge and skills required of every engineer. Students choose a major which is where they develop the technical knowledge specific to that field of practice. There is a choice of ten majors including Biomedical, Civil, Data, Electrical, Mechanical, Software, and a Flexible major that can be paired with the choice of major in the Bachelor of Medical Science to create a study trajectory that aligns with the student’s interests and career ambitions.\n\nMedical Scientists at UTS can choose to major in Medical and Health-related Sciences or Pathology, allowing them to have speciality relevant to their career choices and interests. In the Medical and Health-related Science major students learn the body through the study of tissues, organs and cellular facets both in health and disease, medical devices, how medicines work, as well as public health policies and clinical trials. In the Pathology major students learn how diseases trigger biochemical or cellular changes in the body and how to best diagnose and treat these diseases. Students learn by applying and investigating scientific approaches in world class laboratories and studios with up-to-date scientific technologies and equipment in line with those used in the industry. This hands-on learning is accompanied by development of professional skills such as communication, problem solving, critical thinking, innovation and team-work to deliver impact across local and global communities.\n\nA strong professional focus ensures graduates of this course learn the skills employers want with a solid link between theory and practice and the benefits of hands-on experience. Students explore and investigate the human body's structure, function and disease processes at the cellular and whole organ level. In the engineering program students build strong foundations in engineering theory, technical expertise and knowledge of professional practice. The course provides the knowledge and skills for students to be excellent medical scientists and engineers, who can make a difference to society in a range of careers.\n\nThis combined degree can be completed in less time than would be required to complete the two degrees separately.",
+  "awards": [
+    "Bachelor of Engineering (Honours) in (name of Engineering major) (BE(Hons)) Bachelor of Medical Science (BMedSc)"
+  ],
+  "faculty": [
+    "Engineering",
+    "and",
+    "Information",
+    "TechnologyScience"
+  ],
+  "study_level": "Undergraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "5 Year(s)",
+  "duration_parttime": "10 Year(s)",
+  "duration_sessions": "10",
+  "course_fee": "24500",
+  "course_intake": "Feb",
+  "uac_codes": [
+    "609370",
+    "Autumn Session"
+  ],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "The Bachelor of Engineering (Honours), majoring in Civil Engineering, Civil and Environmental Engineering, Electrical Engineering, Flexible Engineering, Mechanical Engineering, Mechanical and Mechatronic Engineering, or Mechatronic Engineering, is fully accredited by Engineers Australia at the level of Professional Engineer and is recognised internationally by signatories to the Washington Accord. Biomedical Engineering, Data Science Engineering, Electrical and Electronic Engineering, Electronic Engineering, and Software Engineering majors are provisionally accredited with Engineers Australia, pending full accreditation. UTS is currently seeking provisional accreditation of the Chemical Process Engineering and Renewable Energy Engineering majors.",
+  "learning_outcomes": [
+    {
+      "number": 7,
+      "text": "Explain how diseases arise and disrupt normal physiological function and appraise the technologies used to diagnose, treat, and cure diseases. (BMedSc) "
+    },
+    {
+      "number": 8,
+      "text": "Collect, accurately record, interpret, and draw conclusions from data to solve real-world medical problems, and infer how the results of medical research can be translated to improve patient outcomes. (BMedSc) "
+    },
+    {
+      "number": 9,
+      "text": "Evaluate ethical, social, and cultural issues in medical science in local and global contexts and work responsibly, safely and with respect to diversity and regulatory frameworks. (BMedSc) "
+    },
+    {
+      "number": 10,
+      "text": "Reflect upon, independently evaluate, and critically appraise current evidence-based literature to identify medical problems or unmet medical needs and creatively translate medical research results to improve the clinical care of patients. (BMedSc) "
+    },
+    {
+      "number": 11,
+      "text": "Effectively communicate medical science knowledge and research information, and the importance thereof, to a range of audiences using a variety of modes, independently and collaboratively. (BMedSc) "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "Inherent (essential) requirements are academic and non-academic requirements that are essential to the successful completion of a course.\n\nProspective and current students should carefully read the Inherent (Essential) Requirements Statement below and consider whether they might experience challenges in successfully completing this course. This Statement should be read in conjunction with the UTS Student Rules.\n\nProspective or current student concerned about their ability to meet these requirements should discuss their concerns with the Academic Liaison Officer in their faculty or school and/or UTS Accessibility Service on 9514 1177 or at accessibility@uts.edu.au.\n\nUTS will make reasonable adjustments to teaching and learning, assessment, professional experiences, course related work experience and other course activities to facilitate maximum participation by students with disabilities, carer responsibilities, and religious or cultural obligations in their courses.\n\nFor course specific information see the Faculty of Engineering & Information Technology Inherent (Essential) Requirements Statement.",
+  "study_plans": [
+    {
+      "name": "Autumn commencing, Mechatronic Engineering and Medical and Health-related Sciences majors, Full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/c5bea47983ecb250fed7d4326daad376"
+    },
+    {
+      "name": "Autumn commencing, Mechatronic Engineering and Pathology majors, Full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/0dbea47983ecb250fed7d4326daad383"
+    }
+  ],
+  "notes": "None",
+  "admission_requirements": "Applicants must have completed an Australian Year 12 qualification, Australian Qualifications Framework Diploma, or equivalent Australian or overseas qualification at the required level.\n\nCurrent school leavers are advised to complete the Year 12 Engineering and IT Questionnaire. The questionnaire allows applicants to demonstrate their strong motivation to study engineering or IT at UTS and may assist applicants whose ATAR falls short of the required cut-off by up to three points.\n\nNon-current school leavers are advised to complete the employment question on their UAC application as adjustment factors may be applied on the basis of relevant work experience.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): 75; Admission requirements for Chinese students (Gaokao score out of 750): 471; Admission requirements for students with GCE A Levels: 8; Admission requirements for Hong Kong students (HKDSE): 15; Admission requirements for Indian students (AISSC): 11; Admission requirements for Indian students (ISC): 80; Admission requirements for students with IB or Predicted IB: 25/30 ; Admission requirements for Malaysian students (STPM with 3 AL Subjects): 8; Admission requirements for Singaporean students (A Level): 8; Admission requirements for USA students (SAT 1): 1120; Admission requirements for UTS Foundation Studies students: 6.6",
+  "career_options": "There are excellent career options for students who have both degrees as this gives them a unique contribution to add to many professions. Career options include positions in medical engineering, biomedical engineering, industry and government settings, biotechnology, communications, construction, pharmaceutical settings, clinical trial and medical device research and development, materials technology, medical technology and instrumentation, and molecular biology.",
+  "course_structure": "Students are required to complete 246 credit points, comprising 168 credit points in engineering and 78 credit points in medical science. The engineering component consists of core (48 credit points), major (field of practice) (114 credit points) and professional engineering practice (6 credit points). The medical science component represents a specific medical science strand.\n\nThe engineering major is selected at the time of admission; however, it is possible to apply to change major at a later date. Students selecting the flexible major should decide by the end of the first year of full-time study whether to transfer to a designated major or continue with the flexible program.\n\nGraduation from the medical science component of the combined degree is not possible prior to completion of all components of the combined degree. Students wishing to graduate with a Bachelor of Medical Science prior to completion of the engineering component of the combined degree must apply for transfer to the Bachelor of Medical Science (C10184) single degree program where they must complete all requirements for the stand-alone single degree version.\n\nSimilarly, if a student wishes to graduate from the engineering component of the combined degree prior to completion of the medical science component they must apply for transfer to the Bachelor of Engineering (Honours) (C09066) single degree program where they must complete all requirements for the stand-alone single degree version, including the Engineering Work Experience subject.\n\nFurther, students wishing to graduate from the engineering component of the combined degree prior to completion of the medical science component must have completed at least 60 credit points of the medical science major (STM90348).",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c09074.html",
+    "crawled_at": "2025-11-10T04:21:03.311130",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

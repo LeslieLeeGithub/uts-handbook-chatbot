@@ -1,0 +1,48 @@
+{
+  "course_code": "C04271",
+  "course_name": "Master of Engineering",
+  "credit_points": "72 Credit points",
+  "cricos_code": "081087F",
+  "overview": "This course provides an opportunity at master's level for professional engineers to deepen the knowledge and skills gained in their undergraduate studies while expanding their managerial and professional engineering knowledge.\n\nThe course follows an integrated approach to professional practice through disciplinary and professional engineering subjects, subjects relating to the chosen major, an independent project, and a set of electives. Students who wish to undertake a more substantial research project have the opportunity to transfer to the Master of Engineering (Advanced) (C04278).\n\nThis course allows students to choose a program of study that deepens the body of knowledge acquired in their first degree as well as expands knowledge boundaries into policy and engineering management areas. It also provides an opportunity to deepen their knowledge and gain practical skills by undertaking an independent project in the field of their major.",
+  "awards": [
+    "Master of Engineering in (name of Engineering major) (ME)"
+  ],
+  "faculty": [
+    "Engineering",
+    "and",
+    "Information",
+    "Technology"
+  ],
+  "study_level": "Postgraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "5 Year(s)",
+  "duration_parttime": "3 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "Inherent (essential) requirements are academic and non-academic requirements that are essential to the successful completion of a course.\n\nProspective and current students should carefully read the Inherent (Essential) Requirements Statement below and consider whether they might experience challenges in successfully completing this course. This Statement should be read in conjunction with the UTS Student Rules.\n\nProspective or current student concerned about their ability to meet these requirements should discuss their concerns with the Academic Liaison Officer in their faculty or school and/or UTS Accessibility Service on 9514 1177 or at accessibility@uts.edu.au.\n\nUTS will make reasonable adjustments to teaching and learning, assessment, professional experiences, course related work experience and other course activities to facilitate maximum participation by students with disabilities, carer responsibilities, and religious or cultural obligations in their courses.\n\nFor course specific information see the Faculty of Engineering & Information Technology Inherent (Essential) Requirements Statement.",
+  "study_plans": [
+    {
+      "name": "Civil Engineering major, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/eaa32161477fee50413994ed036d4325"
+    }
+  ],
+  "notes": "None",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree, or an equivalent or higher qualification, or submitted other evidence of general and professional qualifications that demonstrates potential to pursue graduate studies.\n\nIt is a requirement that the bachelor's degree be in engineering and relevant to the applicant's proposed major, with no more than 25 per cent of subjects failed.\n\nThe major is selected at the time of application to the course. Applicants who do not intend to undertake a specified major must complete a subject nomination form and attach it to their application.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Students who hold an undergraduate engineering degree are able to enhance their knowledge and ability through postgraduate-level studies in their respective majors, enabling them to gain and hold employment in relevant engineering fields.",
+  "course_structure": "Candidates complete coursework subjects and an independent project totalling 72 credit points. The project component consists of a preparatory subject and a project (in the area of the major) which must be undertaken in successive sessions, typically the final two sessions of the course.\n\nSome majors may require students to complete a number of prescribed subjects with or without opportunity for electives. Subjects are selected from postgraduate programs offered by the Faculty of Engineering and Information Technology.\n\nA major is granted if subjects totalling 42 credit points (including the project component) are completed within one of the designated majors.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c04271.html",
+    "crawled_at": "2025-11-10T14:49:36.942080",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

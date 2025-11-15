@@ -1,0 +1,62 @@
+{
+  "course_code": "C09168",
+  "course_name": "Bachelor of Science (Honours)",
+  "credit_points": "48 Credit points",
+  "cricos_code": "110745K",
+  "overview": "Science holds the key to many of the challenges – pandemics, climate change, antibiotic resistance – that threaten the world today. With the UTS Bachelor of Science, students can take their place at the forefront of a profession with the power to build resilience in both humanity and the planet.\n\nThe Bachelor of Science (Honours) degree includes an additional research year on top of the standard Bachelor of Science curriculum. Available to high-performing students, this leading qualification is comprised of a year-long original research project in a professional scientific environment. With a choice of four disciplines, students can further develop specialist expertise in their chosen area of science and build high-level science research skills that are highly valued by employers.\n\nWhy UTS Science? UTS Science, one of Australia’s leading university science faculties, is committed to scientific advancement that creates a more sustainable world. When students study with UTS, they join a university that delivers global impact in STEM education and research and a faculty that produces scientists with the power to transform the profession.\n\nCourse features Students complete a year-long project in a professional in a professional laboratory at UTS or with one of the university’s numerous industry partners, choosing from the following discipline areas:\n\nThey work under the guidance of leading academics and practitioners, developing research skills with real relevance to industry. They also learn to engage, partner and collaborate with working scientists and develop a range of professional capabilities, including report writing and presentation skills, that have immediate utility in a vast range of science and similar roles.",
+  "awards": [
+    "Bachelor of Science (Honours)",
+    "in (name of major)"
+  ],
+  "faculty": [
+    "Science"
+  ],
+  "study_level": "Undergraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "1 Year(s)",
+  "duration_parttime": null,
+  "duration_sessions": "2",
+  "course_fee": "23220",
+  "course_intake": "Feb/ Jul",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "The ability to apply, evaluate, and use advanced contemporary technologies, specialist knowledge, and skills in the development and process of a research framework and research project within a relevant Science discipline. "
+    },
+    {
+      "number": 2,
+      "text": "Design a hypothesis, experimental aims and demonstrate advanced research methods, critical evaluation and analysis of new and existing knowledge whilst evaluating its potential application for the world of the future. "
+    },
+    {
+      "number": 3,
+      "text": "Act safely and responsibly in professional settings and employ and integrate a range of technical and professional skills for effective and ethical contributions to society. "
+    },
+    {
+      "number": 4,
+      "text": "Demonstrate advanced self-directed learning to find, create, and reflect on multiple sources of information to derive innovative solutions to complex problems. "
+    },
+    {
+      "number": 5,
+      "text": "Display excellent communication skills at varying levels of complexity and communicate information and findings through a variety of methods to non-expert and professional audiences. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [],
+  "notes": "None",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree in a relevant discipline at an appropriate level.\n\nThe honours program is normally open to students who have attained at least a credit average over the final two-thirds of the undergraduate program.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): n/a ; Admission requirements for Chinese students (Gaokao score out of 750): n/a ; Admission requirements for students with GCE A Levels: n/a ; Admission requirements for Hong Kong students (HKDSE): n/a ; Admission requirements for Indian students (AISSC): n/a ; Admission requirements for Indian students (ISC): n/a ; Admission requirements for students with IB or Predicted IB: n/a ; Admission requirements for Malaysian students (STPM with 3 AL Subjects): n/a ; Admission requirements for Singaporean students (A Level): n/a ; Admission requirements for USA students (SAT 1): n/a ; Admission requirements for UTS Foundation Studies students: n/a",
+  "career_options": "Graduates emerge with an industry-recognised qualification that offers both expanded career opportunities (see the Bachelor of Science course listing for examples) and the option to pursue postgraduate research, including a master’s by research or a PhD.",
+  "course_structure": "The major component of the course is a research project that extends over the full duration of the course and normally takes the form of an experimental or analytical investigation, undertaken either in the laboratory or the field. Candidates may also be required to undertake one or more critical reviews of the scientific literature in designated areas and to attend formal classes devoted to advanced coursework. The results of the project are presented in an oral seminar and in a written thesis, both of which are formally assessed.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c09168.html",
+    "crawled_at": "2025-11-10T05:12:23.661575",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

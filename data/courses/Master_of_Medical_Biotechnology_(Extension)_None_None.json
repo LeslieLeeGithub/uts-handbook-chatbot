@@ -1,0 +1,70 @@
+{
+  "course_code": "C04388",
+  "course_name": "Master of Medical Biotechnology (Extension)",
+  "credit_points": "96 Credit points",
+  "cricos_code": "098056G",
+  "overview": "The Master of Medical Biotechnology (Extension) is for two distinct groups of students, namely the professional scientists wishing to update their industry-related skills for career advancement and students considering a research degree.\n\nThe compulsory core subjects are relevant to all science disciplines and provide a backbone of skills important to a professional scientist; be they engaged in research, science businesses, industries or government organisations. These are the skills of communication, critical analysis, project management and innovation and commercialisation. These are complemented by professional stream choices which enable students to select a portfolio of skills relevant to their chosen career. The professional strand is complemented by medical biotechnology study. Students may have the option of undertaking a small research project, subject to approval by the faculty. For students with suitable achievement levels, an opportunity to undertake a more substantial research project is available by transferring into the Master of Philosophy in Medical Biotechnology (C04389). For those considering a research degree, the Master of Philosophy in Medical Biotechnology provides a pathway to a PhD.",
+  "awards": [
+    "Master of Medical Biotechnology (MMedBiotech)"
+  ],
+  "faculty": [
+    "Science"
+  ],
+  "study_level": "Postgraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "2 Year(s)",
+  "duration_parttime": "4 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Critically appraise and apply advanced knowledge and technical skills to conduct research or discipline specific projects to inform professional practice in science and medical biotechnology. "
+    },
+    {
+      "number": 2,
+      "text": "Assess, argue for, and conduct independent research and solving complex problems by applying a research methodology to address a research need in a relevant professional context. "
+    },
+    {
+      "number": 3,
+      "text": "Develop, and engage, at times collaboratively, in safe, ethical, organised work practices that mitigate risk and contribute to solving global health problems in the context of science and medical biotechnology. "
+    },
+    {
+      "number": 4,
+      "text": "Reflectively discover, create, and evaluate processes used to determine the value, integrity, and relevance of multiple sources of information to propose innovative solutions to complex science and medical biotechnology problems. "
+    },
+    {
+      "number": 5,
+      "text": "Present and communicate complex ideas and justifications using appropriate communication approaches from a variety of methods (oral, written, visual) to communicate with discipline experts, scientists, industry, and the general public. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [
+    {
+      "name": "Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/c82d6f27c3feee50020e061ad0013167"
+    },
+    {
+      "name": "Spring commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/8c2d6f27c3feee50020e061ad001316c"
+    }
+  ],
+  "notes": "None",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree, or an equivalent or higher qualification, or submitted other evidence of general and professional qualifications that demonstrates potential to pursue graduate studies.\n\nEntry into the course requires a bachelor's, master's, graduate diploma, or graduate certificate qualification in biochemistry and cell biology, microbiology, human biology, genetics, laboratory technology, medical science, food science and biotechnology, or pharmacology.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "All graduates have training in the professional attributes that employers seek. The skills learnt expand career horizons and enhance prospects for promotion in the rapidly evolving science professions. Graduates may also proceed to a career in research by transferring into the Master of Philosophy in Medical Biotechnology (C04389) as a pathway to a PhD.\n\nGraduates of this course are well prepared for careers in medical device and biotechnology companies, government policy and regulation, hospitals, and research organisations where the ability to combine biology and biotechnology to solve medical problems is required.",
+  "course_structure": "The course requires 96 credit points of study, comprising 32 credit points of core subjects, 24 credit points of professional stream subjects, and 40 credit points of electives.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c04388.html",
+    "crawled_at": "2025-11-10T15:33:13.345652",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "course_code": "C11211",
+  "course_name": "Graduate Certificate in Australian Law",
+  "credit_points": "30 Credit points",
+  "cricos_code": "064381G",
+  "overview": "This course is for qualified lawyers from common law jurisdictions outside Australia who are seeking admission to practise law in NSW. Students complete 30 credit points of core subjects spanning ethics, property, constitutional and administrative law.\n\nCoupled with the successful completion of practical legal training (PLT), graduates of this course meet the academic requirements for admission to practise law in NSW.",
+  "awards": [
+    "Graduate Certificate in Australian Law (GradCertAustLaw)"
+  ],
+  "faculty": [
+    "Law"
+  ],
+  "study_level": "Postgraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": null,
+  "duration_parttime": "1 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "This course may satisfy the requirements for admission to the Supreme Court of NSW. The Legal Profession Admission Board may recognise subjects attempted within this course. Applicants are advised to obtain written confirmation to the LPAB in recognition of subjects attempted within this course prior to enrolling.",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Demonstrate understanding of a body of legal knowledge relating to the Australian legal system and laws and contemporary developments in law and its professional practice. "
+    },
+    {
+      "number": 2,
+      "text": "Apply principles and approaches to ethical decision-making and professional responsibility in legal practice. "
+    },
+    {
+      "number": 3,
+      "text": "Apply skills in legal research, critical analysis and evaluation to problems and questions in law. "
+    },
+    {
+      "number": 4,
+      "text": "Reflect on Indigenous contexts to inform professional capabilities to work for and with Indigenous people across the legal sector. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "Inherent (essential) requirements are academic and non-academic requirements that are essential to the successful completion of a course.\n\nProspective and current students should carefully read the Inherent (Essential) Requirements Statement below and consider whether they might experience challenges in successfully completing this course. This Statement should be read in conjunction with the UTS Student Rules.\n\nProspective or current student concerned about their ability to meet these requirements should discuss their concerns with the Academic Liaison Officer in their faculty or school and/or UTS Accessibility Service on 9514 1177 or at accessibility@uts.edu.au.\n\nUTS will make reasonable adjustments to teaching and learning, assessment, professional experiences, course related work experience and other course activities to facilitate maximum participation by students with disabilities, carer responsibilities, and religious or cultural obligations in their courses.\n\nFor course specific information see the Faculty of Law Inherent (Essential) Requirements Statement.",
+  "study_plans": [
+    {
+      "name": "Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/b0214157838c3290fed7d4326daad372"
+    }
+  ],
+  "notes": "This course is not appropriate for applicants who are already admitted to practise as a lawyer in NSW.",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree, or an equivalent or higher qualification, or submitted other evidence of general and professional qualifications that demonstrates potential to pursue graduate studies.\n\nApplicants' bachelor's degree in law, or Juris Doctor, must be from outside Australia or they must be admitted to practise as a legal practitioner in a common law jurisdiction outside Australia. Students who have graduated with a Shari'a law qualification are not eligible to apply for this course.\n\nFor overseas qualified lawyers, applicants must provide written advice from the NSW Legal Profession Admission Board outlining subjects required to be completed in order to be admitted to practise in NSW.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Career options include lawyer in NSW within a government or corporate department, private law firm or community law centre, providing students also undertake a course in practical legal training such as the Graduate Certificate in Professional Legal Practice (C11232).",
+  "course_structure": "The course requires completion of 30 credit points of specified subjects. However, in some cases and subject to approval, students may substitute one subject.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c11211.html",
+    "crawled_at": "2025-11-10T18:12:51.016949",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

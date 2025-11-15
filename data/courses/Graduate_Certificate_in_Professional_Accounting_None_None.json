@@ -1,0 +1,65 @@
+{
+  "course_code": "C11206",
+  "course_name": "Graduate Certificate in Professional Accounting",
+  "credit_points": "24 Credit points",
+  "cricos_code": "061284M",
+  "overview": "The Graduate Certificate in Professional Accounting is a four-subject introductory course designed to provide a general understanding of accounting and related areas of business study. It provides foundational knowledge in the areas of accounting, finance, economics and law.\n\nThis course is designed for students who have business experience but lack the formal qualifications for direct entry to the master's programs in professional accounting.",
+  "awards": [
+    "Graduate Certificate in Professional Accounting (GradCertProfAcc)"
+  ],
+  "faculty": [
+    "Business"
+  ],
+  "study_level": "Postgraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": null,
+  "duration_parttime": "1 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Analyse and apply accounting practices to address complex business problems "
+    },
+    {
+      "number": 2,
+      "text": "Collaborate with peers and stakeholders to achieve desired business outcomes "
+    },
+    {
+      "number": 3,
+      "text": "Communicate accounting information and decisions clearly in an appropriate form to business stakeholders "
+    },
+    {
+      "number": 4,
+      "text": "Apply principles of social responsibility and cultural diversity to decisions in professional accounting practice "
+    },
+    {
+      "number": 5,
+      "text": "Apply ethical principles and professional integrity in the context of professional accounting practice "
+    },
+    {
+      "number": 6,
+      "text": "Demonstrate technical skills necessary to operate effectively in professional accounting practice "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [],
+  "notes": "None",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree, or an equivalent or higher qualification, or submitted other evidence of general and professional qualifications that demonstrates potential to pursue graduate studies.\n\nAll applicants who do not meet the academic requirement may still be considered on the basis of:\n\n• a minimum of at least four years' full time, or equivalent, relevant work experience.\n\nThe relevant work experience must be demonstrated through a C.V. and a Statement of Service confirming the dates of employment, and the position held within the organisation.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Career options include management-level positions in industry, government, or not-for-profit organisations.",
+  "course_structure": "The course totals 24 credit points, made up of four core subjects.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c11206.html",
+    "crawled_at": "2025-11-10T18:11:48.246611",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "course_code": "C10310",
+  "course_name": "Bachelor of Property Economics",
+  "credit_points": "144 Credit points",
+  "cricos_code": "079553C",
+  "overview": "For students thinking about a career in business, economics or property, the Bachelor of Property Economics provides the edge required to get started in a global industry.\n\nIn this degree students learn the specialist knowledge required to enter the property sector, with skills in property valuation, market analysis, investment and development. Their skill set is just as relevant locally as it is internationally.\n\nThis degree covers economic, legal and financial disciplines, giving students the flexibility to pursue a variety of career paths. This business knowledge is also transferable, providing options for a transition to other sectors as careers develop.\n\nUTS graduates are highly sought after and have excellent starting salaries: the property industry actively recruits property economics students. Most students are working in the industry by their third year of study.\n\nThis job-readiness results from UTS's industry connections: the curriculum was developed in consultation with industry, guest lecturers come from industry, and students work with real-world projects such as Barangaroo, Central Park and Green Square.\n\nThe degree structures classes so that students do a mixture of individual and team-based work, mixing theory and practice. This means graduates seamlessly fit into team-based, workplace environments.",
+  "awards": [
+    "Bachelor of Property Economics (BPropEc)"
+  ],
+  "faculty": [
+    "Design,",
+    "Architecture",
+    "and",
+    "Building"
+  ],
+  "study_level": "Undergraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "3 Year(s)",
+  "duration_parttime": "6 Year(s)",
+  "duration_sessions": "6",
+  "course_fee": "19330",
+  "course_intake": "Feb",
+  "uac_codes": [
+    "602033",
+    "Autumn Session"
+  ],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "Australian Property Institute (API); Royal Institution of Chartered Surveyors (RICS).",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Critically evaluate economic and valuation theory, data analytics and financial principles to analyse, interpret, communicate, and report on property markets and investment decisions. "
+    },
+    {
+      "number": 2,
+      "text": "Apply construction technology, cost planning, quantity surveying, and tender processes to develop appropriate and creative solutions to built environment issues. "
+    },
+    {
+      "number": 3,
+      "text": "Synthesise and apply knowledge of land use, planning and legal and environmental frameworks to planning and property development decision-making. "
+    },
+    {
+      "number": 4,
+      "text": "Employ creative and innovative use of technology and sustainability approaches to addressing built environment challenges. "
+    },
+    {
+      "number": 5,
+      "text": "Identify ethical issues and apply informed ethical judgements in diverse local and global professional built environment contexts. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "Inherent (essential) requirements are academic and non-academic requirements that are essential to the successful completion of a course.\n\nProspective and current students should carefully read the Inherent (Essential) Requirements Statement below and consider whether they might experience challenges in successfully completing this course. This Statement should be read in conjunction with the UTS Student Rules.\n\nProspective or current student concerned about their ability to meet these requirements should discuss their concerns with the Academic Liaison Officer in their faculty or school and/or UTS Accessibility Service on 9514 1177 or at accessibility@uts.edu.au.\n\nUTS will make reasonable adjustments to teaching and learning, assessment, professional experiences, course related work experience and other course activities to facilitate maximum participation by students with disabilities, carer responsibilities, and religious or cultural obligations in their courses.\n\nFor course specific information see the Faculty of Design, Architecture and Building Inherent (Essential) Requirements Statement.",
+  "study_plans": [
+    {
+      "name": "Autumn commencing, Full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/245d6b6b47f22650a31de422036d4375"
+    }
+  ],
+  "notes": "None",
+  "admission_requirements": "Applicants must have completed an Australian Year 12 qualification, Australian Qualifications Framework Diploma, or equivalent Australian or overseas qualification at the required level.\n\nUTS: Design, Architecture and Building may consider applications based on the results of the Special Tertiary Admissions Test (STAT) if students lack academic qualifications but have extensive professional experience. The STAT is conducted through the Universities Admissions Centre.\n\nStudents who have completed a TAFE Diploma in one the following areas will receive five (5) adjustment points: Valuation/Property Services/Applied Commerce/Business/Conservation and Land Management.\n\nStudents must refer to the inherent requirements for all degrees offered by Design and Architecture in the Faculty of Design, Architecture and Building.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): 70; Admission requirements for Chinese students (Gaokao score out of 750): 455; Admission requirements for students with GCE A Levels: 7; Admission requirements for Hong Kong students (HKDSE): 14; Admission requirements for Indian students (AISSC): 9; Admission requirements for Indian students (ISC): 76; Admission requirements for students with IB or Predicted IB: 24/29 ; Admission requirements for Malaysian students (STPM with 3 AL Subjects): 5; Admission requirements for Singaporean students (A Level): 7; Admission requirements for USA students (SAT 1): 1090; Admission requirements for UTS Foundation Studies students: 6.2",
+  "career_options": "Career options include property valuer, property and asset manager, property market analyst, property sales and acquisitions, property developer, funds manager, and corporate real estate adviser.",
+  "course_structure": "The course comprises a total of 144 credit points made up of 120 credit points of core subjects and 24 credit points of electives.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c10310.html",
+    "crawled_at": "2025-11-10T03:50:31.251374",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

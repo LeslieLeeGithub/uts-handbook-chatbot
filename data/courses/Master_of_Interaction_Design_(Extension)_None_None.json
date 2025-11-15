@@ -1,0 +1,60 @@
+{
+  "course_code": "C04234",
+  "course_name": "Master of Interaction Design (Extension)",
+  "credit_points": "96 Credit points",
+  "cricos_code": "096324G",
+  "overview": "Interaction design is concerned with designing interactive digital products, digital environments, systems, and services that can satisfactorily meet the needs and desires of the intended users. The Master of Interaction Design (Extension) prepares and equips students with up-to-date theoretical knowledge and requisite practical industry-standard skills in this rapidly advancing field.\n\nWhile industry demand for skilled interaction designers and various other jobs, such as user experience (UX) designers, service designers etc., is increasing, there is a lack of formal education/training offered by universities in interaction design. This course is designed to provide students with the most current and requisite skills in this fast-evolving field. Graduates possess skills in industrially applicable and cost-effective information environments (i.e. multimedia, interactive systems design and associated information technology). The course provides industry with graduates who can combine these skills with those of their original discipline in professional applications-oriented settings.\n\nThe course is committed to producing graduates who have a deep understanding of human-centred approaches to designing digital technologies. This ensures that 'products' created are more likely to 'fit' meaningfully into users' lives, because the design process is informed by a deep understanding of people's practices, particular situations and values.\n\nThe Master of Interaction Design is attractive to different types of learners, namely:",
+  "awards": [
+    "Master of Interaction Design (Extension)"
+  ],
+  "faculty": [
+    "Engineering",
+    "and",
+    "Information",
+    "Technology"
+  ],
+  "study_level": "Postgraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "2 Year(s)",
+  "duration_parttime": "4 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "Inherent (essential) requirements are academic and non-academic requirements that are essential to the successful completion of a course.\n\nProspective and current students should carefully read the Inherent (Essential) Requirements Statement below and consider whether they might experience challenges in successfully completing this course. This Statement should be read in conjunction with the UTS Student Rules.\n\nProspective or current student concerned about their ability to meet these requirements should discuss their concerns with the Academic Liaison Officer in their faculty or school and/or UTS Accessibility Service on 9514 1177 or at accessibility@uts.edu.au.\n\nUTS will make reasonable adjustments to teaching and learning, assessment, professional experiences, course related work experience and other course activities to facilitate maximum participation by students with disabilities, carer responsibilities, and religious or cultural obligations in their courses.\n\nFor course specific information see the Faculty of Engineering & Information Technology Inherent (Essential) Requirements Statement.",
+  "study_plans": [
+    {
+      "name": "Data Analytics, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/77be453a8333ea10fed7d4326daad3d3"
+    },
+    {
+      "name": "Games Design, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/33be453a8333ea10fed7d4326daad3cf"
+    },
+    {
+      "name": "Graduate Research Project and Electives, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/b3be453a8333ea10fed7d4326daad3ca"
+    },
+    {
+      "name": "Interaction Programming, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/7fbe453a8333ea10fed7d4326daad3c5"
+    }
+  ],
+  "notes": "None",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree, or an equivalent or higher qualification, or submitted other evidence of general and professional qualifications that demonstrates potential to pursue graduate studies.\n\nIt is a requirement that the bachelor's degree was completed with no more than 25 per cent of subjects failed.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Graduates can gain employment in a range of technology design-related roles such as interaction designer, UX designer, UX researcher, service designer, or digital experience architect.\n\nFor those currently working in closely related jobs, such as web design, graphic design, interface design, etc., this course provides the necessary formal training in the discipline in order to make a more definitive move into jobs in interaction design. Similarly, many find themselves working within the field of interaction design without formal training, and this course provides a good foundation and opportunities to extend their interaction design skills more formally.\n\nFor those not working in a job related to interaction design, this course provides the opportunity to learn about the discipline and to transition into the various jobs under the interaction design umbrella.",
+  "course_structure": "This course totals 96 credit points of study, including 48 credit points of interaction design core subjects and 24 credit points of interaction design modules (CBK91732) which consist of a choice between elective subjects, a graduate research project, data analytics, games design or interaction programming, and 24 credit points of advanced study (CBK91739).",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c04234.html",
+    "crawled_at": "2025-11-10T14:34:16.158003",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

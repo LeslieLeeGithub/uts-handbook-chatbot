@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UTS Handbook Chatbot - Test Page</title>
+    <link rel="stylesheet" href="src/css/chatbot.css">
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        .test-container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+            margin-top: 0;
+        }
+        .test-section {
+            margin: 20px 0;
+            padding: 15px;
+            background: #f8f9fa;
+            border-radius: 4px;
+        }
+        .test-section h2 {
+            margin-top: 0;
+            font-size: 18px;
+            color: #667eea;
+        }
+        button {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 14px;
+            margin: 5px;
+        }
+        button:hover {
+            opacity: 0.9;
+        }
+        .result {
+            margin-top: 10px;
+            padding: 10px;
+            background: white;
+            border-radius: 4px;
+            border: 1px solid #e0e0e0;
+            font-family: monospace;
+            font-size: 12px;
+            max-height: 300px;
+            overflow-y: auto;
+        }
+        .success {
+            color: #28a745;
+        }
+        .error {
+            color: #dc3545;
+        }
+        .info {
+            color: #17a2b8;
+        }
+    </style>
+</head>
+<body>
+    <div class="test-container">
+        <h1>UTS Handbook Chatbot - API Test Page</h1>
+        <p>This page tests the Handbook Chatbot API endpoints.</p>
+        
+        <div class="test-section">
+            <h2>1. Health Check</h2>
+            <button onclick="testHealth()">Test Health Endpoint</button>
+            <div id="health-result" class="result" style="display:none;"></div>
+        </div>
+        
+        <div class="test-section">
+            <h2>2. Get Courses</h2>
+            <button onclick="testCourses()">Test Courses Endpoint</button>
+            <div id="courses-result" class="result" style="display:none;"></div>
+        </div>
+        
+        <div class="test-section">
+            <h2>3. Chat (Basic Query)</h2>
+            <button onclick="testChatBasic()">Test Chat Endpoint</button>
+            <div id="chat-basic-result" class="result" style="display:none;"></div>
+        </div>
+        
+        <div class="test-section">
+            <h2>4. Chat (With Course Code Filter)</h2>
+            <input type="text" id="course-code-input" placeholder="Enter course code (e.g., C10302)" style="padding: 8px; margin: 5px; width: 200px;">
+            <button onclick="testChatWithCourseCode()">Test Chat with Course Code</button>
+            <div id="chat-course-result" class="result" style="display:none;"></div>
+        </div>
+    </div>
+
+    <!-- Include chatbot widget -->
+    <div id="chatbot-container" class="chatbot-container">
+        <button id="chatbot-button" class="chatbot-button" onclick="toggleChat()">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
+                <path d="M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2z"/>
+            </svg>
+        </button>
+        <div id="chatbot-window" class="chatbot-window hidden">
+            <div class="chatbot-header">
+                <div class="chatbot-header-content">
+                    <h3 class="chatbot-title">UTS Handbook Assistant</h3>
+                    <p class="chatbot-subtitle">Ask me about courses, admission, and more</p>
+                </div>
+                <div class="chatbot-header-buttons">
+                    <button class="chatbot-clear" onclick="clearConversation()" title="Clear conversation">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+                            <path d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"/>
+                        </svg>
+                    </button>
+                    <button class="chatbot-minimize" onclick="minimizeChat()" title="Minimize">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+                            <path d="M20 14H4v-4h16"/>
+                        </svg>
+                    </button>
+                    <button class="chatbot-close" onclick="closeChat()" title="Close">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+                            <path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/>
+                        </svg>
+                    </button>
+                </div>
+            </div>
+            <div id="chatbot-messages" class="chatbot-messages">
+                <div class="chatbot-message chatbot-message-bot">
+                    <div class="chatbot-message-content">
+                        <p>Hello! I'm your UTS Handbook assistant. Ask me about courses, admission requirements, career options, and more!</p>
+                    </div>
+                </div>
+            </div>
+            <div id="chatbot-loading" class="chatbot-loading" style="display: none;">
+                <div class="chatbot-loading-dots">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </div>
+            <div class="chatbot-input-area">
+                <form id="chatbot-form" onsubmit="sendMessage(event)">
+                    <input type="text" id="chatbot-input" class="chatbot-input" placeholder="Ask about UTS courses...">
+                    <button type="submit" class="chatbot-send">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
+                            <path d="M2.01 21L23 12 2.01 3 2 10l15 2-15 2z"/>
+                        </svg>
+                    </button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <script src="src/js/chatbot.js"></script>
+    <script>
+        const API_BASE = 'http://localhost:8000';
+
+        function displayResult(elementId, data, isError = false) {
+            const element = document.getElementById(elementId);
+            element.style.display = 'block';
+            element.className = 'result ' + (isError ? 'error' : 'success');
+            element.textContent = JSON.stringify(data, null, 2);
+        }
+
+        async function testHealth() {
+            try {
+                const response = await fetch(`${API_BASE}/health`);
+                const data = await response.json();
+                displayResult('health-result', { status: response.status, data });
+            } catch (error) {
+                displayResult('health-result', { error: error.message }, true);
+            }
+        }
+
+        async function testCourses() {
+            try {
+                const response = await fetch(`${API_BASE}/api/chatbot/courses/`);
+                const data = await response.json();
+                displayResult('courses-result', {
+                    status: response.status,
+                    courseCount: data.courses?.length || 0,
+                    first5Courses: data.courses?.slice(0, 5) || [],
+                    fullData: data
+                });
+            } catch (error) {
+                displayResult('courses-result', { error: error.message }, true);
+            }
+        }
+
+        async function testChatBasic() {
+            try {
+                const response = await fetch(`${API_BASE}/api/chatbot/chat/`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({
+                        message: 'What courses are available?',
+                        concise: true
+                    })
+                });
+                const data = await response.json();
+                displayResult('chat-basic-result', {
+                    status: response.status,
+                    success: data.success,
+                    responsePreview: data.response?.substring(0, 200) + '...',
+                    fullData: data
+                });
+            } catch (error) {
+                displayResult('chat-basic-result', { error: error.message }, true);
+            }
+        }
+
+        async function testChatWithCourseCode() {
+            const courseCode = document.getElementById('course-code-input').value || 'C10302';
+            try {
+                const response = await fetch(`${API_BASE}/api/chatbot/chat/`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({
+                        message: 'What are the admission requirements?',
+                        course_code: courseCode,
+                        concise: true
+                    })
+                });
+                const data = await response.json();
+                displayResult('chat-course-result', {
+                    status: response.status,
+                    courseCode: courseCode,
+                    success: data.success,
+                    responsePreview: data.response?.substring(0, 200) + '...',
+                    fullData: data
+                });
+            } catch (error) {
+                displayResult('chat-course-result', { error: error.message }, true);
+            }
+        }
+
+        // Chatbot functions (simplified for test page)
+        let isOpen = false;
+        function toggleChat() {
+            isOpen = !isOpen;
+            document.getElementById('chatbot-window').classList.toggle('hidden');
+            document.getElementById('chatbot-button').classList.toggle('hidden');
+        }
+        function minimizeChat() {
+            isOpen = false;
+            document.getElementById('chatbot-window').classList.add('hidden');
+            document.getElementById('chatbot-button').classList.remove('hidden');
+        }
+        function closeChat() {
+            minimizeChat();
+        }
+        function clearConversation() {
+            const messages = document.getElementById('chatbot-messages');
+            messages.innerHTML = '<div class="chatbot-message chatbot-message-bot"><div class="chatbot-message-content"><p>Hello! I\'m your UTS Handbook assistant. Ask me about courses, admission requirements, career options, and more!</p></div></div>';
+        }
+        function sendMessage(event) {
+            event.preventDefault();
+            const input = document.getElementById('chatbot-input');
+            const message = input.value.trim();
+            if (!message) return;
+            
+            // Add user message
+            const messagesDiv = document.getElementById('chatbot-messages');
+            const userMsg = document.createElement('div');
+            userMsg.className = 'chatbot-message chatbot-message-user';
+            userMsg.innerHTML = `<div class="chatbot-message-content"><p>${message}</p></div>`;
+            messagesDiv.appendChild(userMsg);
+            input.value = '';
+            
+            // Send to backend
+            fetch(`${API_BASE}/api/chatbot/chat/`, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ message, concise: true })
+            })
+            .then(r => r.json())
+            .then(data => {
+                const botMsg = document.createElement('div');
+                botMsg.className = 'chatbot-message chatbot-message-bot';
+                botMsg.innerHTML = `<div class="chatbot-message-content"><p>${data.response || 'No response'}</p></div>`;
+                messagesDiv.appendChild(botMsg);
+                messagesDiv.scrollTop = messagesDiv.scrollHeight;
+            })
+            .catch(err => {
+                const botMsg = document.createElement('div');
+                botMsg.className = 'chatbot-message chatbot-message-bot';
+                botMsg.innerHTML = `<div class="chatbot-message-content"><p>Error: ${err.message}</p></div>`;
+                messagesDiv.appendChild(botMsg);
+            });
+        }
+    </script>
+</body>
+</html>
+

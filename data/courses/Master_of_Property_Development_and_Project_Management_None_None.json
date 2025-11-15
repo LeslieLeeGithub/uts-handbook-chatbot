@@ -1,0 +1,73 @@
+{
+  "course_code": "C04317",
+  "course_name": "Master of Property Development and Project Management",
+  "credit_points": "96 Credit points",
+  "cricos_code": "089508C",
+  "overview": "The UTS Master of Property Development and Project Management is designed to enhance knowledge and opportunities for professionals in property and project management, and to enable graduates in related fields to extend their qualifications and expertise to embark on careers in property development and project management.\n\nThe course provides a mix of foundational and advanced knowledge in both disciplines. Students develop an appreciation of the ways the two fields work together as they gain knowledge and experience in applying concepts in both disciplines. Examples include learning how to balance private and public interests in urban development, how to assess development feasibility, and how to apply the principles of project management.",
+  "awards": [
+    "Master of Property Development Project Management (MPropDevPM)"
+  ],
+  "faculty": [
+    "Design,",
+    "Architecture",
+    "and",
+    "Building"
+  ],
+  "study_level": "Postgraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "2 Year(s)",
+  "duration_parttime": "4 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Critically evaluate ethical issues and alternate perspectives in property development and project management to form sound judgements and reflect on personal values. "
+    },
+    {
+      "number": 2,
+      "text": "Communicate knowledge and collaborate effectively in teams within property development and project management contexts. "
+    },
+    {
+      "number": 3,
+      "text": "Integrate and adapt project management knowledge to analyse practice-based scenarios and meet contextual demands. "
+    },
+    {
+      "number": 4,
+      "text": "Apply research principles and cognitive skills to evaluate complex ideas and concepts in property development and project management. "
+    },
+    {
+      "number": 5,
+      "text": "Formulate creative solutions to complex problems in property development, project management, and related academic contexts. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "Inherent (essential) requirements are academic and non-academic requirements that are essential to the successful completion of a course.\n\nProspective and current students should carefully read the Inherent (Essential) Requirements Statement below and consider whether they might experience challenges in successfully completing this course. This Statement should be read in conjunction with the UTS Student Rules.\n\nProspective or current student concerned about their ability to meet these requirements should discuss their concerns with the Academic Liaison Officer in their faculty or school and/or UTS Accessibility Service on 9514 1177 or at accessibility@uts.edu.au.\n\nUTS will make reasonable adjustments to teaching and learning, assessment, professional experiences, course related work experience and other course activities to facilitate maximum participation by students with disabilities, carer responsibilities, and religious or cultural obligations in their courses.\n\nFor course specific information see the Faculty of Design, Architecture and Building Inherent (Essential) Requirements Statement.",
+  "study_plans": [
+    {
+      "name": "Autumn commencing, Full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/40c53e9183c8f650fed7d4326daad320"
+    },
+    {
+      "name": "Spring commencing, Full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/44c53e9183c8f650fed7d4326daad3fa"
+    }
+  ],
+  "notes": "Students who do not meet the admission requirements below may begin with a Graduate Certificate and progress to the Master of Property Development and Project Management.\n\nGraduate Certificate in Property Development --> Graduate Diploma in Property Development --> Master of Property Development and Project Management\n\n-OR-\n\nGraduate Certificate in Project Management --> Master of Property Development and Project Management",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree, or an equivalent or higher qualification, or submitted other evidence of general and professional qualifications that demonstrates potential to pursue graduate studies.\n\nApplicants must have one of the following:\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Graduates of the UTS Master of Property Development and Project Management are equipped to move into careers in the property or project management disciplines. For those already working as property and project management professionals, the course opens up opportunities to move into more senior roles and enhance their leadership in those industries. Career options include a wide range of property and project management positions in both the public and private sectors.",
+  "course_structure": "Students must complete 96 credit points made up of 72 credit points of core subjects and 24 credit points of electives.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c04317.html",
+    "crawled_at": "2025-11-10T15:12:14.623794",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "course_code": "C09166",
+  "course_name": "Bachelor of Cybersecurity Bachelor of International Studies (Honours)",
+  "credit_points": "240 Credit points",
+  "cricos_code": "110752M",
+  "overview": "This is an exit-point for students who have completed the International Honours pathway within the Bachelor of Cybersecurity Bachelor of International Studies (C10473).\n\nIn the fourth year of the combined degree, International Honours students spend an academic year studying in the local language at a university in the country of their major and also complete an honours level research project under the supervision of a relevant UTS academic.\n\nEntry to the International Honours pathway is dependent on students maintaining a credit average (or higher) in both their International Studies and professional degree in their first three years of study, and on the availability of placements in particular majors.\n\nStudents in the course engage in practical, hands-on learning using technologies to create and manage secure networks, systems and devices. The course covers a broad range of current and emerging areas of cybersecurity, including system security, information security, network security, cloud security, mobile platform security, IoT security and privacy preservation. Learning is underpinned by a solid foundation in computing and information technology, preparing graduates to work in a variety of IT roles that draw on both their broad IT knowledge and cybersecurity specialist skillset.\n\nThe Bachelor of Cybersecurity Bachelor of International Studies (Honours) combines a professional degree with language and culture studies, enhancing professional training and career options by providing students with the opportunity to undertake studies at an overseas University.",
+  "awards": [
+    "Bachelor of Cybersecurity (BCybersecurity) Bachelor of International Studies (Honours) (BIntSt(Hons))"
+  ],
+  "faculty": [
+    "Engineering",
+    "and",
+    "Information",
+    "TechnologyArts",
+    "and",
+    "Social",
+    "Sciences"
+  ],
+  "study_level": "Undergraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "5 Year(s)",
+  "duration_parttime": "10 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "The Faculty of Engineering and Information Technology is seeking accreditation from the Australian Computer Society.",
+  "learning_outcomes": [
+    {
+      "number": 7,
+      "text": "Understand and engage with cultural diversities and employ effective strategies to operate within varied professional and everyday settings in Australia and internationally. (BIntStudies(Hons)) "
+    },
+    {
+      "number": 8,
+      "text": "Apply research methods and advanced theoretical knowledge to evaluate findings of complex problems in contemporary societies and cultures and conduct an independent research project. (BIntStudies(Hons)) "
+    },
+    {
+      "number": 9,
+      "text": "Communicate effectively and appropriately in an additional language for everyday and professional purposes. (BIntStudies(Hons)) "
+    },
+    {
+      "number": 10,
+      "text": "Engage critically with current issues to act in socially responsible ways in Australian and international settings. (BIntStudies(Hons)) "
+    },
+    {
+      "number": 11,
+      "text": "Communicate clearly and effectively in written and spoken language using diverse digital technologies. (BIntStudies(Hons)) "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "Inherent (essential) requirements are academic and non-academic requirements that are essential to the successful completion of a course.\n\nProspective and current students should carefully read the Inherent (Essential) Requirements Statement below and consider whether they might experience challenges in successfully completing this course. This Statement should be read in conjunction with the UTS Student Rules.\n\nProspective or current student concerned about their ability to meet these requirements should discuss their concerns with the Academic Liaison Officer in their faculty or school and/or UTS Accessibility Service on 9514 1177 or at accessibility@uts.edu.au.\n\nUTS will make reasonable adjustments to teaching and learning, assessment, professional experiences, course related work experience and other course activities to facilitate maximum participation by students with disabilities, carer responsibilities, and religious or cultural obligations in their courses.\n\nFor course specific information see the Faculty of Engineering & Information Technology Inherent (Essential) Requirements Statement.\n\nFor course specific information see the Bachelor of International Studies Diploma in Languages Inherent (Essential) Requirements Statement.",
+  "study_plans": [],
+  "notes": "This is an exit-only course. There is no direct admission to it. Current UTS students may be able to submit an Internal Course Transfer (Graduating) application to exit with this course. See the Course transfer page for further details.",
+  "admission_requirements": "None; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Career options include Security Analyst, Security Architect, IT Security Engineer, Cyber Security Officer, Incident Responder, Security System Developer, Information Security Auditor or Network Administrator. Options are enhanced by international experience, making students more marketable to prospective employers, including multinational companies.",
+  "course_structure": "Students are required to complete 240 credit points, comprising:\n\nInformation Technology core (48 credit points)\n\nCybersecurity (96 credit points)\n\n· Cybersecurity core (42 credit points)\n\n· Cybersecurity choice of (30 credit points)\n\n· Electives or a sub-major choice of (24 credit points)\n\nInternational Studies (96 credit points)\n\n· Intercultural Communication (8 credit points)\n\n· International Research Methods (8 credit points)\n\n· Contemporary Society subject (8 credit points)\n\n· Language and Culture subjects (32 credit points)\n\n· International Honours (40 credit points)\n\nThe Bachelor of International Studies (Honours) is completed over a minimum of three years and is not offered as a separate degree; it is completed only in combination with the professional degree program.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c09166.html",
+    "crawled_at": "2025-11-10T17:29:19.065389",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

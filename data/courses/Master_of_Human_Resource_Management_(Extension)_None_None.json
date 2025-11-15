@@ -1,0 +1,70 @@
+{
+  "course_code": "C04260",
+  "course_name": "Master of Human Resource Management (Extension)",
+  "credit_points": "96 Credit points",
+  "cricos_code": "077380B",
+  "overview": "The Master of Human Resource Management (Extension) provides students with the in-depth knowledge and skills necessary to contribute at a senior level to their organisation's human resources and people management functions.\n\nThe course is designed primarily for individuals who are currently employed or show the potential for employment, at senior policy-making levels in the fields of human resource management, employment/industrial relations, diversity and inclusion and change management.\n\nThe core subjects provide foundational HRM knowledge as well as enhancing students' academic literacy skills and knowledge of the business practice. The additional elective subject choices provide an opportunity to specialise more deeply in the human resource management discipline and to further enhance students' skills, professional practice, specialist knowledge and capabilities.",
+  "awards": [
+    "Master of Human Resource Management (MHRM)"
+  ],
+  "faculty": [
+    "Business"
+  ],
+  "study_level": "Postgraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "2 Year(s)",
+  "duration_parttime": "4 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "Students completing this degree are eligible to apply to the Australian Human Resources Institute (AHRI) for the Professional Member (MAHRI) status and/or advancement to a higher level of membership for those who have appropriate work experience.",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Develop and justify innovative solutions to complex HR problems that meet the interests, needs and values of both the organisation and the wider community "
+    },
+    {
+      "number": 2,
+      "text": "Communicate information clearly and persuasively to a diverse range of stakeholders "
+    },
+    {
+      "number": 3,
+      "text": "Work effectively in teams, deliver negotiated project outcomes, and formulate solutions while managing conflicting priorities "
+    },
+    {
+      "number": 4,
+      "text": "Implement and critically evaluate HR and management decisions that seek to balance diverse organisational interests with respect and dignity, social purpose and the common good "
+    },
+    {
+      "number": 5,
+      "text": "Synthesise advanced knowledge of complex human resource management theories and practices complemented by advanced technological skills to lead professional human resource management practice "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [
+    {
+      "name": "Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/f21deb27c3feee50020e061ad00131b3"
+    },
+    {
+      "name": "Spring commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/b21deb27c3feee50020e061ad00131ad"
+    }
+  ],
+  "notes": "None",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree, or an equivalent or higher qualification, or submitted other evidence of general and professional qualifications that demonstrates potential to pursue graduate studies.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Career options include positions in change management and general management, human resources, organisational training and development, employment/industrial relations and in diversity and inclusion.",
+  "course_structure": "Students must complete a total of 96 credit points made up of 15 subjects, comprising eleven core subjects (66 credit points), three electives subjects (18 credit points), and either Industry Research Project or Internship Experience (12 credit points).",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c04260.html",
+    "crawled_at": "2025-11-10T14:45:54.459110",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "course_code": "C09067",
+  "course_name": "Bachelor of Engineering (Honours) Diploma in Industry Practice",
+  "credit_points": "240 Credit points",
+  "cricos_code": "084099M",
+  "overview": "This program is a comprehensive preparation for careers in the professional practice of engineering. Students learn to deal with complex systems and manage large-scale projects using the most appropriate emerging technologies.\n\nThe course offers an authentic, professionally focused and practice-based education program with two sessions of internship (normally paid) in a real workplace setting. A number of the areas of study are available with explicit specialisations. For example, Civil Engineering is available with specialisations in Structures and Construction. Students can also focus on or broaden their studies by completing electives. By appropriate choice of electives, students can gain knowledge in a second engineering discipline, obtain a sub-major in a different field or study postgraduate-level subjects and apply for credit towards an engineering master's degree. The concept has been strongly endorsed in wide-ranging industry consultations. Interaction between work experience and academic curriculum is very strong, giving the program a depth that no other full-time academic course can match.",
+  "awards": [
+    "Bachelor of Engineering (Honours) in (name of Engineering major) Diploma in Industry Practice"
+  ],
+  "faculty": [
+    "Engineering",
+    "and",
+    "Information",
+    "Technology"
+  ],
+  "study_level": "Undergraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "5 Year(s)",
+  "duration_parttime": "10 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [
+    "603095",
+    "Civil Construction",
+    "Autumn Session, Spring Session603045",
+    "Electronic",
+    "Autumn Session, Spring Session603060",
+    "Data Science",
+    "Autumn Session, Spring Session603065",
+    "Chemical Process",
+    "Autumn Session, Spring Session603005",
+    "Civil & Environmental",
+    "Autumn Session, Spring Session603018",
+    "Civil Structures",
+    "Autumn Session, Spring Session603035",
+    "Electrical",
+    "Autumn Session, Spring Session603085",
+    "Software",
+    "Autumn Session, Spring Session603055",
+    "Mechanical",
+    "Autumn Session, Spring Session603040",
+    "Electrical & Electronic",
+    "Autumn Session, Spring Session603115",
+    "Mechanical & Mechatronic",
+    "Autumn Session, Spring Session603105",
+    "Flexible",
+    "Autumn Session, Spring Session603015",
+    "Civil",
+    "Autumn Session, Spring Session603130",
+    "Biomedical",
+    "Autumn Session, Spring Session603120",
+    "Mechatronic",
+    "Autumn Session, Spring Session"
+  ],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "The Bachelor of Engineering (Honours) with Diploma in Professional Engineering Practice, majoring in Civil Engineering, Civil and Environmental Engineering, Electrical Engineering, Flexible Engineering, Mechanical Engineering, Mechanical and Mechatronic Engineering, or Mechatronic Engineering, is fully accredited by Engineers Australia at the level of Professional Engineer and is recognised internationally by signatories to the Washington Accord. Biomedical Engineering, Data Science Engineering, Electrical and Electronic Engineering, Electronic Engineering, and Software Engineering majors are provisionally accredited with Engineers Australia, pending full accreditation. UTS is currently seeking provisional accreditation of the Chemical Process Engineering and Renewable Energy Engineering majors.",
+  "learning_outcomes": [],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "Inherent (essential) requirements are academic and non-academic requirements that are essential to the successful completion of a course.\n\nProspective and current students should carefully read the Inherent (Essential) Requirements Statement below and consider whether they might experience challenges in successfully completing this course. This Statement should be read in conjunction with the UTS Student Rules.\n\nProspective or current student concerned about their ability to meet these requirements should discuss their concerns with the Academic Liaison Officer in their faculty or school and/or UTS Accessibility Service on 9514 1177 or at accessibility@uts.edu.au.\n\nUTS will make reasonable adjustments to teaching and learning, assessment, professional experiences, course related work experience and other course activities to facilitate maximum participation by students with disabilities, carer responsibilities, and religious or cultural obligations in their courses.\n\nFor course specific information see the Faculty of Engineering & Information Technology Inherent (Essential) Requirements Statement.",
+  "study_plans": [
+    {
+      "name": "Chemical Process Engineering major, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/9a96e21647243250413994ed036d4335"
+    },
+    {
+      "name": "Civil Engineering major, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/fbc0aa9e83ec7650fed7d4326daad3eb"
+    },
+    {
+      "name": "Civil Engineering major, Construction Specialisation, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/7d72bed247643250413994ed036d4382"
+    },
+    {
+      "name": "Civil Engineering major, Structures Specialisation, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/cb77b69a47643250413994ed036d4316"
+    },
+    {
+      "name": "Civil and Environmental Engineering major, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/5abce21e47243250413994ed036d4341"
+    },
+    {
+      "name": "Data Science Engineering major, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/37c0aa9e83ec7650fed7d4326daad3dd"
+    },
+    {
+      "name": "Electrical Engineering major, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/5905835e47a43250413994ed036d4380"
+    },
+    {
+      "name": "Electrical and Electronic Engineering major, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/d4cdfad247a43250413994ed036d4319"
+    },
+    {
+      "name": "Electronic Engineering major, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/af890fd247e43250413994ed036d4315"
+    },
+    {
+      "name": "Mechanical Engineering major, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/157453d647283250413994ed036d43f4"
+    },
+    {
+      "name": "Mechanical and Mechatronic Engineering major, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/636dc75e47e43250413994ed036d4329"
+    },
+    {
+      "name": "Mechatronic Engineering major, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/5717979a47283250413994ed036d432d"
+    },
+    {
+      "name": "Renewable Energy Engineering major, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/d0ac935247683250413994ed036d43f1"
+    },
+    {
+      "name": "Software Engineering Engineering major, Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/3b3167d647683250413994ed036d4356"
+    }
+  ],
+  "notes": "None",
+  "admission_requirements": "Applicants must have completed an Australian Year 12 qualification, Australian Qualifications Framework Diploma, or equivalent Australian or overseas qualification at the required level.\n\nCurrent school leavers are advised to complete the Year 12 Engineering and IT Questionnaire. The questionnaire allows applicants to demonstrate their strong motivation to study engineering or IT at UTS and may assist applicants whose ATAR falls short of the required cut-off by up to three points.\n\nNon-current school leavers are advised to complete the employment question on their UAC application and provide supporting statements of employment to UAC, as adjustment factors may be applied on the basis of relevant work experience.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Career options depend on the major chosen.",
+  "course_structure": "Students are required to complete 240 credit points, comprising:\n\nThe major is selected at the time of application to the course; however, it is possible to apply to change major at a later date. Students admitted to the flexible major should decide by the end of the first year of full-time study whether to transfer to a designated major or continue with the flexible program.\n\nThe Diploma in Professional Engineering Practice is not offered as a standalone qualification.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c09067.html",
+    "crawled_at": "2025-11-10T16:53:43.643175",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

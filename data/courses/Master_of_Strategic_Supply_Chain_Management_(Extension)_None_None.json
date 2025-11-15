@@ -1,0 +1,70 @@
+{
+  "course_code": "C04325",
+  "course_name": "Master of Strategic Supply Chain Management (Extension)",
+  "credit_points": "96 Credit points",
+  "cricos_code": "082831D",
+  "overview": "The course offers a comprehensive and holistic set of skills in the strategic and tactical aspects of operations, logistics, procurement and supply chain management. Students emerge from the course with contemporary and relevant knowledge that allows them to manage complex business operations that may extend globally.\n\nThis enables students to address the ever-growing interest among business managers and academics in supply chains, the emergence of advanced service economies, connected information systems including disruptive technologies, cloud computing and data analytics, new management practices and approaches, and the pressure of global competition.\n\nThe Extension course with additional subject choices provides the opportunity to specialise more deeply in the core strategic and tactical aspects of network and logistics network design, as well as the systematic application of improvement methodology within operations, procurement and supply chain processes which help reduce variability and uncertainty through the supply chain, enabling better control of product and service qualities.",
+  "awards": [
+    "Master of Strategic Supply Chain Management (MStratSCM)"
+  ],
+  "faculty": [
+    "Business"
+  ],
+  "study_level": "Postgraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "2 Year(s)",
+  "duration_parttime": "4 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "This course has been accredited to MCIPS standards by the Chartered Institute of Procurement and Supply (CIPS). Following the completion of the course and three years' of relevant work experience, graduates are eligible to apply for MCIPS. Students who wish to apply for MCIPS must meet the following conditions:\n\nMore information is available from CIPS.\n\nCIPS offers complimentary student memberships to those undertaking an accredited program, for its duration whilst studying this program. Students are encouraged to avail student membership and enrol immediately as they start this program.\n\nFor queries related to CIPS accreditation, contact Dr Sanjoy Paul, program director of Strategic Supply Chain Management Programs",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Develop and justify innovative solutions that respond to community and business needs, and meet diverse challenges in strategic supply chain management "
+    },
+    {
+      "number": 2,
+      "text": "Communicate information clearly and persuasively to a diverse range of stakeholders "
+    },
+    {
+      "number": 3,
+      "text": "Work effectively in teams and with a range of supply chain stakeholders to deliver negotiated project outcomes "
+    },
+    {
+      "number": 4,
+      "text": "Implement and critically evaluate a range of decisions to create positive outcomes for society and the environment as strategic supply chain managers "
+    },
+    {
+      "number": 5,
+      "text": "Synthesise advanced knowledge of complex strategic supply chain management concepts and technological skills to lead professional practice in operations and supply chain management "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [
+    {
+      "name": "Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/af1d2f27c3feee50020e061ad001319c"
+    },
+    {
+      "name": "Spring commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/231d2f27c3feee50020e061ad00131a2"
+    }
+  ],
+  "notes": "None",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree, or an equivalent or higher qualification, or submitted other evidence of general and professional qualifications that demonstrates potential to pursue graduate studies.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Career options include positions in operations and quality management, inventory management, service and network management, supply chain management, risk management, logistics management, and strategic procurement in any business sector.",
+  "course_structure": "Students must complete a total of 96 credit points made up of 15 subjects, comprising fourteen core subjects (84 credit points), and one Industry Research Project or Internship Experience subject (12 credit points).",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c04325.html",
+    "crawled_at": "2025-11-10T15:15:25.076769",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

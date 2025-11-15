@@ -1,0 +1,64 @@
+{
+  "course_code": "C06148",
+  "course_name": "Graduate Diploma in Psychology",
+  "credit_points": "60 Credit points",
+  "cricos_code": "None",
+  "overview": "Individuals with psychology skills are in high demand across industries such as healthcare, education, marketing, science and research, and more – and this demand is forecasted to grow in the future.\n\nThe UTS Online Graduate Diploma in Psychology is designed for those seeking to use the power of psychology to help change lives within multiple contexts. Students of this course gain broad and coherent knowledge and skills in psychological science grounded in industry-leading standards of ethical thinking and cultural responsiveness.\n\nThe Graduate Diploma in Psychology offers a modern curriculum guided by the Australian Indigenous Psychology Education Project and the latest American Psychological Association Guidelines 3.0. Students of this course are part of an emerging mental health workforce that works effectively with, and for, Indigenous Australians.\n\nThe course has been developed by experienced practitioners and academics at the leading-edge of research, technology, and innovation in psychological science – so everything that students learn reflects the latest in psychological science.\n\nIt is delivered 100% online and accelerated, allowing students to continue working while gaining knowledge and skills in psychological science to make an immediate impact on their career.\n\nFor those interested in becoming a registered psychologist, the Graduate Diploma in Psychology can form part of their pathway.",
+  "awards": [
+    "Graduate Diploma in Psychology (GradDipPsych)"
+  ],
+  "faculty": [
+    "Graduate",
+    "School",
+    "of",
+    "Health"
+  ],
+  "study_level": "Postgraduate",
+  "location": [
+    "Online campus"
+  ],
+  "duration_fulltime": null,
+  "duration_parttime": null,
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "This UTS program is accredited with conditions by the Australian Psychology Accreditation Council (APAC).",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Evaluate knowledge and skills required for research and professional practice that is sensitive to diversity of individuals, culturally appropriate, and cognisant of the impacts of ongoing colonisation on the health and wellbeing of Indigenous Australians. "
+    },
+    {
+      "number": 2,
+      "text": "Apply psychological science to personal, professional, and societal goals. "
+    },
+    {
+      "number": 3,
+      "text": "Analyse and critique theory and research in psychology. "
+    },
+    {
+      "number": 4,
+      "text": "Practice effective interpersonal, teamwork, and communication skills appropriate to psychological research and practice. "
+    },
+    {
+      "number": 5,
+      "text": "Assemble knowledge and skills in psychology for self-directed pursuit of scholarly inquiry and professional development. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [],
+  "notes": "This course is offered fully online.",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree, or an equivalent or higher qualification, or submitted other evidence of general and professional qualifications that demonstrates potential to pursue graduate studies.\n\nApplicants must have one of the following UTS recognised qualifications or overseas equivalent: • Completed Advanced Diploma (AQF 6)  • Completed Bachelor's degree • Completed Graduate Certificate • Completed Graduate Diploma  • Completed Doctorate or Masters (Research or Coursework)\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "The UTS Online Graduate Diploma in Psychology is suitable for professionals from a diverse range of backgrounds and industries with no qualification in psychology. Graduates of this program develop an understanding of psychological principles and greater insight into human behaviour which they can apply in a range of disciplines such as healthcare, education, human resources, business management, accounting, communications, social work, and counselling. Graduates of this course may apply for the Graduate Diploma (Advanced) and continue their pathway to becoming a registered psychologist or researcher.\n\nRegistration pathways and requirements to becoming a psychologist An APAC accredited Level 1 program (e.g., the Graduate Diploma in Psychology) is the first step in the pathway towards registration as a psychologist in Australia. The second step is as an APAC accredited Level 2 program (e.g., the Graduate Diploma in Psychology (Advanced)). The third step is an APAC accredited Level 3 program (e.g., Master of Clinical Psychology). Once enrolled in a Level 3 program, students will apply for provisional registration.\n\nThe requirements for registration as a psychologist are determined by the Psychology Board of Australia (PsyBA) under the Australian Health Practitioner Regulation Agency (AHPRA). Please review the following for more information on requirements and registration:",
+  "course_structure": "This course comprises a total of 60 credit points. Students must complete a total of ten 6-credit-point coursework subjects.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c06148.html",
+    "crawled_at": "2025-11-10T16:24:13.191321",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

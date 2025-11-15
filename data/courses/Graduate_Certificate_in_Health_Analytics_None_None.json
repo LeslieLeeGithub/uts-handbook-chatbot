@@ -1,0 +1,61 @@
+{
+  "course_code": "C11329",
+  "course_name": "Graduate Certificate in Health Analytics",
+  "credit_points": "24 Credit points",
+  "cricos_code": "None",
+  "overview": "Public health is a non-clinical field of health that aims to prevent disease and injury, reduce health inequities and promote health across populations. Rather than working with individual patients, public health professionals are focused on enhancing health outcomes and improving health care solutions on a population level in developing and developed countries. In this course, students study approaches to analysing health data to improve the health of populations.\n\nDelivered in a flexible and convenient way, students can learn online. Course content is based on contemporary research and has been developed in close consultation with industry. The curriculum comprises subjects that provide a solid grounding of knowledge and skills required in any public health career. Students learn and are supported by academic staff who are highly experienced experts and researchers, recognised as leaders in epidemiology, biostatistics and health analytics.\n\nWith a career in public health, students can drive meaningful change that impacts large numbers of people. That’s because public health is focused on population-level outcomes. This course is open to individuals who are seeking a career in public health research or practice. The course gives students the skills in analysing data to improve health.",
+  "awards": [
+    "Graduate Certificate in Health Analytics (GradCertHAnalyt)"
+  ],
+  "faculty": [
+    "Health"
+  ],
+  "study_level": "Postgraduate",
+  "location": [
+    "Online campus"
+  ],
+  "duration_fulltime": null,
+  "duration_parttime": null,
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Demonstrate reflective critical through the critical appraisal of current practice, policy and research with the aim to enhance health care and healthcare outcomes, and transform health. "
+    },
+    {
+      "number": 2,
+      "text": "Locate and apply research and population health data for understanding surveillance, management, prevention of disease and illness and promotion of health. "
+    },
+    {
+      "number": 3,
+      "text": "Integrate advanced data analysis techniques with public health practices to facilitate effective and ethical decision-making. "
+    },
+    {
+      "number": 4,
+      "text": "Maintain professional accountability and a commitment to lifelong learning. "
+    },
+    {
+      "number": 5,
+      "text": "Communicate effectively and appropriately in challenging, complex and diverse situations. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [],
+  "notes": "This course is not offered to international students.",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree, or an equivalent or higher qualification, or submitted other evidence of general and professional qualifications that demonstrates potential to pursue graduate studies.\n\nApplicants who do not meet the above criteria for a threshold offer, such as applicants who do not have an undergraduate diploma or degree but whom have recent relevant work experience are also considered eligible.\n\nApplicants must present evidence of a capacity to undertake tertiary study via submission of a CV which may include details of completion of hospital or college certificates and professional or staff development.\n\nThe English proficiency requirement for local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Career options include data analyst, epidemiologist, health data analyst.",
+  "course_structure": "Students must complete a total of 24 credit points.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c11329.html",
+    "crawled_at": "2025-11-10T18:49:54.789428",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

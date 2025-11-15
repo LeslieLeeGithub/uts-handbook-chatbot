@@ -1,0 +1,73 @@
+{
+  "course_code": "C06126",
+  "course_name": "Graduate Diploma in Construction Management",
+  "credit_points": "48 Credit points",
+  "cricos_code": "098505J",
+  "overview": "Construction management is one of the most rapidly expanding sectors of specialisation in Australia. Construction management specialists have very good job prospects in both construction and infrastructure work areas. The particular mix of skills offered in this degree combine traditional project management frameworks along with specialised preparation in technological advancements and human factors that are a requirement for successful managers in the construction industry.\n\nThe course aims to provide graduates with management skills relevant to the operation of construction projects. The course utilises concepts associated with the Project Management Body of Knowledge (PMBOK®) as applied in the construction context. Key areas of construction management are covered in the course including: construction technology and regulations; time, cost and quality management; risk; professional ethics; industrial relations; communication; and contract administration. Student learning establishes underpinning construction management theory that is strongly supported by best practice case studies delivered by leading academics and practitioners, giving students access to relevant, real-world expertise that reflects the realities of today's construction sector. Through the use of digital technologies students receive hands-on experience with real-world estimating, programming and building information modelling (BIM) platforms. Students gain further knowledge in contracts administration, integrated project delivery, and communication and stakeholder management with the option to build specialist knowledge in a chosen elective subject.",
+  "awards": [
+    "Graduate Diploma in Construction Management (GradDipConsM)"
+  ],
+  "faculty": [
+    "Design,",
+    "Architecture",
+    "and",
+    "Building"
+  ],
+  "study_level": "Postgraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "1 Year(s)",
+  "duration_parttime": "2 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Identify ethical issues and operate with integrity, applying informed sound ethical judgments in professional contexts. "
+    },
+    {
+      "number": 2,
+      "text": "Effectively apply a variety of communication skills in professional contexts. "
+    },
+    {
+      "number": 3,
+      "text": "Generate innovative and creative solutions by adapting project management knowledge to meet contextual demands. "
+    },
+    {
+      "number": 4,
+      "text": "Demonstrate comprehensive knowledge of theoretical knowledge and principles relating to planning, managing, reflecting on and leading construction projects. "
+    },
+    {
+      "number": 5,
+      "text": "Apply critical thinking in the interpretation of theory and its practical application to construction projects. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "Inherent (essential) requirements are academic and non-academic requirements that are essential to the successful completion of a course.\n\nProspective and current students should carefully read the Inherent (Essential) Requirements Statement below and consider whether they might experience challenges in successfully completing this course. This Statement should be read in conjunction with the UTS Student Rules.\n\nProspective or current student concerned about their ability to meet these requirements should discuss their concerns with the Academic Liaison Officer in their faculty or school and/or UTS Accessibility Service on 9514 1177 or at accessibility@uts.edu.au.\n\nUTS will make reasonable adjustments to teaching and learning, assessment, professional experiences, course related work experience and other course activities to facilitate maximum participation by students with disabilities, carer responsibilities, and religious or cultural obligations in their courses.\n\nFor course specific information see the Faculty of Design, Architecture and Building Inherent (Essential) Requirements Statement.",
+  "study_plans": [
+    {
+      "name": "Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/b92def27c3feee50020e061ad0013144"
+    },
+    {
+      "name": "Autumn commencing, part time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/3d2def27c3feee50020e061ad0013147"
+    }
+  ],
+  "notes": "Students who do not meet the admission requirements below may begin with the Graduate Certificate and progress to the Graduate Diploma in Construction Management.\n\nGraduate Certificate in Construction Management --> Graduate Diploma in Construction Management",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree, or an equivalent or higher qualification, or submitted other evidence of general and professional qualifications that demonstrates potential to pursue graduate studies.\n\nApplicants must have one of the following:\n\nApplicants without a Bachelor's degree or equivalent may be considered on the ability to demonstrate equivalency through a minimum of 5 years relevant work experience, along with:\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "The course is aimed primarily at career changers, in particular those from other built environment industries interested in expanding their portfolio of skills. Career options include a range of management roles related to the construction sector, such as project, construction, design, environmental, site, contract or facility management; construction economics; quantity surveying; construction programming, cost engineering, estimating or property development.",
+  "course_structure": "Students must complete 48 credit points made up of 42 credit points of core subjects and 6 credit points of electives.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c06126.html",
+    "crawled_at": "2025-11-10T16:16:06.052744",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

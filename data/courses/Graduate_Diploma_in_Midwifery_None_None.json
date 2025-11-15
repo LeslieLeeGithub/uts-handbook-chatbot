@@ -1,0 +1,61 @@
+{
+  "course_code": "C07070",
+  "course_name": "Graduate Diploma in Midwifery",
+  "credit_points": "48 Credit points",
+  "cricos_code": "None",
+  "overview": "This course is designed to meet the graduate needs of registered nurses wishing to gain registration to practise in the area of midwifery. It provides a broad theoretical and clinical study in midwifery, and includes a discussion of professional, sociopolitical and ethico-legal issues related to the family, and research skills that enhance midwifery practice and interpersonal processes. Students undertake concurrent employment as a midwifery student in an accredited midwifery unit.\n\nThe Graduate Diploma in Midwifery at UTS is a highly competitive course which qualifies registered nurses to be professional midwives through the Nursing and Midwifery Board of Australia (NMBA). The course meets standards of midwifery education and practice at both the national and international level. Midwives are valued members of the health care workforce who are in high demand, in both the public and private health systems, and the current shortage is expected to continue for some time.",
+  "awards": [
+    "Graduate Diploma in Midwifery (GradDipMid)"
+  ],
+  "faculty": [
+    "Health"
+  ],
+  "study_level": "Postgraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": null,
+  "duration_parttime": null,
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "Nursing and Midwifery Board of Australia. See the faculty rules for more information.",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Evaluates and practices woman centred evidence informed care. "
+    },
+    {
+      "number": 2,
+      "text": "Critically analyses comprehensive theoretical knowledge that is applied through appropriate clinical judgement and skills to optimise maternal and neonatal outcomes. "
+    },
+    {
+      "number": 3,
+      "text": "Effectively communicates and collaborates respectfully and effectively in diverse contexts and interdisciplinary teams. "
+    },
+    {
+      "number": 4,
+      "text": "Makes informed and independent judgements to foster resilience and improve midwifery practice. "
+    },
+    {
+      "number": 5,
+      "text": "Actively contributes to the midwifery profession based on broad knowledge of the health system and a critical and evidence-informed approach to practice. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [],
+  "notes": "Applications are open for 2023 Summer commencement.\n\nThe subjects 92385 Promoting, supporting and protecting Breastfeeding (3cp) and 92384 Midwifery as Primary Healthcare: A public health strategy (3cp) will commence on 1 December 2023. Both subjects will be delivered through online modules and students will be expected to attend two (2) face-to-face workshops timetabled for late January and early February.\n\nLimited commonwealth-supported places are available.\n\nThis course is not offered to international students.",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree, or an equivalent or higher qualification, or submitted other evidence of general and professional qualifications that demonstrates potential to pursue graduate studies.\n\nApplicants must have:\n\n• Current registration as a nurse with the Nursing and Midwifery Board of Australia. Registration is confirmed via the National Register of Practitioners (opens an external site). • Concurrent employment in a midwifery student position. Applicants are required to apply through either: the centralised recruitment program for NSW public hospitals: MidStART. This process is administered by the NSW Department of Health Nursing and Midwifery Office. Or applying directly to NSW private hospitals to undertake a midwifery student program. Private hospitals that offer midwifery student positions include the Mater Hospital (check their website for details or contact the hospital directly), Sydney Adventist Hospital (applications open in June; check the hospital website for details), St George Private Hospital, North Shore Private Hospital. Prospective students need to contact private hospitals directly in order to apply for a midwifery position.\n\nApplicants need to apply to UTS for a position in the Graduate Diploma in Midwifery program. The application must be direct via UTS Online Application. UTS accepts applications for enrolment in this course from June of the year prior to commencement. We recommend you submit your UTS application before October, as applications received after this date may not be considered. While a student can apply for the program at UTS during the relevant application period, acceptance into the course is dependent on the applicant securing employment as a student midwife (midwifery student). See also the Application checklist.\n\nApplicants are selected on academic merit based on their grade point average.\n\nApppplicants need to be available to attend the UTS campus from late January and will be required to attend mandatory workshops in the first two (2) weeks of February.\n\nThe English proficiency requirement for local applicants with international qualifications is: Academic IELTS: 7.0 overall with a minimum score of 7.0 in each subset; or TOEFL: internet based: 94 overall, reading 24, listening 24, speaking 23, writing 27; or PTE: 65-72 overall with a minimum score of 65 in each subset; or OET: minimum score of B in each of the 4 components (listening, reading, writing and speaking).\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Career options include practising midwife in a hospital, community, and public and private settings in metropolitan and rural areas. Career progression opportunities include midwifery education, management and research, and consultancy and leadership roles.",
+  "course_structure": "Students must complete a total of 48 credit points, comprising nine compulsory subjects.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c07070.html",
+    "crawled_at": "2025-11-10T16:34:01.678213",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

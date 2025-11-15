@@ -1,0 +1,69 @@
+{
+  "course_code": "C04300",
+  "course_name": "Master of Clinical Psychology",
+  "credit_points": "96 Credit points",
+  "cricos_code": "084263D",
+  "overview": "The UTS Master of Clinical Psychology provides students with a practice-based and research-led education in clinical psychology, encompassing on-campus and online learning, on-campus and off-campus clinical placement, and research. The course is delivered in custom-built, state-of-the-art facilities including the on-campus 100 Broadway Clinic.\n\nThe course offers training in professional practice as a clinical psychologist. Uniquely, all academic staff are also experienced, currently practicing clinical psychologists. Through expert supervision in the university clinic, as well as on external placements, students develop strong clinical skills applicable to a wide range of clinical psychology areas of practice.",
+  "awards": [
+    "Master of Clinical Psychology (MClinPsych)"
+  ],
+  "faculty": [
+    "Graduate",
+    "School",
+    "of",
+    "Health"
+  ],
+  "study_level": "Postgraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "2 Year(s)",
+  "duration_parttime": null,
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "The Master of Clinical Psychology provides the fifth and sixth year of study required to register as a psychologist in Australia. Graduates are eligible, following two years of supervised practice (external to the university), for endorsement as a clinical psychologist with the Psychology Board of Australia (PsyBA) and full membership of the Australian Psychological Society, College of Clinical Psychologists, and/or the Australian Clinical Psychology Association.\n\nThe UTS program has full accreditation by the Australian Psychology Accreditation Council (APAC).",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Interpret, implement and evaluate psychological assessments and interventions using psychological theories, models and evidence to optimise client or organisational health. "
+    },
+    {
+      "number": 2,
+      "text": "Lead and collaborate, supporting an interdisciplinary approach, to provide ethically and legally accountable client-centred care, with awareness of own capabilities and limitations. "
+    },
+    {
+      "number": 3,
+      "text": "Engage in systematic enquiry, evaluating the evidence and reporting on individual and population psychological health status, using appropriate methodologies. "
+    },
+    {
+      "number": 4,
+      "text": "Engage in reflexive practice to evaluate and integrate emerging evidence into practice, and to promote the growth of personal and professional learning, and the education of others. "
+    },
+    {
+      "number": 5,
+      "text": "Practice consistent with national and global standards, and with awareness of socially and culturally diverse contexts, using a consultative approach to the formulation and implementation of management plans. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [
+    {
+      "name": "Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/1f1d2f27c3feee50020e061ad001312c"
+    }
+  ],
+  "notes": "Applications close 31 October. However, applications may close earlier (without notice), based on volume of applications received. It is recommended to apply early, as applications and eligibility for interview will be assessed on a rolling basis.\n\nSelected competitive applicants will be invited to interview throughout October and November.\n\nIndigenous applicants should apply via UTS Student Portal and will be contacted by the Indigenous Student Liaison Officer with further information. Indigenous applicants are welcome to submit cultural and/or community referees to accompany their application.\n\nApplicants are welcome to apply in the final session of their qualifying degree. If successful, applicants may receive a conditional offer pending the successful completion of their qualifying degree and/or any other conditions.\n\nEntry is highly competitive and assessment is based on grade point average (GPA), relevant experience in mental health services, academic and professional references and personal statement.\n\nFinally, it is important to note that meeting the eligibility requirements does not guarantee an interview or offer of a place in the course.",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree, or an equivalent or higher qualification, or submitted other evidence of general and professional qualifications that demonstrates potential to pursue graduate studies.\n\nFor this course, applicants must have successfully completed an Australian Psychology Accreditation Council (APAC) accredited Level 1 and Level 2 sequence in psychology within the last 10 years, with a first class or an upper second class Honours (2A) or equivalent overall mark, and be eligible for provisional registration with the Psychology Board of Australia.\n\nPsychology qualifications from overseas must be assessed by the Australian Psychological Society (APS) as equivalent to an APAC accredited four-year undergraduate sequence. The degree must include a major research thesis component. The APS does not assess psychology qualifications for the purpose of registration, and an additional assessment may be required by the Psychology Board of Australia for this purpose.\n\nFor Level 2 Graduate Diploma degrees, applicants must provide a completion letter from their University to confirm their equivalent honours class and grade.\n\nFor Level 2 Bachelor Honours degrees, applicants must provide a completion letter from their University to confirm their honours class and grade, if not stated on their transcript.\n\nApplications must include:\n\nApplications are assessed for interview based on academic performance, relevant experience in mental health, academic and professional references, and personal statement.\n\nSelected competitive applicants are invited to interview and final offers are dependent upon interview rank. At interview, applicants are assessed on their knowledge of research, clinical training, ethical practice as well as their interpersonal effectiveness and suitability for clinical practice. Final offers are ranked on interview performance.\n\nProfessional and clinical requirements\n\nAll successful applicants are required to:\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 7.0 overall with a minimum score of 7.0 in each subset; or TOEFL: internet based: 94 overall, reading 24, listening 24, speaking 23, writing 27; or PTE: 65-72 overall with a minimum score of 65 in each subset; or OET: minimum score of B in each of the 4 components (listening, reading, writing and speaking).\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Career options include work in hospitals, community health, specialist and private practice settings addressing, among others, adult mental health, child and family health, and drug and alcohol difficulties.",
+  "course_structure": "Students must complete 96 credit points, including 24 credit points of research, and 1000 clinical hours.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c04300.html",
+    "crawled_at": "2025-11-10T15:04:42.758840",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "course_code": "C06110",
+  "course_name": "Graduate Diploma in Engineering Management",
+  "credit_points": "48 Credit points",
+  "cricos_code": "109001E",
+  "overview": "This exit-only program allows students to gain in-depth knowledge and skills in engineering management. The course provides an opportunity for engineers and technical specialists to deepen the knowledge and skills gained in their first degree while expanding their managerial and professional engineering knowledge.\n\nThis program allows students to interface between engineering, technology and management. The integration of carefully tailored coursework delivers graduates who understand the professional, societal and environmental context and have developed a range of management and engineering capabilities to respond to it.",
+  "awards": [
+    "Graduate Diploma in Engineering Management (GradDipEM)"
+  ],
+  "faculty": [
+    "Engineering",
+    "and",
+    "Information",
+    "Technology"
+  ],
+  "study_level": "Postgraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "1 Year(s)",
+  "duration_parttime": "2 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "Inherent (essential) requirements are academic and non-academic requirements that are essential to the successful completion of a course.\n\nProspective and current students should carefully read the Inherent (Essential) Requirements Statement below and consider whether they might experience challenges in successfully completing this course. This Statement should be read in conjunction with the UTS Student Rules.\n\nProspective or current student concerned about their ability to meet these requirements should discuss their concerns with the Academic Liaison Officer in their faculty or school and/or UTS Accessibility Service on 9514 1177 or at accessibility@uts.edu.au.\n\nUTS will make reasonable adjustments to teaching and learning, assessment, professional experiences, course related work experience and other course activities to facilitate maximum participation by students with disabilities, carer responsibilities, and religious or cultural obligations in their courses.\n\nFor course specific information see the Faculty of Engineering & Information Technology Inherent (Essential) Requirements Statement.",
+  "study_plans": [],
+  "notes": "This is an exit-only course. There is no direct admission to it. Current UTS students may be able to submit an Internal Course Transfer (Graduating) application to exit with this course. See the Course transfer page for further details.",
+  "admission_requirements": "None; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Students who have a basic undergraduate engineering degree are able to enhance their ability and knowledge, enabling them to gain and hold employment in relevant engineering fields.",
+  "course_structure": "Candidates complete coursework subjects totalling 48 credit points of study.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c06110.html",
+    "crawled_at": "2025-11-10T16:08:18.232480",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

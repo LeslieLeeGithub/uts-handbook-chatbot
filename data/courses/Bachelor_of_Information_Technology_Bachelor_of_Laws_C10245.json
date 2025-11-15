@@ -1,0 +1,72 @@
+{
+  "course_code": "C10245",
+  "course_name": "Bachelor of Information Technology Bachelor of Laws",
+  "credit_points": "240 Credit points",
+  "cricos_code": "064382G",
+  "overview": "A combined qualification in IT and law can prepare students to leverage technology for professional gain. This combined degree emphasises practice-based IT skills that can be integrated into a legal career or comprehensive legal skills that can prepare students for the competitive world of IT.\n\nStudents study the fundamentals of law (such as ethics, criminal, tort, contracts and constitutional law, among others) and IT (including programming, networking, information and web systems) plus a range of specialist electives that reflect their professional interests. The Legal Futures and Technology major can also build additional technical expertise.\n\nBy completing the law component of this combined degree, students meet the academic requirements for admission to practise law in NSW. As well as gaining discipline-specific skills, students also build capabilities in critical thinking, problem solving, communication and collaboration that can serve them well in a wide range of workplace environments.",
+  "awards": [
+    "Bachelor of Information Technology (BIT) Bachelor of Laws (LLB)"
+  ],
+  "faculty": [
+    "LawEngineering",
+    "and",
+    "Information",
+    "Technology"
+  ],
+  "study_level": "Undergraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "5 Year(s)",
+  "duration_parttime": null,
+  "duration_sessions": "10",
+  "course_fee": "22750",
+  "course_intake": "Feb/ Jul",
+  "uac_codes": [
+    "609020",
+    "Autumn Session"
+  ],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "This course satisfies the requirements for admission to the Supreme Court of NSW as a lawyer, provided students complete a practical legal training (PLT) program, such as the Graduate Certificate in Professional Legal Practice (C11232).\n\nGraduates are eligible to apply for professional-level membership of the Australian Computer Society.",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Evaluate and apply a broad and coherent body of legal knowledge to demonstrate an understanding of the broader contexts in which legal issues arise, and the law operates. "
+    },
+    {
+      "number": 2,
+      "text": "Demonstrate professional integrity and accountability through the ability to analyse and respond to ethical challenges in legal practice. "
+    },
+    {
+      "number": 3,
+      "text": "Apply skills in legal research, critical analysis and evaluation to problems and questions in law to construct effective legal arguments. "
+    },
+    {
+      "number": 4,
+      "text": "Generate solutions to legal issues through effective collaboration and communicate accurately and persuasively with a variety of audiences. "
+    },
+    {
+      "number": 5,
+      "text": "Apply knowledge and skills to develop professional capabilities to work effectively with and for Indigenous peoples and communities across the law profession. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "Inherent (essential) requirements are academic and non-academic requirements that are essential to the successful completion of a course.\n\nProspective and current students should carefully read the Inherent (Essential) Requirements Statement below and consider whether they might experience challenges in successfully completing this course. This Statement should be read in conjunction with the UTS Student Rules.\n\nProspective or current student concerned about their ability to meet these requirements should discuss their concerns with the Academic Liaison Officer in their faculty or school and/or UTS Accessibility Service on 9514 1177 or at accessibility@uts.edu.au.\n\nUTS will make reasonable adjustments to teaching and learning, assessment, professional experiences, course related work experience and other course activities to facilitate maximum participation by students with disabilities, carer responsibilities, and religious or cultural obligations in their courses.\n\nFor course specific information see the Faculty of Law Inherent (Essential) Requirements Statement.",
+  "study_plans": [
+    {
+      "name": "Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/ff4de76b47f22650a31de422036d43b4"
+    }
+  ],
+  "notes": "None",
+  "admission_requirements": "Applicants must have completed an Australian Year 12 qualification, Australian Qualifications Framework Diploma, or equivalent Australian or overseas qualification at the required level.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): 91; Admission requirements for Chinese students (Gaokao score out of 750): 543; Admission requirements for students with GCE A Levels: 12; Admission requirements for Hong Kong students (HKDSE): 20; Admission requirements for Indian students (AISSC): 16.5; Admission requirements for Indian students (ISC): 90; Admission requirements for students with IB or Predicted IB: 33/38 ; Admission requirements for Malaysian students (STPM with 3 AL Subjects): 16; Admission requirements for Singaporean students (A Level): 12; Admission requirements for USA students (SAT 1): 1270; Admission requirements for UTS Foundation Studies students: 7.6",
+  "career_options": "Lawyers with IT skills are in demand. Career opportunities include lawyer or policy adviser in various government departments, in-house legal counsel to an IT or software company, or specialist in areas such as intellectual property, e-commerce and privacy or internet censorship. Alternatively, graduates can work as IT professionals in legal practice, legal publishing or private law firms.",
+  "course_structure": "The course comprises a total of 240 credit points, allowing students to graduate with the separate degrees of Bachelor of Information Technology and Bachelor of Laws. The study components for course completion are as follows.\n\nThe law component of 144 credit points is made up of:\n\nThe IT component of 96 credit points is made up of:\n\nFor a current listing of subjects in each course refer to the study package directory.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c10245.html",
+    "crawled_at": "2025-11-10T04:44:15.334730",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

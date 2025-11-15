@@ -1,0 +1,62 @@
+{
+  "course_code": "C04362",
+  "course_name": "Master of High Performance Sport",
+  "credit_points": "72 Credit points",
+  "cricos_code": "None",
+  "overview": "The Master in High Performance Sport is designed for students from diverse backgrounds and delivered using flexible learning methods suitable for working professionals, domestic and international students. The course structure enables full-time or part-time study where students can enter or exit at a Graduate Certificate (4 subjects), Graduate Diploma (8 subjects) or Master’s (12 subjects) level. This nested course structure provides a solid grounding of the knowledge and skills required in a variety of high performance sport careers whilst offering the opportunity to advance and tailor knowledge and skills development at an advanced level.\n\nThe course is developed and delivered in collaboration with industry experts from the field, with each subject comprising of a mix of theory and evidence-based practice. Research-inspired course content is delivered by world-leading academics and industry partners, which allows students to apply an expert level of knowledge and understanding to a range of areas that meets the diverse needs of the high performance sport industry. Graduates enter the workforce as expert and collaborative problem solvers, who are capable of leading, managing and inspiring in the field of high performance sport.\n\nIn the Master in High Performance Sport students undertake up to three professional internships with organisations in the sport industry. This allows students to apply their knowledge, develop professionally, and network with industry partners. Students are encouraged to develop their ideas and test these in real world environments with practical relevance. Current workplace employment may also be considered for supplemental credit towards these internships. With the completion of three internships, students may be eligible for individual professional accreditation with Exercise and Sport Science Australia (ESSA), the peak national professional association for sport and exercise scientists.\n\nStaff are highly respected globally in the field of sport and exercise science, health and human performance with extensive links to industry both locally and internationally. Their work focuses on collaborating with coaches to enhance athlete welfare and highlights the relationships between physical exercise and optimal performance, health and wellbeing in a range of diverse populations. Unique characteristics of the Master in High Performance Sport include its flexible curriculum, exposure to world-leaders in high performance sport and content suited to student-specific learning goals that meet the extensive requirements of industry.\n\nSubjects are delivered online, and students are able to contextualise their learning to their local industry and community needs as well as experience expertise from world leading sport performance professionals.\n\nAs subjects are delivered online, there is no requirement for international students to leave their home country and work integrated learning experiences can be organised locally.\n\nDomestic students also have access to the UTS Sport, Exercise & Rehabilitation building at the Moore Park Precinct, where students are supported by world-class infrastructure and state of the art research laboratories alongside several leading sporting organisations. This location provides a unique environment and access to teams and athletic organisations who can also offer students practical placements and internship opportunities.\n\nOverall, this course ensures graduates are prepared both theoretically and practically to succeed in a competitive, dynamic, and global environment to enable athletes and teams achieve lasting success.",
+  "awards": [
+    "Master of High Performance Sport (MHPSport)"
+  ],
+  "faculty": [
+    "Health"
+  ],
+  "study_level": "Postgraduate",
+  "location": [
+    "Moore Park Precinct"
+  ],
+  "duration_fulltime": "5 Year(s)",
+  "duration_parttime": "3 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Translate ongoing personal and professional development into practice through research, critical thinking, and reflection. "
+    },
+    {
+      "number": 2,
+      "text": "Synthesise expert knowledge and skills to solve real-world problems in high performance sport, guided by evidence-informed practice. "
+    },
+    {
+      "number": 3,
+      "text": "Apply leadership through interdisciplinary communication and collaboration in the field of high performance sport. "
+    },
+    {
+      "number": 4,
+      "text": "Model socially-responsible, legal, and ethical behaviour within interdisciplinary high performance sport environments. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [
+    {
+      "name": "Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/bf1d6f27c3feee50020e061ad0013139"
+    }
+  ],
+  "notes": "International students can study this course in online mode only and thus are not eligible for a student visa to study this course in Australia.",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree, or an equivalent or higher qualification, or submitted other evidence of general and professional qualifications that demonstrates potential to pursue graduate studies.\n\nApplicants who do not have an undergraduate degree but who have extensive relevant work experience may be considered eligible.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "The Master of High Performance Sport degree is designed for those seeking to work at an expert level in high performance sport, in a variety of settings. Graduates plan, deliver and analyse strategic approaches for elite athletes and coaches, aiming to enhance performance and reduce injury. Throughout the course, students develop skills in critical thinking to optimise holistic decision making and enable positive change through creative, effective and evidence-based solutions.\n\nCareer options include practitioner roles (eg sport scientist, strength and conditioning coach, performance analyst, high-performance manager) in a variety of sport settings (eg professional sporting organisations, national and international performance institutes, schools, university research institutions, government and non-government funded sporting programs).",
+  "course_structure": "Students must complete a total of 72 credit points, made up of 54 credit points of core subjects and 18 credit points of work integrated learning subjects.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c04362.html",
+    "crawled_at": "2025-11-10T15:16:42.748263",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

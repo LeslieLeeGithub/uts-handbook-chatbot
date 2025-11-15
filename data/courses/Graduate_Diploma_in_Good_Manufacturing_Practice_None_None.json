@@ -1,0 +1,77 @@
+{
+  "course_code": "C06115",
+  "course_name": "Graduate Diploma in Good Manufacturing Practice",
+  "credit_points": "48 Credit points",
+  "cricos_code": "084262E",
+  "overview": "The Graduate Diploma in Good Manufacturing Practice provides up-to-date and in-depth good manufacturing practice (GMP) knowledge within the pharmaceutical, biotechnology and medical device industries. It provides critical knowledge regarding regulations, compliance/GxP, product development and quality assurance within this heavily regulated industry, an essential ingredient for career development.\n\nThis is the only course of its kind in the Asia–Pacific region. The UTS: Pharmacy discipline has partnered with SeerPharma, the industry’s leading provider of technical compliance and quality assurance knowledge, to deliver students a practice-based and research-led education.\n\nDesigned by leading experts in the field, the course provides professional development options and career pathways for students at all levels of industry organisations. It is ideal for students wishing to commence or enhance their pharmaceutical industry manufacturing career with an industry-recognised qualification.",
+  "awards": [
+    "Graduate Diploma in Good Manufacturing Practice (GradDipGMP)"
+  ],
+  "faculty": [
+    "Graduate",
+    "School",
+    "of",
+    "Health"
+  ],
+  "study_level": "Postgraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "1 Year(s)",
+  "duration_parttime": "2 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Reflect on the importance of lifelong learning in the field of Good Manufacturing Practice and be able to source and use the most current regulatory documents. "
+    },
+    {
+      "number": 2,
+      "text": "Review and apply practices and processes using appropriate methodologies in a range of Good Manufacturing Practice fields. "
+    },
+    {
+      "number": 3,
+      "text": "Review and apply quality-focussed, evidenced-based, ethical and legally accountable solutions and/or approaches in collaboration with colleagues, clients and stakeholders across a range of Good Manufacturing Practice fields. "
+    },
+    {
+      "number": 4,
+      "text": "Apply local, national and global requirements in a range of Good Manufacturing Practice fields. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [
+    {
+      "name": "Distance, Autumn B commencing, part time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/901a2fafc3beee50020e061ad0013194"
+    },
+    {
+      "name": "Distance, Spring B commencing, part time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/dc1a2fafc3beee50020e061ad0013197"
+    },
+    {
+      "name": "On campus, Autumn B commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/541a2fafc3beee50020e061ad001318e"
+    },
+    {
+      "name": "On campus, Spring B commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/501a2fafc3beee50020e061ad0013191"
+    }
+  ],
+  "notes": "None",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree, or an equivalent or higher qualification, or submitted other evidence of general and professional qualifications that demonstrates potential to pursue graduate studies.\n\nThe above qualifications must be in one of the following related disciplines:\n\nApplicants who do not satisfy the above academic and additional requirements may be considered on the basis of general and professional qualifications that demonstrate potential to pursue graduate studies via submission of a CV.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Career options include:",
+  "course_structure": "Students must complete 48 credit points of study.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c06115.html",
+    "crawled_at": "2025-11-10T16:10:32.737007",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

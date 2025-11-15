@@ -1,0 +1,69 @@
+{
+  "course_code": "C04299",
+  "course_name": "Master of Orthoptics",
+  "credit_points": "96 Credit points",
+  "cricos_code": "084265B",
+  "overview": "The Master of Orthoptics provides the requisite in-depth knowledge, skills and experience to work as an orthoptist in the multidisciplinary eye healthcare sector. Innovative and practice-based in approach, it enables the development of specialist knowledge and skills while preparing students for changing practices in response to new evidence and rapidly emerging medical technologies. The UTS Master of Orthoptics is the only postgraduate course for orthoptics in Australia.\n\nThis course is delivered in a student-focused manner that integrates theoretical knowledge with professional practice, building on strong links with the orthoptic profession as well as other professional groups involved in eye and vision care and with industry. During the course, students undertake clinical placements at a variety of sites, including hospitals, private practices and rehabilitation settings. Students are required to take clinical placements in rural, regional or interstate areas of Australia including Indigenous populations, while there is also opportunity to undertake approved international placements. On-campus learning takes place in the Graduate School of Health's state-of-the-art facilities, which opened in 2019. Students have the opportunity to enhance their leadership skills while learning from internationally recognised teachers and researchers, and from practitioners who are at the forefront of implementing new knowledge and technologies in clinical practice.",
+  "awards": [
+    "Master of Orthoptics (MOrth)"
+  ],
+  "faculty": [
+    "Graduate",
+    "School",
+    "of",
+    "Health"
+  ],
+  "study_level": "Postgraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "2 Year(s)",
+  "duration_parttime": null,
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "The Master of Orthoptics is fully accredited by the Australian Orthoptic Board. Upon completion of the degree, graduates are eligible for registration as an orthoptist.",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Practice professional expertise and clinical reasoning to provide safe, responsible, and evidence-based orthoptic care for the benefit of the community. "
+    },
+    {
+      "number": 2,
+      "text": "Lead and collaborate within disciplinary and interdisciplinary health care teams to provide best practice health care and contribute to positive patient outcomes. "
+    },
+    {
+      "number": 3,
+      "text": "Utilise research knowledge and skills to analyse and synthesise literature, design research methodology and ethically conduct research in the field of orthoptics. "
+    },
+    {
+      "number": 4,
+      "text": "Engage in reflective practice to support lifelong learning and professional development that enhances patient outcomes and health service delivery. "
+    },
+    {
+      "number": 5,
+      "text": "Advocate for patients, clients, and communities to ensure person-centred and ethical approaches to practice and supporting equity in eye care delivery in national and global health systems. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [
+    {
+      "name": "Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/471d2f27c3feee50020e061ad0013123"
+    }
+  ],
+  "notes": "It is recommended that domestic and international students apply before 31 October. Applications will close once all places have been filled. It is recommended to apply early, as applications and eligibility for interview will be assessed on a rolling basis.\n\nIndigenous applicants should apply via UTS Student Portal and will be contacted by the Indigenous Student Liaison Officer with further information. Indigenous applicants are welcome to submit cultural and/or community referees to accompany their application.",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree, or an equivalent or higher qualification, or submitted other evidence of general and professional qualifications that demonstrates potential to pursue graduate studies.\n\nSelected applicants are required to undertake a short interview with a panel. Applicants are assessed in the areas of communication skills, interpersonal skills, interest in eye health, and commitment to orthoptics as a career.\n\nProfessional and clinical requirements\n\nAll successful applicants are required to:\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.5; or TOEFL: internet based: 79-93 overall with a writing score of 24; or AE5/AE6: Pass; or PTE: 58-64 overall with a writing score of 58; or C1A/C2P: 176-184 overall with a writing score of 176.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Career options include working in hospital, private practice and community settings providing paediatric and adult eye care, neuro-ophthalmic and low vision rehabilitation, with the option of employment in the ophthalmic industry and research.",
+  "course_structure": "Students must complete 96 credit points of study.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c04299.html",
+    "crawled_at": "2025-11-10T15:03:35.125289",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

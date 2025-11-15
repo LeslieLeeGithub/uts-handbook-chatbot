@@ -1,0 +1,71 @@
+{
+  "course_code": "C04259",
+  "course_name": "Master of Management (Extension)",
+  "credit_points": "96 Credit points",
+  "cricos_code": "077377G",
+  "overview": "The Master of Management enables students to develop an enterprise-wide view of organisations embedded in a global society, integrating views from back-office/shop-floor to boardroom to town-hall meetings. Such a view is deemed essential to prizing the work, people, places and processes needed in a publicly scrutinized global business environment. Students gain the knowledge, skills and conceptual frameworks to enable them to identify, question, and through deliberative processes, respond effectively to these complex and demanding issues. Public expectations of post-graduate managers are high when it comes to being prepared to make, defend and be morally accountable for their judgements impacting on people, communities and ecosystems.\n\nThis postgraduate course provides students with knowledge and experiences to enhance their professional and public responsibilities in leading and managing, and the stewardship of resources and enterprises. An innovative, flexible structure provides students with maximum choice in selecting subjects and programs of study tailored to meet their personal and professional needs.\n\nThe additional elective subject choices provide an opportunity to specialise more deeply in the management discipline and to enhance students' skills further, including with respect to professional practice, specialist knowledge and capabilities.",
+  "awards": [
+    "Master of Management (MM)"
+  ],
+  "faculty": [
+    "Business",
+    "Business"
+  ],
+  "study_level": "Postgraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "2 Year(s)",
+  "duration_parttime": "4 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Develop and justify innovative solutions that respond to community and business needs and meet challenges in diverse management contexts "
+    },
+    {
+      "number": 2,
+      "text": "Communicate information clearly and persuasively to a diverse range of stakeholders "
+    },
+    {
+      "number": 3,
+      "text": "Work effectively in teams, deliver negotiated project outcomes, and formulate solutions while managing conflicting priorities "
+    },
+    {
+      "number": 4,
+      "text": "Implement and critically evaluate a range of decisions to create positive outcomes for society and the environment as publicly accountable managers "
+    },
+    {
+      "number": 5,
+      "text": "Synthesise advanced knowledge of complex management concepts and technological skills in forming socially responsible judgments to lead professional management practice "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [
+    {
+      "name": "Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/6f19a36347b22650a31de422036d43ca"
+    },
+    {
+      "name": "Spring commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/ef19636347b22650a31de422036d4372"
+    }
+  ],
+  "notes": "None",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree, or an equivalent or higher qualification, or submitted other evidence of general and professional qualifications that demonstrates potential to pursue graduate studies.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Career options include general and senior management level positions in industry, not-for-profit, social enterprises or government.",
+  "course_structure": "Students must complete a total of 96 credit points made up of 15 subjects, comprising twelve core subjects (72 credit points), two electives subjects (12 credit points), and either Industry Research Project or Internship Experience (12 credit points).",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c04259.html",
+    "crawled_at": "2025-11-10T14:44:58.884345",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

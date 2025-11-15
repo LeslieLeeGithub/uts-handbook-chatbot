@@ -1,0 +1,57 @@
+{
+  "course_code": "C11306",
+  "course_name": "Graduate Certificate in Digital Marketing",
+  "credit_points": "24 Credit points",
+  "cricos_code": "None",
+  "overview": "The UTS Online Graduate Certificate in Digital Marketing is a unique multi-disciplinary program of study in digital marketing. With subjects drawn from UTS Business School and the Faculty of Arts and Social Sciences, students are provided with a course structure that is designed for data-driven and creative marketing professionals who want to prepare for the future of digital marketing.\n\nThe course is delivered fully online part-time, enabling students to continue to work full-time while attaining the digital marketing skills to take control of their career and apply the skills they learn in the course immediately at work, regardless of their industry.\n\nThe UTS Online Graduate Certificate in Digital Marketing is tailored to professionals who want to increase their skills due to the fact that like many other occupations, marketing is undergoing significant changes accelerated by new technology and big data.\n\nUnique to UTS Online, this course is designed with busy full-time working professionals in mind, studying this fully online course helps students to feel accomplished and supported at the same time.",
+  "awards": [
+    "Graduate Certificate in Digital Marketing (GradCertDMktg)"
+  ],
+  "faculty": [
+    "Business"
+  ],
+  "study_level": "Postgraduate",
+  "location": [
+    "Online campus"
+  ],
+  "duration_fulltime": null,
+  "duration_parttime": null,
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Evaluate innovative solutions utilising specialised digital marketing techniques to address business problems "
+    },
+    {
+      "number": 2,
+      "text": "Communicate collaboratively derived digital marketing ideas, decisions and strategies clearly to diverse audiences "
+    },
+    {
+      "number": 3,
+      "text": "Apply principles of sustainability, equity, and social responsibility to digital marketing practice "
+    },
+    {
+      "number": 4,
+      "text": "Apply specialised technological, professional, and strategic skills in digital marketing practice "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [],
+  "notes": "This course is offered fully online.\n\nThis course is not offered to international students.",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree, or an equivalent or higher qualification, or submitted other evidence of general and professional qualifications that demonstrates potential to pursue graduate studies.\n\nMinimum Academic Requirement: The previous qualification must be in a related field, within the business discipline.\n\nAll applicants who do not meet the minimum academic requirement in a related field may still be considered on the basis of: • a minimum of at least two years full time, or equivalent, relevant work experience in the marketing field.\n\nApplicants who do not meet the minimum academic requirement may still be considered on the basis of a minimum of four years full time, or equivalent, relevant work experience in the marketing field.\n\nThe relevant work experience must be demonstrated through a C.V. and a Statement of Service, confirming the dates of employment and the position held within the organisation.\n\nThe English proficiency requirement for local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Career options are incredibly varied as most companies across all industries need to understand their customer and respond, ethically, to harness the most valuable customers. Graduates from this program continue to develop their marketing career or if they are an experienced marketer they upgrade their knowledge in the tools and application of digital marketing strategies.",
+  "course_structure": "The course comprises a total of 24 credit points.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c11306.html",
+    "crawled_at": "2025-11-10T18:44:50.930887",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

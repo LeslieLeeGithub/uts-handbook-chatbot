@@ -1,0 +1,70 @@
+{
+  "course_code": "C07129",
+  "course_name": "Graduate Diploma in Strategic Supply Chain Management",
+  "credit_points": "48 Credit points",
+  "cricos_code": "055275G",
+  "overview": "The Graduate Diploma in Strategic Supply Chain Management extends the graduate certificate and provides the opportunity for further specialisation in supply chain management.\n\nThe course is designed to cater for the needs of those employed in the manufacturing or services sector, be it private, public or not-for-profit organisations, or whether it is a small- or medium-sized enterprise or a multinational corporation.\n\nBy completing this course, the student's suite of existing skills required to manage inter- and intra-organisational resources, capabilities, business operations and supply chain functions is significantly enhanced for superior performance, value creation and competitive advantage.",
+  "awards": [
+    "Graduate Diploma in Strategic Supply Chain Management (GradDipStratSCM)"
+  ],
+  "faculty": [
+    "Business"
+  ],
+  "study_level": "Postgraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "1 Year(s)",
+  "duration_parttime": "2 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Develop innovative solutions that respond to community and business needs within a strategic supply chain management context "
+    },
+    {
+      "number": 2,
+      "text": "Communicate information clearly and effectively to a diverse range of stakeholders "
+    },
+    {
+      "number": 3,
+      "text": "Work effectively in teams and deliver agreed project outcomes "
+    },
+    {
+      "number": 4,
+      "text": "Implement decisions to create positive outcomes for society and the environment as strategic supply chain managers "
+    },
+    {
+      "number": 5,
+      "text": "Apply advanced knowledge of strategic supply chain management concepts and technological skills to lead professional practice in operations and supply chain management "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [
+    {
+      "name": "Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/d12a232b47b22650a31de422036d436b"
+    },
+    {
+      "name": "Spring commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/952a232b47b22650a31de422036d436e"
+    }
+  ],
+  "notes": "None",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree, or an equivalent or higher qualification, or submitted other evidence of general and professional qualifications that demonstrates potential to pursue graduate studies.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Career options include management-level positions in manufacturing and service industries and areas traditionally associated with business operations management.",
+  "course_structure": "Students must complete a total of 48 credit points made up of 8 subjects, comprising seven core (42 credit points) and one subject (6 credit points) selected from a list of specialist subjects.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c07129.html",
+    "crawled_at": "2025-11-10T16:38:47.263280",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

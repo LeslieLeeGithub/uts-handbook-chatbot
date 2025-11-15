@@ -1,0 +1,59 @@
+{
+  "course_code": "C04267",
+  "course_name": "Master of Philosophy in Science",
+  "credit_points": "96 Credit points",
+  "cricos_code": "080272B",
+  "overview": "The Master of Philosophy in Science provides students with a unique opportunity to undertake original research and gain in-depth knowledge in their particular scientific field. Students have access to staff that are leading researchers and experts in their field. Undertaking this course allows students to explore their research potential and develop research skills. This course is designed to provide a pathway to the PhD program.\n\nThe course contains a choice of professional subjects relevant to all science disciplines. The subjects encompass the development of a suite of skills important to a professional scientist; be they engaged in research, science businesses, industries, or government organisations. These are the skills of communication, critical analysis, project management and innovation and commercialisation. The professional strand is complemented by a choice of major study in a specific science or mathematics field. The second half of the course comprises a substantial research component, giving students an opportunity to undertake original, cutting-edge research. For students with suitable achievement levels, this provides a pathway to a PhD, and can be used in the scholarship application process.",
+  "awards": [
+    "Master of Philosophy in Science in (name of Science major) (MPhilSc)"
+  ],
+  "faculty": [
+    "Science"
+  ],
+  "study_level": "Postgraduate",
+  "location": [],
+  "duration_fulltime": "2 Year(s)",
+  "duration_parttime": null,
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Demonstrate critical engagement with the appraisal of advanced knowledge and demonstrate advanced application of knowledge and technical skills to conduct research and generate new knowledge relevant to professional practice in science. "
+    },
+    {
+      "number": 2,
+      "text": "Assess, argue for, and conduct appropriate approaches to independent research and solving complex problems and apply a research methodology to address a research need in a relevant professional context. "
+    },
+    {
+      "number": 3,
+      "text": "Develop, prepare, and engage, at times collaboratively, in work practices that demonstrate an understanding of health and safety requirements, ethical conduct, risk management, organisation, record keeping and collaborative skills in the context of science. "
+    },
+    {
+      "number": 4,
+      "text": "Discover, create, and self-reflect on the processes used to determine the value, integrity, and relevance of multiple sources of information to derive innovative solutions to complex science problems. "
+    },
+    {
+      "number": 5,
+      "text": "Present and communicate complex ideas and justifications using appropriate communication approaches from a variety of methods (oral, written, visual) to communicate with discipline experts, scientists, industry, and the general public. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [],
+  "notes": "This course is not offered by direct entry. Admission is via Internal Course Transfer with faculty approval.\n\nNew majors are available in the Master of Philosophy in Science from 2023.",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree, or an equivalent or higher qualification, or submitted other evidence of general and professional qualifications that demonstrates potential to pursue graduate studies.\n\nThis program is normally available to students who have commenced in the Master of Science (Extension) (C04265) or Master of Science (C04241), and demonstrated exceptional academic achievement and research potential. Admission is via internal course transfer. Prospective students have to complete the supplementary faculty honours admission form and organise a supervisor and project.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Career options vary according to the major chosen, and all graduates have training in the professional attributes that employers seek. The skills learnt expand career horizons and enhance prospects for promotion in the rapidly evolving science professions. Graduates in all majors may also proceed to a career in research through entry to a PhD.",
+  "course_structure": "The course requires 96 credit points of study, comprising 24 credit points of professional stream subjects, a 24-credit-point major and a 48-credit-point intensive research component.\n\nThis honours component of the course is a research project that extends over the final year and normally takes the form of an experimental, analytical or theoretical investigation. Candidates may also be required to undertake one or more critical reviews of the literature in the area of their project. During the course of their research project, candidates are also offered workshops to help with the writing and interpretation of results. The results of the project are presented in an oral seminar and in a written thesis, both of which are formally assessed.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c04267.html",
+    "crawled_at": "2025-11-10T14:48:34.058581",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "course_code": "C11340",
+  "course_name": "Graduate Certificate in Cybersecurity Management",
+  "credit_points": "24 Credit points",
+  "cricos_code": "None",
+  "overview": "Cybersecurity Management is for technical professionals working with cybersecurity issues and challenges across an enterprise. Students develop abilities in analysing, planning, and strategising around cybersecurity incidents and solutions.\n\nBuilding an understanding of the legal regulation of cybersecurity and cybercrime, students examine cybersecurity policy development, explore deficiencies and the current state of cybersecurity governance. In particular, students develop their skills applying techniques such as data analytics for cybersecurity planning and get the opportunity to develop their leadership in managing cybersecurity.\n\nThe Graduate Certificate in Cybersecurity Management is designed for future-focused professionals who aspire to become growth-oriented technology leaders and want to develop enterprise leadership and organisational acumen to enable a sustainable, technology-driven future.\n\nDelivered fully online, with part-time study, this course enables students to work full time while attaining the technology management skills to take control of their career. Customising learning to meet career goals, students can immediately apply what they learn to make a greater impact in their current role and prepare for a technology-driven future.\n\nThe Graduate Certificate in Cybersecurity Management allows students to customise their learning to meet their professional aspirations and upskilling needs. Students engage and learn with globally connected teaching staff involved in cutting-edge research from Australia’s #1 ranked university for Computer Science and Engineering.\n\nStudents have access to YourCall, which is a capability and learning log unique to the Faculty of Engineering and IT. YourCall helps students plan, record, and share their learning throughout the course.\n\nUnique to UTS Online, this course is designed with busy full-time working professionals in mind. Studying this fully online course helps students to feel accomplished and supported at the same time.",
+  "awards": [
+    "Graduate Certificate in Cybersecurity Management (GradCertCybersecurityMgt)"
+  ],
+  "faculty": [
+    "Engineering",
+    "and",
+    "Information",
+    "Technology"
+  ],
+  "study_level": "Postgraduate",
+  "location": [],
+  "duration_fulltime": null,
+  "duration_parttime": null,
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "Inherent (essential) requirements are academic and non-academic requirements that are essential to the successful completion of a course.\n\nProspective and current students should carefully read the Inherent (Essential) Requirements Statement below and consider whether they might experience challenges in successfully completing this course. This Statement should be read in conjunction with the UTS Student Rules.\n\nProspective or current student concerned about their ability to meet these requirements should discuss their concerns with the Academic Liaison Officer in their faculty or school and/or UTS Accessibility Service on 9514 1177 or at accessibility@uts.edu.au.\n\nUTS will make reasonable adjustments to teaching and learning, assessment, professional experiences, course related work experience and other course activities to facilitate maximum participation by students with disabilities, carer responsibilities, and religious or cultural obligations in their courses.\n\nFor course specific information see the Faculty of Engineering & Information Technology Inherent (Essential) Requirements Statement.",
+  "study_plans": [],
+  "notes": "This course is offered fully online.\n\nThis course is not offered to international students.",
+  "admission_requirements": "Applicants must have completed a UTS recognised bachelor's degree, or an equivalent or higher qualification, or submitted other evidence of general and professional qualifications that demonstrates potential to pursue graduate studies.\n\nApplicants must have completed a UTS recognised bachelor's degree, or an equivalent or higher qualification, or submitted other evidence of general and professional qualifications that demonstrates potential to pursue graduate studies.\n\nIt is a requirement that the degree be in Computer Science, Information Technology, Information Systems, Business Data Analytics, Software Engineering or another comparable field.\n\nIn addition to the outlined qualifications, applicants must have at least one year full-time (or equivalent) experience through their contributions to organisations and/or communities and/or start-ups and/or entrepreneurship. For those applicants interested in the masters who do not meet the additional requirements for admission, this is an alternative entry point. This will be supported by submission of:\n\nAlternative admission pathway:\n\nApplicants who do not meet the academic qualification requirements for admission but have professional practice (three-year minimum) and a general capacity to undertake tertiary education may be considered. This will be supported by submission of:\n\nAssessment of other criteria:?\n\nDemonstrates experience in a technology or enterprise role related to cybersecurity management demonstrating skills of assumed prior knowledge required for the relevant course.\n\nThe English proficiency requirement for local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "Graduates from the Graduate Certificate in Cybersecurity Management have a variety of job roles available to them and are well equipped to lead and implement technology-led initiatives and transformation. Career options may include roles such as IT Systems Manager, Head of Technology, Chief Technology Officer (CTO), Cyber Security Director, Head of Cyber and Information Security, Chief Information Security Officer (CISCO), Group IT Governance, Security, Architecture, Global Head of Security & IT.",
+  "course_structure": "Students must complete 24 credit points, comprising of 6 credit points of ethical data management and regulation subject and 18 credit points of professional-focused subjects in cybersecurity and cybersecurity management.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c11340.html",
+    "crawled_at": "2025-11-10T18:58:15.861210",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

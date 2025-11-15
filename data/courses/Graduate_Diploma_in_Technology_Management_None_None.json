@@ -1,0 +1,43 @@
+{
+  "course_code": "C06142",
+  "course_name": "Graduate Diploma in Technology Management",
+  "credit_points": "48 Credit points",
+  "cricos_code": "None",
+  "overview": "The Graduate Diploma in Technology Management is an exit-only qualification for the Master of Technology Management (C04434). The course is designed for the future-focused professionals who aspire to be a sustainability focused technology leader. The portfolio consists of masters level subjects focused on leadership and organisational-acumen, supporting skills and knowledge development in technology, data and process management. Students build on the communication, critical thinking and leadership skills that inform strategic thinking and change management in technology rich enterprises. Students build capacity to lead the implementation of technology-lead initiatives, innovation and transformation: solving problems in technological lag and designing technology solutions for enterprise operations.",
+  "awards": [
+    "Graduate Diploma in Technology Management (GradDipTechMgt)"
+  ],
+  "faculty": [
+    "Engineering",
+    "and",
+    "Information",
+    "Technology"
+  ],
+  "study_level": "Postgraduate",
+  "location": [
+    "Online campus"
+  ],
+  "duration_fulltime": "5 Year(s)",
+  "duration_parttime": "3 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "None",
+  "learning_outcomes": [],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "Inherent (essential) requirements are academic and non-academic requirements that are essential to the successful completion of a course.\n\nProspective and current students should carefully read the Inherent (Essential) Requirements Statement below and consider whether they might experience challenges in successfully completing this course. This Statement should be read in conjunction with the UTS Student Rules.\n\nProspective or current student concerned about their ability to meet these requirements should discuss their concerns with the Academic Liaison Officer in their faculty or school and/or UTS Accessibility Service on 9514 1177 or at accessibility@uts.edu.au.\n\nUTS will make reasonable adjustments to teaching and learning, assessment, professional experiences, course related work experience and other course activities to facilitate maximum participation by students with disabilities, carer responsibilities, and religious or cultural obligations in their courses.\n\nFor course specific information see the Faculty of Engineering & Information Technology Inherent (Essential) Requirements Statement.",
+  "study_plans": [],
+  "notes": "This is an exit-only course. There is no direct admission to it. Current UTS students may be able to submit an Internal Course Transfer (Graduating) application to exit with this course. See the Course transfer page for further details.\n\nThis course is not offered to international students.",
+  "admission_requirements": "None; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "None",
+  "course_structure": "The course totals 48 credit points consisting of a combination of technology strategy streams and management, enterprise and technology choice subjects.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c06142.html",
+    "crawled_at": "2025-11-10T16:19:59.174901",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

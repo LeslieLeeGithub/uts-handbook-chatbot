@@ -1,0 +1,73 @@
+{
+  "course_code": "C10228",
+  "course_name": "Bachelor of Marine Biology and Climate Change",
+  "credit_points": "144 Credit points",
+  "cricos_code": "079735G",
+  "overview": "On a warming planet, the health of the planet’s oceans is more critical than ever. The uniquely hands-on UTS Bachelor of Marine Biology and Climate Change is the only degree of its kind in the Sydney region. It responds to Australia’s ongoing investment in the future of the Blue Economy by producing graduates who can shape the future of our vital marine ecosystems.\n\nTaught through the lens of climate change, course content spans the study of marine and aquatic environments delivered as a combination of theory, lab, and fieldwork experiences.\n\nWhy UTS Science?\n\nUTS Science, one of Australia’s leading university science faculties, is committed to scientific advancement that creates a more sustainable world. When students study with UTS, they join a university that delivers global impact in STEM education and research and a faculty that produces scientists with the power to transform the profession.\n\nCourse features",
+  "awards": [
+    "Bachelor of Marine Biology and Climate Change (BMarBiolClimChange)"
+  ],
+  "faculty": [
+    "Science"
+  ],
+  "study_level": "Undergraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "3 Year(s)",
+  "duration_parttime": "6 Year(s)",
+  "duration_sessions": "None",
+  "course_fee": "None",
+  "course_intake": "None",
+  "uac_codes": [
+    "607035",
+    "Autumn Session, Spring Session"
+  ],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "The course is recognised by the Australian Marine Science Association",
+  "learning_outcomes": [
+    {
+      "number": 1,
+      "text": "Demonstrate theoretical and technical knowledge of the principles of biodiversity, ecosystem function and climate change impacts in marine systems through the integration and evaluation of principles of sustainability and conservation to protect marine environments. "
+    },
+    {
+      "number": 2,
+      "text": "Critically evaluate scientific evidence and literature and apply effective and appropriate experimental design and analytical techniques to discover and hypothesise solutions to new and emerging marine and climate change issues. "
+    },
+    {
+      "number": 3,
+      "text": "Demonstrate professionalism, including personal organisation, autonomy, teamwork, while ensuring due consideration to ethical guidelines, work health and safety, sustainability goals and environmental impact requirements. "
+    },
+    {
+      "number": 4,
+      "text": "Evaluate evolving concepts in marine biology and apply scientific skills to design creative solutions to contemporary or complex marine issues by incorporating innovative methods, reflective practices, and self-directed investigation. "
+    },
+    {
+      "number": 5,
+      "text": "Communicate effectively and professionally (oral, written, visual), generating defensible, convincing arguments for relaying research findings and/or articulating complex issues, concepts or skill around marine and climate science, within a multi-disciplinary setting. "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "None",
+  "study_plans": [
+    {
+      "name": "Autumn commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/ff4de76b47f22650a31de422036d4376"
+    },
+    {
+      "name": "Spring commencing, full time",
+      "url": "https://coursehandbook.uts.edu.au/studyplan/774de76b47f22650a31de422036d4397"
+    }
+  ],
+  "notes": "None",
+  "admission_requirements": "Applicants must have completed an Australian Year 12 qualification, Australian Qualifications Framework Diploma, or equivalent Australian or overseas qualification at the required level.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): None; Admission requirements for Chinese students (Gaokao score out of 750): None; Admission requirements for students with GCE A Levels: None; Admission requirements for Hong Kong students (HKDSE): None; Admission requirements for Indian students (AISSC): None; Admission requirements for Indian students (ISC): None; Admission requirements for students with IB or Predicted IB: None; Admission requirements for Malaysian students (STPM with 3 AL Subjects): None; Admission requirements for Singaporean students (A Level): None; Admission requirements for USA students (SAT 1): None; Admission requirements for UTS Foundation Studies students: None",
+  "career_options": "In the United Nations Decade of the Ocean, marine biology is no longer solely a scientific discipline but a highly sought-after skillset across a wide range of industry settings. Students graduate with the technical and professional skills to deliver scientific innovation in a diversity of marine science roles, as well as in other sectors connected to Australia’s coastal systems.\n\nCareer options include ecologist, environmental chemist, environmental consultant, environmental scientist, research scientist, science policy officer or sustainability consultant, among others. Work in fisheries, national parks, zoos and aquariums, conservation and environmental protection agencies, infrastructure and development organisations, universities, and research institutes. Graduates can translate their scientific knowledge and professional expertise into careers in science communication, tourism, or consultancy opportunities in a wide range of organisations.",
+  "course_structure": "Students must complete a total of 144 credit points, made up of 120 credit points of core subjects and 24 credit points of elective subjects. The elective subjects enable students to increase their expertise in other areas of science or other disciplines in the University.\n\nStudents must satisfactorily complete all core subjects and the required number of credit points of elective for award of the degree.",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c10228.html",
+    "crawled_at": "2025-11-10T17:39:22.370912",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}

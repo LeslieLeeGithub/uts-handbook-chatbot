@@ -1,0 +1,67 @@
+{
+  "course_code": "C09070",
+  "course_name": "Bachelor of Engineering (Honours) Bachelor of Business",
+  "credit_points": "246 Credit points",
+  "cricos_code": "084091G",
+  "overview": "This combined degree is offered jointly by the Faculty of Engineering and Information Technology and the UTS Business School. It allows students to complete the core and major components of both the engineering and business degrees, producing engineers with skills in commercialisation of technology innovation and business graduates with professional-level competency in technology use.\n\nStudents learn how engineering and business fit together, how to manage technology and innovation, and how to commercialise engineering innovations. For graduates choosing to practise as engineers, the business knowledge gained in this course will prove invaluable in providing a sound foundation for entrepreneurial initiatives and the commercialisation of engineering innovations.\n\nThis combined degree can be completed in less time than would be required to complete the two degrees separately.",
+  "awards": [
+    "Bachelor of Engineering (Honours) in (name of Engineering major) (BE(Hons)) Bachelor of Business (BBus)"
+  ],
+  "faculty": [
+    "Engineering",
+    "and",
+    "Information",
+    "TechnologyBusiness"
+  ],
+  "study_level": "Undergraduate",
+  "location": [
+    "City campus"
+  ],
+  "duration_fulltime": "5 Year(s)",
+  "duration_parttime": "10 Year(s)",
+  "duration_sessions": "10",
+  "course_fee": "24500",
+  "course_intake": "Feb",
+  "uac_codes": [
+    "609350",
+    "Autumn Session, Spring Session"
+  ],
+  "language": "English",
+  "availabilities": [],
+  "professional_recognition": "The Bachelor of Engineering (Honours), majoring in Civil Engineering, Civil and Environmental Engineering, Electrical Engineering, Flexible Engineering, Mechanical Engineering, Mechanical and Mechatronic Engineering, or Mechatronic Engineering, is fully accredited by Engineers Australia at the level of Professional Engineer and is recognised internationally by signatories to the Washington Accord. Biomedical Engineering, Data Science Engineering, Electrical and Electronic Engineering, Electronic Engineering, and Software Engineering majors are provisionally accredited with Engineers Australia, pending full accreditation. UTS is currently seeking provisional accreditation of the Chemical Process Engineering and Renewable Energy Engineering majors.\n\nRefer to the Bachelor of Business (C10026) for details on professional recognition of that award.",
+  "learning_outcomes": [
+    {
+      "number": 7,
+      "text": "Apply evidence, creativity and critical reasoning to solve business problems. (BBus) "
+    },
+    {
+      "number": 8,
+      "text": "Communicate information clearly in a form appropriate for its audience. (BBus) "
+    },
+    {
+      "number": 9,
+      "text": "Demonstrate ability to work independently and with others as a member of a team to achieve an agreed goal. (BBus) "
+    },
+    {
+      "number": 10,
+      "text": "Make judgements and business decisions consistent with the principles of social responsibility and inclusion. (BBus) "
+    },
+    {
+      "number": 11,
+      "text": "Apply technical and professional skills to operate effectively in business. (BBus) "
+    }
+  ],
+  "structure_notes": null,
+  "structure": {},
+  "inherent_requirements": "Inherent (essential) requirements are academic and non-academic requirements that are essential to the successful completion of a course.\n\nProspective and current students should carefully read the Inherent (Essential) Requirements Statement below and consider whether they might experience challenges in successfully completing this course. This Statement should be read in conjunction with the UTS Student Rules.\n\nProspective or current student concerned about their ability to meet these requirements should discuss their concerns with the Academic Liaison Officer in their faculty or school and/or UTS Accessibility Service on 9514 1177 or at accessibility@uts.edu.au.\n\nUTS will make reasonable adjustments to teaching and learning, assessment, professional experiences, course related work experience and other course activities to facilitate maximum participation by students with disabilities, carer responsibilities, and religious or cultural obligations in their courses.\n\nFor course specific information see the Faculty of Engineering & Information Technology Inherent (Essential) Requirements Statement.",
+  "study_plans": [],
+  "notes": "None",
+  "admission_requirements": "Applicants must have completed an Australian Year 12 qualification, Australian Qualifications Framework Diploma, or equivalent Australian or overseas qualification at the required level.\n\nCurrent school leavers are advised to complete the Year 12 Engineering and IT Questionnaire. The questionnaire allows applicants to demonstrate their strong motivation to study engineering or IT at UTS and may assist applicants whose ATAR falls short of the required cut-off by up to three points.\n\nNon-current school leavers are advised to complete the employment question on their UAC application as adjustment factors may be applied on the basis of relevant work experience.\n\nThe English proficiency requirement for international students or local applicants with international qualifications is: Academic IELTS: 6.5 overall with a writing score of 6.0; or TOEFL: paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21; or AE5: Pass; or PTE: 58-64 with a writing score of 50; or C1A/C2P: 176-184 with a writing score of 169.\n\nEligibility for admission does not guarantee offer of a place.\n\n; Admission requirements for Australian students (ATAR): 80; Admission requirements for Chinese students (Gaokao score out of 750): 487; Admission requirements for students with GCE A Levels: 9; Admission requirements for Hong Kong students (HKDSE): 17; Admission requirements for Indian students (AISSC): 13; Admission requirements for Indian students (ISC): 83; Admission requirements for students with IB or Predicted IB: 28/33 ; Admission requirements for Malaysian students (STPM with 3 AL Subjects): 10; Admission requirements for Singaporean students (A Level): 9; Admission requirements for USA students (SAT 1): 1160; Admission requirements for UTS Foundation Studies students: 6.9",
+  "career_options": "Career options include working in a business career applying advanced technology in commercial settings or practising as an engineer where business knowledge helps to ensure success in commercialisation of engineering innovations. The course provides excellent training for senior management roles.",
+  "course_structure": "Students are required to complete 246 credit points, comprising 156 credit points in engineering and 90 credit points in business. The engineering component consists of core (36 credit points), major (field of practice) (114 credit points) and professional engineering practice (6 credit points). The business component consists of core (42 credit points) and major (48 credit points).\n\nThe engineering major is selected at the time of admission; however, it is possible to apply to change major at a later date. Students selecting the flexible major should decide by the end of the first year of full-time study whether to transfer to a designated major or continue with the flexible program.\n\nStudents wishing to graduate from the engineering component of the combined degree prior to completion of the business component must have completed the business core subjects (STM90108) and at least 30 credit points from their chosen business major (CBK90169).",
+  "metadata": {
+    "source_url": "https://handbook.uts.edu.au/courses/c09070.html",
+    "crawled_at": "2025-11-10T03:14:14.678519",
+    "csv_source": "merged_Admission_Courses.csv"
+  }
+}
